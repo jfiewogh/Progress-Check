@@ -1,0 +1,304 @@
+U>1
+	Q>A non governmental organization is planning a new international elementary education program. Based on the map shown, which of the following groups of countries would be the best candidates to receive funding?
+		P>Adult Literacy
+		T>1.3
+		I>VR021249.g05.png<>ADULT LITERACY RATE BY COUNTRY
+		N>Brazil, Bolivia, Peru
+			E>Countries in Latin America have some need in terms of improving literacy. However, countries in sub-Saharan Africa, such as Ethiopia, Somalia, and South Sudan, have the lowest literacy rates and would be most in need for international education programs.
+		N>Indonesia, Malaysia, Thailand
+			E>Countries in Southeast Asia have some need in terms of improving literacy. However, countries in sub-Saharan Africa, such as Ethiopia, Somalia, and South Sudan, have the lowest literacy rates and would be most in need for international education programs.
+		N>Mexico, Colombia, Ecuador
+			E>Countries in Latin America have some need in terms of improving literacy. However, countries in sub-Saharan Africa, such as Ethiopia, Somalia, and South Sudan, have the lowest literacy rates and would be most in need for international education programs.
+		N>Egypt, Libya, Saudi Arabia
+			E>Countries in North Africa and the Middle East have some need in terms of improving literacy. However, countries in sub-Saharan Africa, such as Ethiopia, Somalia, and South Sudan, have the lowest literacy rates and would be most in need for international education programs.
+		Y>Ethiopia, Somalia, South Sudan
+			E>Countries in sub-Saharan Africa, such as Ethiopia, Somalia, and South Sudan, have the lowest literacy rates and would be most in need for international education programs.
+	Q>Which of the following best describes the spatial pattern of adult literacy rates presented in the map?
+		P>Adult Literacy
+		T>1.3
+		I>VR021249.g05.png<>ADULT LITERACY RATE BY COUNTRY
+		N>It provides an economic perspective on the productivity of each country's workforce.
+			E>Although literacy affects a country's economic capabilities, productivity would be measured with economic data on per capita production (e.g., GDP per capita, GNP per capita), which would provide a more accurate indicator of economic development. From a social perspective, the literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
+		N>It provides an economic perspective on earnings for each country's population.
+			E>Although literacy affects a country's economic situation, earnings would be measured with economic data on per capita income (e.g., GNI, median household income), which would provide a more accurate indicator of economic development. From a social perspective, the literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
+		N>It provides a political perspective on each country's level of civic participation.
+			E>Although literacy affects a country's political participation, civic participation would be measured with data on voting or membership in political parties, which would provide a more accurate indicator of political development. From a social perspective, the literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
+		N>It provides a political perspective on each country's system of government.
+			E>Although literacy affects a country's political participation, the system of government doe not directly relate to a country's level of development. From a social perspective, the literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
+		Y>It provides a perspective on each countrys level of social development.
+			E>The adult literacy rate is one indicator of how far each contry is developed socially. The literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
+	Q>The darkest shading on the map indicates the areas with the highest population densities. Which of the following statements best describes the pattern of population density shown?
+		P>New York Density
+		T>1.6
+		I>VR021322.g01.png<>NEW YORK POPULATION DENSITY AT DIFFERENT SCALES
+		N>Manhattan appears to have the lowest population density at all three scales.
+			E>Manhattan is clearly a dark shade in all three maps, so it cannot have the lowest population. Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
+		N>New York City's hinterlands have the highest population density.
+			E>At both the state and city scales, the hinterlands around New York City are lighter in color and therefore lower in population density. Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
+		N>Population densities appear to be uniform at all three scales.
+			E>All the maps show clear variation in population density, regardless of scale. Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
+		N>New York City and New York State have similar population densities.
+			E>New York City has more dark-shaded areas than New York state. Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
+		Y>Manhattan appears to have the highest population desity at all three scales.
+			E>Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
+	Q>Which spatial patterns on the map shown would be most helpful to someone selecting the location for a new coffee shop?
+		P>New York Density
+		T>1.4
+		I>VR021322.g01.png<>NEW YORK POPULATION DENSITY AT DIFFERENT SCALES
+		N>The map of New York State, because it shows the least and most densely populated counties in the state.
+			E>While the map does show the population density of counties throughout the state, the level at which the population data are aggregated would not be very usefl in identifying an optimal retail location. The selection of retail locations requires more local-scale data.
+		N>The map of New York City, because it shows which boroughs have the greatest number of people.
+			E>While the map does show the population of larger neighborhoods, at this scale it would be difficult to identify a specific retail location. The selection of retail locations requires more localized data, given the large population of the city.
+		Y>The map of the Borough of Manhattan, because it shows both population density and the pattern of streets.
+			E>This map is best suited to the purpose of retail location because it is the largest-scale map and shows the greatest amount of detail. When attemping to find an optimal retail location, these are key factors in the decision-making process.
+		N>The map of the state of New York, because it shows where the largest cities are located.
+			E>While the map does illustrate the location of large population centers, that information is only partially useful in determining the best location for a coffee shop. The information in the state-level map does not provide enough local-scale detail to determine the location for a coffee shop.
+		N>The map of the Borough of Manhattan, because it shows the shoreline of the island of Manhattan.
+			E>In contrast to the other two maps, this map does allow for easy identification of the Island of Manhattan. However, the shoreline alone is not sufficient information for identifying the location of a new coffee shop.
+	Q>Which of the following geospatial technologies is typically used to analyze the data layers such as those shown in the maps?
+		P>GIS Layers
+		T>1.2
+		I>VR021393.g01.png<>COUNTY-LEVEL DATA
+		N>Aerial photography interpretation
+			E>Aerial photography can produce certain forms of geospatial data, mainly images of surface geography and be used for land-use or land-cover analyses. However, aerial photography cannot be used to analyze or map numercial population statistics for residential areas, as is done with geographic information systems (GIS).
+		N>Satellite navigation systems
+			E>Satellite navigation systems integrate global positioning system data from satellites with geographic information system maps to provide vehicles and drivers with directions and wayfinding information. Satellite navigation is not used to analyze or map population statistics for residential areas, as is done with geographic information systems (GIS).
+		N>Remote sensing satellites
+			E>Remote sensing satellites can produce certain forms of geospatial data, mainly images of Earth's surface in different wavelengths of light and electromagnetic energy. However, remote sensing images cannot be used to analyze or map numerical population statistics for residential areas, as is done with geographic information systems (GIS).
+		Y>Geographic information systems (GIS)
+			E>Geographic information systems (GIS) are used to organize, analyze, and map geospatial data such as population statistics or farm scales. GIS can organize statistical data into layers where it can be displayed using different methods, such as the data shown in the map layers of counties.
+		N>Global positioning system (GPS)
+			E>Global positioning systems (GPS) are satellite etworks that can be used to produce location data, survey landscapes, and provide data for navigation systems. However, GPS cannot be used to analyze or map numerical population statistics for residential areas, as is done with geographer information systems (GIS).
+	Q>The maps show data most likely collected through
+		P>GIS Layers
+		T>1.2
+		I>VR021393.g01.png<>COUNTY-LEVEL DATA
+		N>election results
+			E>Election results do not yield information about population density. Data about age and numbers of persons per household are collected in census surveys.
+		Y>census surveys
+			E>Questions about age and numbers of persons per household are found on census surveys. Such surveys provide an important source of information for researchers that are sued to calculate several spatial statistics such as population density.
+		N>satellite imagery
+			E>Although geographers might layer population data with satellite imagery and other geographic system data, the maps do not show satellite-image data. Data about age and numbers of persons per household are collected in census surveys.
+		N>informal observation
+			E>Informal observation does not usually include reliable or sufficiently large samples to yield statistical spatial data for the census. Data aboaut age and numbers of persons per household are collected in census surveys.
+		N>interviews
+			E>While census data may be supplemented with interviews, it is not likely that interviews would be the primary source of spatial data for an area as large as the United States. Data about age and numbers of persons per household are collected in census surveys.
+	Q>Which of the followign types of information is shown in the table?
+		P>Statistics for German States
+		T>1.2
+		I>VH901705.g01.png
+		N>Tax records
+			E>A tax agency would collect information on number of children, but it is unlikely to collect cultural information such as average life expectancy for entire states. A census agency has the ability to survey the population and report on a number of statistics at the state or country scale.
+		N>Military enlistments
+			E>Military enlistments would only include information on current and past members of the country’s military. A census agency has the ability to survey the population and report on a number of statistics at the state or country scale.
+		Y>Census data
+			E>A census agency has the ability to survey the population and report on a number of statistics at the state or country scale. These data can then be shared with a ariety of government agencies or the public.
+		N>Diplomatic records
+			E>A diplomatic service is mainly concerned with a government’s relations with other countries and is unlikely to collect such detailed information on the population within its own country. A census agency has the ability to survey the population and report on a number of statistics at the state or country scale.
+		N>School enrollments
+			E>An education department might collect some population information but is less likely to collect information on the average life expectancy for entire states. A census agency has the ability to survey the population and report on a number of statistics at the state or country scale.
+	Q>Which of the following statements best explains the concept of sustainability?
+		P>Sustainability
+		T>1.5
+		N>Natural resources are the domain of humans because of the ability of humans to take appropriate action for their use without fear of resource depletion.
+			E>The idea that humans have dominion over natural resources is a utilization perspective that does not take into account that the volume of resources is limited and can become depleted by human action. The concept of sustainability is a process where the environmentally balanced conservation and preservation of natural resources will provide for the needs of future generations.
+		N>Natural resources should be used until they become too scarce or too expensive because of the immediate need for human survival.
+			E>The idea that humans can use natural resources until they become depleted is a utilization perspective that is not concerned with the balance between nature and society’s long-term resource needs. The concept of sustainability is a process where the environmentally balanced conservation and preservation of natural resources will provide for the needs of future generations.
+		Y>Natural resource use should be balanced with the needs of the enviroment and future generations because many resources are nonrenewable.
+			E>The concept of sustainbility is the principle that since many natural resources are nonrenewable, all natural resource use should be managed in a way that is balanced with the enviroment and at a rate such that future generations may be able to meet their needs.
+		N>Natural resources will be replaced by technological goods because of concerns that all natural resources will become obsolete within the next generation.
+			E>The idea that technological innovations will eventually replace natural resources is part of a sustainability idea that alternatives to resources can be developed in the future. However, this idea does not account for the current rates of natural resource use, which may permanently damage the environment or prevent future generations from having access to natural resources.
+		N>Natural resource use should be generate economic profits because of the new technologies that make procuring the resources cost effective.
+			E>The idea that economic profits are the outcome of natural resource use is a utilization perspective that does not take into account that the volume of resources is limited and can become depleted by human action. The concept of sustainability is a process which the environmentally balanced conservation and preservation of natural resources will provide for the needs of future generations.
+	Q>In 1854, London physician Dr. John Snow mapped the spatial relationship between deaths from the waterborne disease cholera and the locations of water pumps which brought in water directly from tunnels connected to the River Thames. From Snow's research it was determined that a public water pump had been contaminated by sewage. What geographic principle explains the significance of Snow's research?
+		P>Broad Street Pump
+		T>1.5
+		N>As cities remove natural resources from the landscape, those resources become insignificant.
+			E>
+		N>Even in areas of urban land use, there is a significant relationship between nature and society.
+			E>
+		Y>Once water enters an area of urban land use, that water is no longer considered a natural resource.
+			E>
+		N>The prosperity of a society is determined by enviromental factors, such as the availability of natural resources.
+			E>
+		N>Societies leave a cultural imprint on the land, such as the pattern of streets and water systems.
+			E>The idea that societies leave a significant imprint on the land is classified as possibilism. Snow's research identified an important link between nature and society in urban areas. However, his research did not examine the human imprint on the land, as much as his work illustrated the geography of nature's impacts on humans. Nature and society as a geographic concept is important to understanding this relationship between urban land use and the increased demand for natural resources.
+	Q>Which of the following questions must be answered in order to identify a functional region?
+		P>Functional Region
+		T>1.7
+		N>What specific characteristic defines a region?
+			E>A specific characteristic (e.g., language) that defines a region may not indicate what type of region it is. The functional region is a type of region with a node where activity is centered.
+		N>What general characteristics define the area's identity?
+			E>General characteristics (e.g., mountains, climate) that define a region may not indicate what type of region it is. The functional region is a type of region with a node where activity is centered.
+		N>What do people call the region?
+			E>The name of a region, while interesting in the context of a vernacular region, does not delineate a functional region. The functional region is a type of region with a node where activity is centered.
+		N>What languages are spoken in the area?
+			E>Spoken languages are a type of regional characteristic, but they do not delineate a functional region. The functional region is a type of region with a node where activity is centered.
+		Y>What area is influenced by a node?
+			E>A functional region is defined by the extent of the influence of its node.
+	Q>For centuries, sugar crystals were made from the evapored juice of sugarcane, a plant grown only in tropical and subtropical cliamtes. In the 1800s, industrial methods were developed to manufacture crystalline sugar from sugar beets. This allowed for large amonts of sugar to be produced in colder, temperate climate zones. Which of the following geographic concepts best explains the ability of humans to use technology to overcome the limitations of climate and modify the landscape?
+		P>Sugar Beets and Possibilism
+		T>1.5
+		N>Environmental determinism
+			E>The theory of environmental determinism would suggest that all sugar production would be located in warmer climates. Possibilism holds that humans adapt to the natural environment rather than allowing the environment to determine human actions.
+		Y>Possibilism
+			E>Humans adapted to the natural environment by developing ways to produce sugar in less favorable climates. The theory of possibilism holds that humans adapt to the natural environment rather than allowing the environment to determine human actions.
+		N>Cultural relativism
+			E>Cultural relativism relates to viewing cultural values through the eyes of the society that lives by them. Possibilism holds that humans adapt to the natural environment rather than allowing the environment to determine human actions.
+		N>Contagious diffusion
+			E>The case of sugar beets is not an example of diffusion. In this case a new technology was developed, as opposed to the movement of an existing technology to a new place. Possibilism holds that humans adapt to the natural environment rather than allowing the environment to determine human actions.
+		N>Political ecology
+			E>Political ecology relates to political influences on the environment; this concept is not related to the case of sugar beets. Possibilism holds that humans adapt to the natural environment rather than allowing the environment to determine human actions.
+	Q>Which of the following map scales would be used for the topographic map shown?
+		P>Topographic Map Selection
+		T>1.6
+		I>VH911290.g03.png<>TOPOGRAPHIC MAP, CAPULIN VOLCANO NATIONAL MONUMENT, NEW MEXICO
+		Y>1:24,000
+			E>Large-scale topographic maps are generally published at 1:24,000 scale. This example has a linear scale of 0.5 miles, and the map shows an area 1.5 miles wide or around 8,000 feet. 1:24,000 means one inch on the map equals 24,000 inches in the real word, or 1 inch = 2000 feet. The map is 4 inches wide, equaling about 8,000 feet in the real world.
+		N>1:250,000
+			E>1:250,000 would be a medium-scale map with some topographical detail, but not enough to show the detailed contours of a mile-wide volcano. Large-scale topographic maps are generally published at 1:24,000 scale.
+		N>1:500,000
+			E>1:500,000 would be a medium-scale map with little topographical detail. Large-scale topographic maps are generally published at 1:24,000 scale.
+		N>1:1,000,000
+			E>1:1,000,000 would be a small-scale map with little topographical detail. Large-scale topographic maps are generally published at 1:24,000 scale.
+		N>1:5,000,000
+			E>1:5,000,000 would be a small-scale map with very little topographical detail. Large-scale topographic maps are generally published at 1:24,000 scale.
+	Q>Which of the following concepts best explains the differences among the values shown in the table?
+		P>Scale of Analysis
+		T>1.6
+		I>Screenshot 2023-04-15 000830.png
+		N>Spatial analysis
+			E>Spatial analyses would investigate data for places all at the same scale. The places listed in the table are at different scales.
+		Y>Scale of analysis
+			E>The same data are shown at three different scales of analysis. The number of housing units increases significantly from the city to county to state level. The increasing number of housing units, as the data goes from the local to the state scale, affects the average value of the price for homes to purchase or rent.
+		N>Map scale
+			E>Map scale is the mathematical ratio of distance on a map compared to distance on the Earth’s surface. As a mathematical ratio, map scale is different from scale of analysis, which refers to levels such as state, county, or city.
+		N>Relative location
+			E>A relative location is the geographic description of a place relative to another place, e.g., “Baltimore is about an hour’s drive northeast of Washington, D.C.” The data in the table do not indicate the relative location between places.
+		N>Relative direction
+			E>Relative direction is the geographic description of a route or pathway relative to another location, e.g., “From the Capitol, walk to the Washington Monument and turn right to see the White House.” The data in the table do not indicate the relative direction from one place to another.
+	Q>With the dawn of the Jet Age, international airline travel increased rapidly after 1950, and much of this early growth in jet travel was between Europe and North America. Which of the following best describes the spatial pattern suggested by the table?
+		P>Relative Distance
+		T>1.4
+		I>Screenshot 2023-04-15 001212.png<>INTERNATIONAL AIR TRAVEL
+		N>The volume of trade between Europe and North America increased.
+			E>The flow of goods between Europe and North America was not affected by the increased number of flights or decreased number of passenger ships. Shipping by cargo ships increased over time. With the reduction in travel time from days aboard a ship to hours of a flight, the relative distance between Europe and North America was reduced.
+		N>The size of aircraft traveling between Europe and North America decreased.
+			E>With the increased volume of travelers flowing between Europe and North America, the demand for larger aircraft also increased. With the reduction in travel time from days aboard a ship to hours of a flight, the relative distance between Europe and North America was reduced.
+		N>The linear distance between Europe and North America decreased.
+			E>The actual linear distance traveled in most cases either stayed the same or increased for passengers, as jet travel often required connecting stops in hub airports that were not in a straight line from departure city to destination city. Ship travelers also had to take trains from inland cities to port cities before boarding ships. With the reduction in travel time from days aboard a ship to hours of a flight, the relative distance between Europe and North America was reduced.
+		N>The absolute distance between Europe and North America increased.
+			E>Absolute distance is defined by the direct linear distance between two points on a map. The absolute distance between points in Europe and North America was unchanged by jet travel. With the reduction in travel time from days aboard a ship to hours of a flight, the relative distance between Europe and North America was reduced.
+		Y>The relative distance between Europe and North America decreased.
+			E>Relative distance is defined by the travel time or ease of travel between two locations. With the reduction in travel time from days aboard a ship to hours of a flight, the relative distance between Europe and North America was reduced.
+	Q>Based on the geospatial data in the example shown, which combination of technologies provides real-time data to emergency call centers to route police, fire, and ambulance vehicles directly to incidents in the shortest possible travel time?
+		P>GIS and GPS Combined Use
+		T>1.3
+		I>VH918379.g04.png
+		N>Remote sensing satellites and cellular telephone towers
+			E>Emergency responders need data on traffic and other potential obstructions such as construction that would slow their travel to a caller’s location. Civilian satellites can record image data, but do not collect textual information about events on the ground. Military satellites do produce real-time data, but it is not publicly available.
+		N>Census databases and property tax records
+			E>Property tax records do not provide real-time data. While census data can be used to provide information for emergency response, it does not provide a system that responders can use to navigate street systems.
+		N>Social media sites and paper map atlases
+			E>Paper map atlases do not provide real-time data. While social-media data can be useful for emergency response, it does not provide a system that responders can use to navigate street systems.
+		Y>Geographic information systems and global positioning satellites
+			E>Geographic information systems are computerized data mapping programs that can provide real-time data on traffic, construction, and accident sites to emergency services. This is combined with real-time global positioning satellites, which can determine emergency vehicle locations and allow dispatchers to calculate the most time-efficient route to incident sites.
+		N>Digital radio signals and vehicle call signs
+			E>Vehicle call signs (e.g., Engine 50, Ambulance 4) provide geographic information only on the patrol areas or service areas for a vehicle or emergency personnel. Radio provides a means of communication, but is not a means of calculating routes to a location.
+	Q>Which of the following terms best describes the suburban area of Illinois where many residents commute to Chicago?
+		P>Commuting Functional Region
+		T>1.7
+		N>Perceptual region
+			E>A perceptual region is defined based on subjective perceptions of a region or place. The suburbs of Chicago form a functional system with a central node, as opposed to a perception of a region.
+		Y>Functional region
+			E>A functional region is defined based on activities and interactions within the region. The suburbs of Chicago form a functional system with a central node.
+		N>Formal region
+			E>A formal region refers to an area with a unifying characteristic. The suburbs of Chicago form a functional system with a central node, as opposed to a region where there is a common geographical feature.
+		N>Conformal region
+			E>The term "conformal" refers to a type of map projection rather than a type of region. The suburbs of Chicago form a functional region with a central node.
+		N>Equal area region
+			E>The term "equal area" refers to a type of map projection rather than a type of region. The suburbs of Chicago form a functional region with a central node.
+	Q>Which of the following patterns is evident on the map of population density?
+		P>Population Density Map
+		T>1.4
+		I>VH919220.g02.png
+		N>The Appalachian Mountains are less densely populated than the Rocky Mountains
+			E>Most areas of the Appalachian Mountains have 10 to 100 persons per square mile, and most areas of the Rocky Mountains have less than 10 persons per square mile. By comparison, the Midwest is more densely populated than the Great Plains.
+		N>The Midwest is much more densely populated than the Southeast.
+			E>The Midwest and Southeast have similar levels of population density of 10 to 100 persons per square mile with multiple urban centers. By comparison, the Midwest is more densely populated than the Great Plains.
+		N>The Great Plains are less densely populated than the Midwest.
+			E>Most areas of the Midwest are in the range of 10 to 100 persons per square mile, and most areas of the Great Plain have less than 10 persons per square mile.
+		N>The Pacific Coast is far less populated than the Atlantic Coast of the United States
+			E>The Pacific Coast and Atlantic Coast have similar levels of population density. By comparison, the Midwest is more densely populated than the Great Plains.
+		N>The Rocky Mountains are more densely populated than the Southwest
+			E>The Southwest has several areas with 10 to 100 persons per square mile and 101 to 1,000 persons per square mile. The Rocky Mountains is mostly less than 10 persons per square mile. By comparison, the Midwest is more densely populated than the Great Plains.
+	Q>Which of the following statements is an accurate comparison of the two map projections shown?
+		P>Map Projections
+		T>1.1
+		I>VH911603.g01.png
+		Y>The Mercator projection accurately shows direction but distorts the size of some areas compared to the Robinson projection.
+			E>Direction is accurate on Mercator projection maps. Mercator maps are used for navigation charts because any straight line on a Mercator projection map is a constant compass bearing along a straight-line course. However, because the actual distance between longitude lines decreases as one moves away from the Equator, objects near the poles are greatly exaggerated in size in the Mercator projection.
+		N>The Robinson projection accurately shows direction but distorts the size of some areas compared to the Mercator projection.
+			E>The Robinson projection uses a combination of mathematical approaches to represent the three-dimensional globe as a flat map. In doing this, the Robinson projection compromises direction in order to better achieve proportional area. Direction is accurate on Mercator projection maps, but the size of some areas may be exaggerated.
+		N>The Mercator projection accurately shows distances but distorts direction compared to the Robinson projection.
+			E>Just as area is distorted on the Mercator Projection, distances are most accurate at the Equator and are increasingly stretched closer to the poles. Direction is accurate on Mercator projection maps, but the size of some areas may be exaggerated.
+		N>The Robinson projection accurately shows shapes but distorts direction compared to the Mercator projection.
+			E>Although the distortion is spread throughout the entire Robinson projection rather than concentrated in the polar regions, both shape and direction are inaccurate in the Robinson projection. Direction is accurate on Mercator projection maps, but the size of some areas may be exaggerated.
+		N>The Mercator projection accurately shows area but distorts shapes compared to the Robinson projection.
+			E>The Mercator projection does not provide accurate size for land areas, especially in the polar regions. Direction is accurate on Mercator projection maps, but the size of some areas may be exaggerated.
+	Q>Which of the following map types is shown?
+		P>Map Types
+		T>1.1
+		I>VH907437.g01.png<>PERCENT OF STATE WORKFORCE IN MANUFACTURING, 2019
+		N>Isopleth
+			E>Isopleth maps use lines and shading to represent areas with equal data values, such as the lines of temperature variation shown in a weather map. Because percent data is often unequal from one area to the next, they are better shown as either proportional map symbols or color fills in map polygons. By comparison, choropleth maps are better for displaying percentage data.
+		Y>Choropleth
+			E>Choropleth maps use differences in symbols or shading to represent different data values, such as differences in the percent of jobs in manufacturing from state to state.
+		N>Dot density
+			E>Dot density maps use dots to indicate the presence of map features. Although a dot density map could show the spatial pattern of the total number workers employed in manufacturing jobs, it would not be the best choice of map to show percentages from state to state. By comparison, choropleth maps are better for displaying percentage data, ranging from 0% to 100%.
+		N>Reference
+			E>Reference maps show the boundaries and names of geographic areas. Showing just the boundaries or location of states does not provide information on the percent of jobs in manufacturing. Compared to reference maps, choropleth maps are better for displaying percentage data.
+		N>Topographic
+			E>Topographic maps show relief often using contour lines and at large scales. Showing just the topography of an area does not provide information on the percent of jobs in any particular job sector. Choropleth maps are better for displaying percentage data.
+	Q>The data presented in the map shown depict 
+		P>Cartogram
+		T>1.1
+		I>VH907440.g02.png
+		N>latitude in a Robison projection
+			E>Latitude is depicted as lines on a map showing the distance in degrees from the Equator. A Robinson projection is designed to show the world with moderate areas of map distortion in the middle latitudes. The map shown is a cartogram.
+		N>longitude in a Mercator projection
+			E>Longitude is depicted as lines on a map showing the distance in degrees from the Prime Meridian. A Mercator projection is a cylindrical projection with equally spaced meridians with map distortion near the polar regions. The map shown is a cartogram.
+		N>population in a cartogram
+			E>Population differences can be shown in graduated symbols displayed as a map. A cartogram distorts locations on a map to better present data values.
+		N>elevation topographic map
+			E>Elevation is depicted as contour lines on topographic maps and shows areas of similar elevation along each line. A topographic map shows terrain but distorted in a two-dimensional format. The map shown is a cartogram.
+		N>taxation in a flow-line map
+			E>Taxation would be depicted as numerical labels or line widths showing the amounts paid. A flow-line map is a type of thematic map that would show movement and direction of flow, such amounts paid by people in each state to the federal government. The map shown is a cartogram.
+	Q>In his book My Tears Spoiled My Aim, John Shelton Reed explains the difficulty of defining the American South. "Where is the South? . . . The South is, to begin with, a concept—and a shared one. It's an idea that people can talk about, think about, use to orient themselves and each other. People know whether they're in it or not." Based on Reed's explanation, the South is best described as which kind of region?
+		P>Vernacular Region
+		T>1.7
+		N>Functional
+			E>A functional region is organized around a focal point or a node. The quotation does not refer to the American South as a node with a surrounding area. The quotation refers to the South as a vernacular region.
+		N>Formal
+			E>A formal region is an area defined by official boundaries and inhabited by people who have one or more traits in common, (e.g., language, or religion). The quotation refers to people’s perception of the region but does not refer to particular boundaries. The quotation refers to the South as a vernacular region.
+		Y>Vernacular
+			E>A vernacular region is an area identified based on people’s perception of culture. Reed’s description focuses on people’s shared perception of the American South.
+		N>Peripheral
+			E>A peripheral region, according to the core-periphery model, is a less-developed region. The quotation does not refer to the region’s level of economic development. The quotation refers to the South as a vernacular region.
+		N>Linguistic
+			E>A linguistic region is an area in which the same language is spoken. The quotation refers to communication but not to a single language or dialect. The quotation refers to the South as a vernacular region.
+U>2
+	Q>
+		P>
+		T>
+		I>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
