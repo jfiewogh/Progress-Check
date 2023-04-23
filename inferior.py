@@ -13,7 +13,7 @@ def get_questions_lines(lines):
 def get_question(question_lines):
     question_text = question_lines[0].replace('Q>', '')
 
-    question = [question_text, None, [], None, None, None]
+    question = [question_text, None, [], None, None, []]
     #question_text, correct_answer, incorrect_answers, part, topic, image
 
     for i, line in enumerate(question_lines):
@@ -26,7 +26,8 @@ def get_question(question_lines):
         elif 'T>' in line:
             question[4] = line.replace('T>', '')
         elif 'I>' in line:
-            question[5] = line.replace('I>', '').split('<>')
+            question[5] = [x for x in line.replace('I>', '').split('<>')]
+            print(question[5])
 
     return question
 

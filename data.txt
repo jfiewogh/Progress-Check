@@ -83,7 +83,7 @@ U>1
 			E>Informal observation does not usually include reliable or sufficiently large samples to yield statistical spatial data for the census. Data aboaut age and numbers of persons per household are collected in census surveys.
 		N>interviews
 			E>While census data may be supplemented with interviews, it is not likely that interviews would be the primary source of spatial data for an area as large as the United States. Data about age and numbers of persons per household are collected in census surveys.
-	Q>Which of the followign types of information is shown in the table?
+	Q>Which of the following types of information is shown in the table?
 		P>Statistics for German States
 		T>1.2
 		I>VH901705.g01.png
