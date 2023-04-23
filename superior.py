@@ -1,3 +1,7 @@
 import inferior
 
-print('\n'.join([x[0] for x in inferior.get_unit(1)]))
+question_lines = inferior.get_unit(1)
+
+question = inferior.get_question(question_lines[-1])
+
+print(question)

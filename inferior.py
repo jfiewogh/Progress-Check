@@ -1,5 +1,3 @@
-import random
-
 lines = [line.strip() for line in open('data.txt', 'r', encoding='utf-8').readlines()]
 
 units_indexes = {line.strip(): i for i, line in enumerate(lines) if 'U>' in line}
@@ -14,19 +12,23 @@ def get_questions_lines(lines):
 
 def get_question(question_lines):
     question_text = question_lines[0].replace('Q>', '')
-    correct_answer, incorrect_answers, image, part, topic = None, [], None, None, None
+
+    question = [question_text, None, [], None, None, None]
+    #question_text, correct_answer, incorrect_answers, part, topic, image
+
     for i, line in enumerate(question_lines):
         if 'N>' in line:
-            incorrect_answers.append(line.replace('N>', '') + '<>' + question_lines[i+1].replace('E>', ''))
+            question[2].append([line.replace('N>', ''), question_lines[i+1].replace('E>', '')])
         elif 'Y>' in line:
-            correct_answer = line.replace('Y>', '') + '<>' + question_lines[i+1].replace('E>', '')
+            question[1] = [line.replace('Y>', ''), question_lines[i+1].replace('E>', '')]
         elif 'P>' in line:
-            part = line.replace('P>', '')
+            question[3] = line.replace('P>', '')
         elif 'T>' in line:
-            topic = line.replace('T>', '')
+            question[4] = line.replace('T>', '')
         elif 'I>' in line:
-            image = line.replace('I>', '')
-    return [question_text, correct_answer, incorrect_answers, image, part, topic]
+            question[5] = line.replace('I>', '').split('<>')
+
+    return question
 
 def get_unit(unit_number):
     return get_questions_lines(get_unit_lines(unit_number))
