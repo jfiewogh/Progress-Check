@@ -288,29 +288,555 @@ U>1
 		N>Linguistic
 			E>A linguistic region is an area in which the same language is spoken. The quotation refers to communication but not to a single language or dialect. The quotation refers to the South as a vernacular region.
 U>2
+	Q>Which of the following types of population information is shown on the map?
+		P>Africa Population Density
+		T>2.1
+		I>VR021464.g01.png
+		N>Transnational migration
+			E>Based on the legend, the map does not convey information about patterns of transnational migration. The map legend identifies the variations of shading on the map as representing certain ranges of arithmetic density, a measure of people per square kilometer of total land area.
+		N>Internal migration
+			E>Based on the legend, the map does not convey information about patterns of internal migration. The map legend identifies the variations of shading on the map as representing certain ranges of arithmetic density, a measure of people per square kilometer of total land area
+		N>Agricultural density
+			E>Based on the legend, the map does not convey information about patterns of agricultural density, the number of farmers per unit of arable land. The map legend identifies the variations of shading on the map as representing certain ranges of arithmetic density, a measure of people per square kilometer of total land area.
+		Y>Arithmetic density
+			E>The map legend identifies the variations of shading on the map as representing certain ranges of arithmetic density, a measure of people per square kilometer of total land area.
+		N>Physiological density
+			E>Based on the legend, the map does not convey information about patterns of physiological density, the number of people per unit of arable land within an area. The map legend identifies the variations of shading on the map as representing certain ranges of arithmetic density, a measure of people per square kilometer of total land area
+	Q>Population patterns shown on the map indicate that areas around river deltas and upland lake and river valleys have higher densities. Which of the following best explains why these regions are more heavily populated?
+		P>Africa population density
+		T>2.2
+		I>VR021464.g01.png
+		N>These regions have pronatalist policies.
+			E>Compared to other regions of the world, the highest crude birth rates are found across regions of Africa. Most countries in African regions would most likely institute antinatalist policies to decrease birth rates rather than pronatalist policies, which would encourage higher birth rates. The highest population densities in Africa are found near upland lakes and river deltas because these areas have higher carrying capacities due to close proximity to reliable freshwater sources, which can be used to meet daily or agricultural needs.
+		N>These regions have access to international trade.
+			E>Though some countries with high population densities displayed on the map have improved access to international trade due to their proximity to seaports, some areas are far inland and are located in landlocked countries. The highest population densities in Africa are found near upland lakes and river deltas because these areas have higher carrying capacities due to close proximity to reliable freshwater sources, which can be used to meet daily or agricultural needs.
+		N>These regions experience seasonal climate variation.
+			E>If seasonal climate variation was responsible for higher population densities, one would expect to see higher population densities across an entire region, instead of the variations shown on the map. The highest population densities in Africa are found near upland lakes and river deltas because these areas have higher carrying capacities due to close proximity to reliable freshwater sources, which can be used to meet daily or agricultural needs.
+		N>These regions have mineral resources.
+			E>These regions may have mineral resources, but human populations do not settle in regions specifically because of availability of mineral resources. The highest population densities in Africa are found near upland lakes and river deltas because these areas have higher carrying capacities due to close proximity to reliable freshwater sources, which can be used to meet daily or agricultural needs.
+		Y>These regions have higher carrying capacities.
+			E>These regions have higher carrying capacities because of their proximity to reliable freshwater sources. Upland lakes, and river deltas can support larger human populations because they provide a form of transportation, reliable access to water for daily needs, and a source of water for agricultural practices.
+	Q>Which of the following best identifies the data for western China, shown on the map?
+		P>China population map
+		T>2.1
+		I>VR021613.g01.png
+		N>High carrying capacity
+			E>Carrying capacity refers to the largest number of people that the environment of a particular area can sustainably support. The map shows arithmetic density, which refers to the number of people per unit of land.
+		N>Low population pressure
+			E>Population pressure refers to factors that reduce the ability of an environment to support the population and that therefore tend to result in migration and or decline of a population. The map does not provide enough information to draw conclusions about population pressure. The map shows arithmetic density, which refers to the number of people per unit of land.
+		N>Clustered population
+			E>The pattern shown on the map suggests a dispersed population in western China. The map shows arithmetic density, which refers to the number of people per unit of land.
+		N>High arithmetic density
+			E>The map does show arithmetic density. However, the pattern on the map suggests that arithmetic density is lower rather than higher in western China.
+		Y>Low arithmetic density
+			E>The map shows arithmetic density, which refers to the number of people per unit of land. The pattern on the map indicates that arithmetic density is lower in western China.
+	Q>If rural-to-urban migration continues in China, which of the following outcomes is likely?
+		P>China population map
+		T>2.2
+		I>VR021613.g01.png
+		N>Farming will become unsustainable.
+			E>The map does not provide information on the state of rural areas or farming. Clusters of large cities indicate very high levels of population density that likely result in housing shortages.
+		Y>Housing shortages in urban areas will be common
+			E>Clusters of large cities indicate very high levels of population density that likely result in housing shortages.
+		N>Schools in rural areas will not have enough students to remain open.
+			E>The map does not provide information on the state of rural areas or schools. Clusters of large cities indicate very high levels of population density that likely result in housing shortages.
+		N>Manufacturing areas will face labor shortages.
+			E>The map shows large clusters of population in China’s industrial coastal regions. This would indicate that labor shortages are less likely. Clusters of large cities indicate very high levels of population density that likely result in housing shortages.
+		N>Wages will increase in urban areas.
+			E>Although wages may increase in urban areas, the map does not provide an indication of this change. Clusters of large cities indicate very high levels of population density that likely result in housing shortages.
+	Q>Which statement best explains an environmental impact of China's population distribution?
+		P>China population map
+		T>2.2
+		I>VR021613.g01.png
+		N>The population distribution shown allows for large-scale agricultural expansion in western China to increase the food supply.
+			E>Most of the land in western China is arid or highland, which is unable to support large-scale agricultural development. China’s large urban population and increasing urban expansion into available agricultural land place higher demands on increasingly limited soil and water resources.
+		N>The population distribution shown permits the dispersal of industrial air pollution outside of the region due to prevailing wind patterns.
+			E>Industrial air pollution remains concentrated in urban areas due to the high volume of manufacturing and vehicles. China’s large urban population and increasing urban expansion into available agricultural land place higher demands on increasingly limited soil and water resources.
+		N>The population distribution shown directs urban and industrial water pollution along riverways to less populated portions of the country.
+			E>The flow of rivers from western and central China is toward major population centers, resulting in water pollution affecting coastal regions in eastern China. China’s large urban population and increasing urban expansion into available agricultural land place higher demands on increasingly limited soil and water resources.
+		N>The population distribution shown depicts concentration in cities, which results in more open area to protect wildlife and preserve habitats.
+			E>China’s overall large population places intensive demands on available land resources for agriculture and resource extraction, which results in increased pressure on wild animals and natural habitats. China’s large urban population and increasing urban expansion into available agricultural land place higher demands on increasingly limited soil and water resources.
+		Y>The population distribution shown requires more intensive use of limited soil and water resources to increase the carrying capacity of agricultural land.
+			E>China’s large urban population and increasing urban expansion into available agricultural land place higher demands on increasingly limited soil and water resources. This requires more agricultural inputs, such as pesticides and fertilizers, to increase the carrying capacity of the land.
+	Q>Which of the following patterns is indicated by the population pyramid shown?
+		P>Ghana population pyramid
+		T>2.8
+		I>VH922696.g01.png
+		N>Levels of education and contraceptive usage are high among women.
+			E>Given the high population growth rate in the country indicated by the wide base of the pyramid, it is unlikely that the female segment of the population has attained a high level of education or uses contraceptives regularly. The wide base of the population pyramid indicates a high population growth rate.
+		N>Governemnt policies encourage women to have multiple children.
+			E>Given the high population growth rate in the country indicated by the pyramid’s wide base, it is unlikely that the government encourages pronatalist policies when birth rates are already high. The wide base of the population pyramid indicates a high population growth rate.
+		Y>The population has a high total fertility rate.
+			E>Given the high population growth rate of this country indicated by the population pyramid’s wide base, it is likely that this country has a high total fertility rate.
+		N>Government policies discourage women from having multiple children.
+			E>If there were restrictive population policies in place, there would likely be a decrease in birth rates, resulting in a more rectangular base to the pyramid. The wide base of the population pyramid indicates a high population growth rate.
+		N>The population has a low infant mortality rate.
+			E>The population pyramid’s wide base indicates that Ghana is a developing country, which is characterized by lower-quality health care and higher infant mortality rates compared to developed countries. The wide base of the population pyramid indicates a high population growth rate.
+	Q>Which of the following statements best explains the trend about infant mortality shown in the bar chart?
+		P>Infant mortality by region
+		T>2.4
+		I>VH916983.g01.png
+		N>The trend can be explained by improvements in political participation and voting in all regions.
+			E>Political participation has a limited impact on infant mortality rates. Improved access to health care and nutrition has the most significant impact on the decline in infant mortality rates.
+		N>The trend can be explained by rural to urban migration and the growth of cities in all regions.
+			E>The migration from rural to urban areas and the growth of cities has a limited impact on infant mortality rates. Moving to cities does not necessarily increased access to health care, especially for poor migrants. Improved access to health care and nutrition has the most significant impact on the decline in infant mortality rates.
+		N>The trend can be explained by industrialization and improved job opportunities.
+			E>The growth of industry and improved job opportunities has a limited impact on infant mortality rates. Improved access to health care and nutrition has the most significant impact on the decline in infant mortality rates.
+		Y>The trend can be explained by improved health care and nutrition in all regions.
+			E>Improved access to health care and nutrition impacts the time period before, during, and after pregnancy and therefore has the most significant impact on the decline in infant mortality rates.
+		N>The trend can be explained by improvements in communications and Internet access.
+			E>Improvements in communication and Internet access have limited impact on infant mortality rates. Improved access to health care and nutrition has the most significant impact on the decline in infant mortality rates.
+	Q>A large number of Turkish people migrated to Germany in the 1960s, when West Germany's manufacturing economy was booming and Turkey's economy was predominantly agricultural. Which of the following best describes Turkish migration to Germany?
+		P>Turkish guest workers
+		T>2.11
+		N>Political asylum seekers fleeing Communism
+			E>Turkey was not part of the Communist world. Turkish migrants came to Germany voluntarily, and were considered guest workers.
+		N>Involuntary migrants fleeing transnational wars
+			E>Although Turkey had internal civil conflicts, the country was not involved in transnational wars. Turkish migrants came to Germany voluntarily, and were considered guest workers.
+		N>Internal rural-to-urban migrants
+			E>Migration from Turkey to Germany was transnational, as opposed to internal. Turkish migrants came to Germany voluntarily, and were considered guest workers.
+		N>Internally displaced persons
+			E>Migration from Turkey to Germany was transnational, as opposed to internal. Turkish migrants came to Germany voluntarily, and were considered guest workers.
+		Y>Voluntary guest workers
+			E>Migrants from Turkey moved to Germany for employment opportunities as work in a manufacturing-based economy offered financial opportunities not available in their home country. Such migrations were voluntary, and Turkish migrants were considered guest workers.
+	Q>Which of the following best explains an effect of migration within the United States between 1950 and 2010?
+		P>Mean center of population
+		T>2.12
+		Y>The mean center of the population of the United States shifted to the South and West as workers migrated to areas with more jobs and a warmer climate.
+			E>Manufacturing jobs moved from the industrialized North to areas in the southern United States beginning in the 1950s and increasing at a rapid rate throughout the early 2000s. Workers migrated to these areas for jobs and for the warmer climate, shifting the mean population center of the United States to the South and West.
+		N>Population increased in the industrial North because of large-scale migration of African Americans from the South.
+			E>A large-scale migration of African Americans from the South to the industrial North took place at the end of the First World War. Between 1950 and 2010, manufacturing jobs moved from the industrialized North to areas in the southern United States.
+		N>Rapid suburbanization occurred in the Midwest as retirees migrated from the East Coast.
+			E>Retirees from the East Coast of the United States generally move to warmer climates in the South and not to the cold and snowy climates of the Midwest. Between 1950 and 2010, many people in the United States moved to the South and West for jobs and for the warmer climate.
+		N>Large clusters of migrants from other countries settled in the South and West, leading to significant population growth in this region.
+			E>Migrants from other countries tend to settle in a dispersed pattern. Between 1950 and 2010, many people in the United States moved to the South and West for jobs and for the warmer climate.
+		N>Population increased in the northeastern United States as large numbers of college graduates moved to this region to seek employment.
+			E>There is a trend of population decline in the northeastern United States. Between 1950 and 2010, many people in the United States moved to the South and West for jobs and for the warmer climate.
+	Q>Which of the following identifies how population density is shown in the maps?
+		P>Population density in three maps
+		T>2.1
+		I>VH911333.g03.png
+		Y>At different scales, showing administrative units
+			E>The maps show subdivisions within the state at the county, postal zip code, and census tract scales of analysis.
+		N>In different types of physical regions
+			E>The areas shown are not physical regions. The maps show the same state at different scales.
+		N>In different types of culture regions
+			E>The areas shown are not culture regions. The maps show the same state at different scales.
+		N>In different types of vernacular regions
+			E>The maps all show not vernacular regions. The maps show the same state at different scales.
+		N>At the same scale, showing different parts of the country
+			E>The maps show the same part of the country at different scales.
+	Q>Which of the following is the best describes an example of transhumance?
+		P>Example of transhumance
+		T>2.11
+		N>Ranchers in Canada who allow their cattle to graze over a wide area of flat land
+			E>Transhumance is movement of livestock between summer and winter grazing areas, usually involving a change in elevation from highlands in the summer to lowlands in the winter. It is a type of migration, as opposed to the practice of grazing.
+		N>Herders in Kenya who take their goats to a river basin each day for water
+			E>Transhumance is movement of livestock between summer and winter grazing areas, usually involving a change in elevation from highlands in the summer to lowlands in the winter. It is seasonal migration, as opposed to just daily movement.
+		Y>Shepherds in France who move their sheep to mountain pastures each summer
+			E>This movement is transhumance as it involves both seasonal movement of livestock and a change in elevation.
+		N>Farmers in Peru who raise their llamas on land that used to be tropical rain forest
+			E>Transhumance is movement of livestock between summer and winter grazing areas, usually involving a change in elevation from highlands in the summer to lowlands in the winter. It is a type of migration, as opposed to the modification of tropical rain forest land.
+		N>Traders in Mongolia who maintain a herd of camels and a herd of yaks
+			E>Transhumance is movement of livestock between summer and winter grazing areas, usually involving a change in elevation from highlands in the summer to lowlands in the winter. It is a type of migration and does not concern how many species of animals are involved.
+	Q>Which of the following processes best explains a decrease in mortality rates worldwide?
+		P>Decreasing mortality rates worldwide
+		T>2.9
+		N>Increased rates of female literacy
+			E>Increased rates of female literacy begin to shift the traditional role of women in society, and women become more influential in childbearing decisions, therefore reducing fertility rates. However, increased rates of female literacy do not directly impact mortality rates. Better hygiene and sanitation practices influence mortality rates by helping to prevent disease and other illnesses.
+		N>Increased rates of urbanization
+			E>Rapid urbanization results from increased rates of rural-to-urban migration as people move to urban areas to seek factory employment. Urban lifestyles raise the cost of child rearing, and children are not seen as laborers as often, which may lead to a drop in birth rates. However, rapid urbanization does not directly impact mortality rates. Better hygiene and sanitation practices influence mortality rates by helping to prevent disease and other illnesses.
+		N>Modern family planning methods
+			E>Modern family planning methods allow families to control the number of children they choose to have and this, combined with the changing role of women in society, contributes to the drop in fertility rates. However, modern family planning methods do not directly impact mortality rates. Better hygiene and sanitation practices influence mortality rates by helping to prevent disease and other illnesses.
+		Y>Better hygiene and sanitation practices
+			E>Better hygiene and sanitation practices influence mortality rates by helping to prevent disease and other illnesses.
+		N>Greater female workforce participation
+			E>Higher rates of female workforce participation and subsequent financial contributions to their family have led to women becoming more influential in decisions regarding their own fertility, which can lead to a decrease in fertility rates. However, higher rates of female workforce participation do not directly impact mortality rates. Better hygiene and sanitation practices influence mortality rates by helping to prevent disease and other illnesses.
+	Q>Based on the demographic transition model, which region is best described as exhibiting overall negative rates of growth in stage 4?
+		P>Negative population growth
+		T>2.5
+		I>Screenshot 2023-04-23 223831.png
+		N>South Asia
+			E>South Asia is considered to be moderate-growth category of the demographic transition model. It consists primarily of Stage 3, high-growth countries such as India, Pakistan, and Bangladesh. Eastern Europe exhibits negative growth in countries such as Ukraine and Romania.
+		Y>Eastern Europe
+			E>Negative growth regions are considered to be in late Stage 4 of the demographic transition model. Certain Stage 4 countries have higher death rates than birth rates; these have been proposed as Stage 5 countries. The only area with the majority of countries with a higher death rate than birth rate would be formerly-communist eastern European countries such as Ukraine and Romania.
+		N>North America
+			E>North American countries like Canada and the United States are in early Stage 4 of the demographic transition model. Mexico and Central America are in Stage 3. North America exhibits moderate to slow growth rates but not negative growth rates as seen in eastern Europe.
+		N>East Asia
+			E>East Asia demonstrates low and moderate growth, as China is entering stage 4 of the demographic transition model. Most eastern European countries exhibit negative growth overall.
+		N>Northern Africa
+			E>Northern African countries like Egypt and Morocco exhibit moderate population growth, while eastern European countries such as Ukraine and Romania exhibit negative growth.
+	Q>Deaths in Country A often occur due to outbreaks of epidemic disease, while in Country B most people are dying from chronic disorders such as heart disease. Which of the following best describes where these countries fall in the demographic transition model and in which region they are likely located?
+		P>Deaths from chronic disease
+		T>2.5
+		I>Screenshot 2023-04-23 224329.png
+		N>Country A : Stage 3, Latin America; Country B : Stage 2, West Africa
+			E>Country A is located in a Stage 2 region, where most deaths occur due to outbreaks of epidemic disease, but most Latin American countries are in Stage 3, whereas most West African countries are in Stage 2. In addition, Country B is not located in a Stage 2 region, such as West Africa, because most deaths in this region occur from outbreaks of epidemic diseases due to a lack of medical advancement and sanitation. Country B is located in a Stage 4 region, such as western Europe, where life expectancies are long and most deaths are due to chronic disorders such as heart disease.
+		N>Country A : Stage 2, Latin America; Country B : Stage 3, West Africa
+			E>Country A is located in a Stage 2 region, where most deaths occur due to outbreaks of epidemic disease. Most Latin American countries are in Stage 3, whereas most West African countries are in Stage 2. In a Stage 3 country, more deaths occur due to chronic disorders, but most deaths in a Stage 4 country occur due to chronic disorders.
+		Y>Country A : Stage 2, West Africa; Country B : Stage 4, western Europe
+			E>In Stage 2 countries, such as the ones found in West Africa, many deaths occur from outbreaks of epidemic disease because of a lack of reliable health care and advanced sanitation techniques. In Stage 4 countries, such as the ones found in western Europe, most deaths are related to chronic disorders such as heart disease caused by old age and lifestyle choices.
+		N>Country A : Stage 4, western Europe; Country B : Stage 2, West Africa
+			E>Country A is not located in a Stage 4 regions such as western Europe because most death in Stage 4 occur due to chronic disorders, not outbreaks of epidemic disease. Country A is located in a Stage 2 region, such as West Africa. Country B is not located in a Stage 2 region such as West Africa, because most deaths in Stage 2 occur due to outbreaks of epidemic disease, not chronic disease. Country B is located in a Stage 4 region, such as western Europe.
+		N>Country A : Stage 4, western Europe ; Country B : Stage 2, Latin America
+			E>Country A’s deaths from outbreaks of epidemic disease describes a Stage 2 region with a lack of reliable health care and advanced sanitation techniques, such as West Africa, not a Stage 4 country where most deaths are related to chronic disorders caused by old age and lifestyle choices. Country B is located in a Stage 4 region where most deaths occur due to chronic disorders, such as western Europe.
+	Q>Neo-Malthusian theory can be used to explain which of the following situations?
+		P>Neo-Malthusian viewpoint
+		T>2.6
+		N>Brazil’s interior was previously unfit for farming, but recently more land is being cultivated.
+			E>Part of Brazil’s interior region had very acidic soil, but the soil has been enriched to bring the acidity level down, which enables more land to be brought under cultivation. Brazil has overcome challenges to its food supply with innovation. A neo-Malthusian viewpoint suggests that food production is not meeting the needs of a rapidly growing population, causing widespread famine.
+		N>Mexico has utilized new technology to shift from being a food importer to being a food exporter.
+			E>Mexico benefited from the Green Revolution and the work of Norman Borlaug, who turned Mexico from a food importer to exporter. A neo-Malthusian viewpoint suggests that food production is not meeting the needs of a rapidly growing population, causing widespread famine.
+		N>Malawi previously experienced famine but has improved agricultural yields through subsidies.
+			E>Malawi responded to widespread famine by subsidizing fertilizer and maize seeds for farmers, leading to one of the largest maize harvests ever seen in the country. The Malawi government responded to pressure on the available food supply through innovative practices, whereas South Sudan has had to rely on food assistance from the United Nations, which reflects a neo-Malthusian scenario where population outgrows its local food supply.
+		N>India has been able to increase agricultural yields by utilizing bio-engineered seeds.
+			E>Contrary to neo-Malthusian theory, India benefited from the technology of the Green Revolution, ultimately increasing their food supply. A neo-Malthusian viewpoint suggests that food production is not meeting the needs of a rapidly growing population, causing widespread famine.
+		Y>South Sudan experienced famine during the twenty-first century as a result of war and drought.
+			E>A neo-Malthusian viewpoint suggests that food production is not meeting the needs of a rapidly growing population, causing widespread famine. The most current famine has occurred in South Sudan as a result of war and drought. South Sudan has not responded with technological innovation and has relied on food aid from the United Nations.	
+	Q>South Korea, as of 2018, has the lowest total fertility rate in the world at 1.1. Which of the following best explains a population policy South Korea could enact to promote higher birth rates?
+		P>South Korea fertility rate
+		T>2.7
+		N>Decreasing the age of retirement so that older Koreans can work in childcare centers
+			E>Decreasing the age of retirement impacts the working-age population and the dependency ratio, not fertility rates, as decreasing the cost of childcare would.
+		Y>Decreasing the cost of childcare so that families can afford to have more children
+			E>South Korea has been enacting policies to promote more natural growth of its population; these are known as pronatalist policies. Decreasing the cost of childcare would lower the overall costs associated with raising children.
+		N>Increasing social-security benefits so that retirees can financially support their grandchildren
+			E>Increasing social-security benefits would primarily impact the elderly population. Although grandparents may support their grandchildren, the burden of childcare primarily rests on parents. Decreasing the cost of childcare would promote higher birth rates as raising a child becomes more affordable.
+		N>Decreasing health insurance so that parents pay more for the cost of childbirth
+			E>Decreasing health insurance coverage would be an antinatalist policy, as childbearing would become more expensive. Decreasing the cost of childcare would promote higher birth rates, as raising a child would become more affordable.
+		N>Increasing educational costs for universities so that the government can spend more on preschool
+			E>Increasing educational costs for universities would increase the costs associated with raising children and discourage births, whereas decreasing the cost of childcare would decrease the costs of raising a child and promote higher birth rates.
+	Q>Many countries in sub-Saharan Africa have total fertility rates that exceed 5.0. Which of the following population characteristics is associated with this phenomenon?
+		P>Fertility Rates in Africa
+		T>2.3
+		Y>High youth dependency ratio
+			E>The fertility rates in sub-Saharan Africa are high, which indicates that the countries listed struggle with high youth dependency ratios as death rates continue to decrease.
+		N>Long life expectancy
+			E>The fertility rates described are indicative of developing countries, which would not have long life expectancies. These countries will struggle with high youth dependency ratios compared with their working populations.
+		N>Low birth rates
+			E>The fertility rates described are indicative of developing countries, which would have high birth rates, not low birth rates. These countries will struggle with high youth dependency ratios compared with their working populations.
+		N>High elder dependency ratio
+			E>The fertility rates described are indicative of developing countries with lower life expectancies, which would not indicate a high elder dependency ratio. Rather, these countries will struggle with high youth dependency ratios.
+		N>Zero population growth
+			E>To achieve zero population growth, countries would need average total fertility rates of 2.1. The fertility rates described are all well above 2.1, indicating quickly growing populations that will struggle with high youth dependency ratios compared with the working population.
+	Q>Which of the following describes the relationship between fertility and education in the United States and Canada in recent decades?
+		P>Pronatalist policies
+		T>2.8
+		I>Screenshot 2023-04-23 225852.png
+		N>The decrease in the percent of women who are more highly educated results in a larger number of children entering school.
+			E>Fertility rates would need to increase since there was a corresponding increase in school enrollment. The data show a decrease in fertility rates with a corresponding increase in women’s education attainment.
+		N>The decrease in the percent of women who are more highly educated correlates with the decline in fertility.
+			E>The data show an increase in women’s education levels, and show a decrease in fertility rates with a corresponding increase in women’s education attainment.
+		N>The increase in the percent of women who are more highly educated correlates with the increase in fertility.
+			E>The data shows a decrease in fertility over time and show a decrease in fertility rates with a corresponding increase in women’s education attainment.
+		Y>The increase in the percent of women who are more highly educated correlates with the decline in fertility.
+			E>The data show a decrease in fertility rates with a corresponding increase in women’s education attainment.
+		N>The increase in the percent of women who are more highly educated results in a larger number of children entering school.
+			E>Fertility rates would need to increase since there was a corresponding increase in school enrollment. The data show a decrease in fertility rates with a corresponding increase in women’s education attainment.
+	Q>Bangladesh has seen its total fertility rate drop to 2.1, but its population is projected to be higher in 2050 than it is today. Which of the following explains why Bangladesh will continue to experience positive rates of natural increase?
+		P>Example of demographic momentum
+		T>2.4
+		I>Screenshot 2023-04-23 230206.png
+		N>Bangladesh will continue to grow because it will receive a high number of immigrants.
+			E>Natural increase only takes into account birth rates and death rates, not immigration. Bangladesh’s population will continue to grow because of its large youthful populations.
+		N>Bangladesh will continue to grow because it will receive a high number of immigrants.
+			E>Lower birth rates in Bangladesh were not caused by a birth dearth but rather by promoting female education and family planning methods. These are long-lasting ways to promote lower population growth, and Bangladesh is not expected to have a baby boom. Bangladesh's population will continue to grow because of its large youthful population.
+		Y>Bangladesh was experiencing low birth rates, but it is predicted to have a baby boom.
+			E>Bangladesh has achieved replacement rate fertility but due to the high number of young people will continue to see growth until after 2050 as the large youthful population ages and produces a generation larger than some of the older adult populations.
+		N>Bangladesh will promote pronatalist policies to avoid a diminished workforce.
+			E>Bangladesh’s population is still growing, so it would have no use for pronatalist policies and will be able to fill available jobs with its existing population. Bangladesh’s population will continue to grow due to the high number of youth who will produce a generation larger than other older adult generations.
+		N>Bangladesh will continue to grow because a fertility rate of 2.1 is still above replacement level.
+			E>Replacement level fertility is 2.1, meaning that the fertility rate in Bangladesh has reached replacement rate rather than exceeding it. The population will continue to grow because the youth populations are so large that even as they age, a fertility rate of 2.1 would still produce a generation larger than some of the older adult age groups.
+	Q>Which of the following explains an impact of open-border policies regarding migration within the European Union?
+		P>Effect of European Union
+		T>2.12
+		N>Increased free trade within Europe based on elimination of tariffs, due to the need for economic cooperation between member states
+			E>Elimination of tariffs through the creation of a free trade agreement would not have an impact on migration. A byproduct of the open-border EU open-border policy has increased political tensions in Europe as immigration and asylum seekers from developing countries have increased.
+		N>Greater cultural unity within Europe as it becomes a melting pot, due to the use of a common currency
+			E>Open-border policies within the EU have resulted in increased political tensions as immigration and acceptance of refugees from developing countries has increased. A byproduct of the EU open-border policy has increased political tensions in Europe as immigration and asylum seekers from developing countries have increased.
+		Y>Growing political tensions as immigration increases, due to competition between immigrants and local people for available jobs
+			E>A byproduct of the EU open-border policy has increased political tensions in Europe as immigration and asylum seekers from developing countries have increased.
+		N>Greater restrictions on travel within European Union countries, due to the need for internal security
+			E>The EU open-border policy led to fewer travel restrictions in Europe rather than increased restrictions in travel policies in European countries. A byproduct of the EU open-border policy has increased political tensions in Europe as immigration and asylum seekers from developing countries have increased.
+		N>Less environmental pollution as a result of stricter regulations, due to member states agreeing on a common air-quality policy
+			E>Environmental regulations do not impact migration. A byproduct of the EU open-border policy has increased political tensions in Europe as immigration and asylum seekers from developing countries have increased.
+	Q>From 2010 through 2017 there was a large increase in the number of migrants from Africa to Europe. Which of the following explains a possible impact on the emigrant countries of origin during and after that time period?
+		P>Impact on countries of origin
+		T>2.12
+		N>Increasing emigration resulted in the governments of the countries of origin providing financial support for emigrants.
+			E>The political, economic, and social challenges of supporting new immigrants falls to the host countries, not to the countries of origin. However, money sent back home helped create an economic boost in the countries of origin during the late 2010s.
+		Y>As more emigrants sent money home, the influx of money created an economic boom in the countries of origin.
+			E>Emigrants send funds back to family members still living in the countries of origin. As the flow of these funds increased, the countries of origin experienced better economic conditions during the late 2010s.
+		N>Increasing emigration resulted in a decreased need for language training programs in schools to help emigrants find work.
+			E>Language training programs may be implemented in host countries to help immigrant communities assimilate. Funds sent back home by emigrants helped create an economic boost in the countries of origin during the late 2010s.
+		N>Many emigrants became unemployed, which decreased the total financial contributions to countries of origin.
+			E>Demand for low-skilled labor has remained constant in Europe. Many emigrants send part of their earnings made in the host country back to family members in the country of origin in the form of cash remittances. These funds had a positive economic impact in the countries of origin during the late 2010s.
+		N>Remittances increased diffusion of cultural traits such as customs, religion, and food products from the host countries to the countries of origin.
+			E>The spread of cultural traits happens in the host country as immigrants bring their culture with them, whereas remittances sent to the countries of origin have an economic impact but not a cultural impact.
+	Q>Immigration of asylum applicants from Africa to the European Union, Norway, and Switzerland increased from approximately 50,000 in 2010 to approximately 200,000 in 2016. In 2017, there were approximately 175,000 asylum applicants. Which of the following best explains the trend in asylum seekers from African countries to Europe since 2010?
+		P>Immigration from Africa to Europe
+		T>2.10
+		N>Improvement in the level of economic development in African countries led to an increase in the number of asylum seekers.
+			E>Improved economic development would lead to a decrease in asylum seekers, not an increase. The statistics indicate an overall increase in asylum seekers owing to insecure political situations and high competition for available jobs due to high fertility rates.
+		N>A decrease in the number of armed conflicts in African countries meant a higher number of asylum seekers traveling to Europe.
+			E>Increased numbers of armed conflicts since 2010 in Africa have prompted many workers to leave and find work in Europe. The statistics indicate an overall increase in asylum seekers owing to insecure political situations and high competition for available jobs due to high fertility rates.
+		Y>Political instability and conflict along with high fertility levels over the long term has led to an increase in asylum seekers.
+			E>Insecure political situations and high fertility rates leading to competition for available jobs have acted as push factors in African countries and created the general increase.
+		N>Low fertility rates and more stable political systems led to an overall decrease in asylum seekers as they found more economic opportunities at home.
+			E>Low fertility rates and more stable political systems would lead to an overall decrease in asylum seekers. The statistics indicate an overall increase in asylum seekers owing to insecure political situations and high competition for available jobs due to high fertility rates.
+		N>An influx of asylum seekers from the Middle East led to a decrease in the number of accepted asylum applications from Africa.
+			E>An increase in asylum seekers from the Middle East leading to a decrease in asylum seekers from African countries would explain the decrease between 2016 and 2017, but it does not explain the overall increase in asylum seekers between the years 2010 and 2017 caused by insecure political situations and high competition for available jobs due to high fertility rates.
+	Q>Which of the following explains how data from the population pyramid for Spain would be useful for government policy makers?
+		P>Uses for population pyramid data
+		T>2.9
+		I>VH926119.g02.png
+		N>Data on the annual number of legal immigrants would be used to establish policy on international refugees.
+			E>Population pyramids do not distinguish between legal immigrants and citizens born within the country; therefore, a population pyramid would not be useful in providing data on the annual number of legal immigrants to establish policy on international refugees. Population pyramids convey information about the population’s age distribution and trends in birth and death rates; therefore, data on the size of the middle-aged population would be useful in planning for retirement and social security benefits.
+		N>Data on voters’ party memberships would be used to locate target audiences during political campaigns.
+			E>Population pyramids do not convey information about political party membership, so they would not be useful in locating target audiences during political campaigns. Population pyramids convey information about the population’s age distribution and trends in birth and death rates; therefore, data on the size of the middle-aged population would be useful in planning for retirement and social security benefits.
+		N>Data on the population of adult women would be used to plan for the numbers of children starting school.
+			E>Data on children ages 0-4 would be useful to plan for the numbers of children starting school, not data on the population of adult women. Population pyramids convey information about the population’s age distribution and trends in birth and death rates; therefore, data on the size of the middle-aged population would be useful in planning for retirement and social security benefits.
+		N>Data on the size of the rural population would be used to set up health clinics for the elderly.
+			E>Population pyramids do not distinguish between population living in rural areas and populations living in urban areas, therefore they would not be useful in setting up clinics for the elderly. Population pyramids convey information about the population’s age distribution and trends in birth and death rates; therefore, data on the size of the middle-aged population would be useful in planning for retirement and social security benefits.
+		Y>Data on the size of the middle-aged population would be used to plan for retirement and social security benefits.
+			E>Population pyramids convey information about the population’s age distribution and trends in birth and death rates; therefore, data on the size of the middle-aged population would be useful in planning for retirement and social security benefits.
+	Q>In 1980 China implemented an antinatalist one-child policy. Which of the following explains an unintended consequence of the policy?
+		P>Antinatalist policy in China
+		T>2.7
+		N>There are more women than men because of a cultural preference for female children.
+			E>Traditional Chinese culture favors male children as a way to carry on the family name. Sex-selective abortions and female infanticide have resulted in a skewed sex ratio in China, where there are more males than females. A consequence of the one-child policy is that the male population in China is much higher than the female population.
+		Y>There are more men than women because of a cultural preference for male children.
+			E>The one-child policy has not resulted in a larger female population. Rather, the male population in China is much higher than the female population due to a cultural preference for male children.
+		N>China’s total fertility rate dropped below the replacement rate due to strict enforcement of the law.
+			E>The one-child policy, which was strictly enforced by the Chinese government, did slow the total fertility rate as originally intended. A consequence of the one-child policy is that the male population in China is much higher than the female population.
+		N>China’s age structure shifted toward a high youth dependency due to limiting births.
+			E>The one-child policy shifted China’s age structure away from high youth dependency by limiting most families to one birth. A consequence of the one-child policy is that the male population in China is much higher than the female population.
+		N>China discontinued the policy to accommodate an unexpected increase in infant mortality rates.
+			E>The one-child policy was abolished in 2015, but not because of an unexpected increase in infant mortality rates. Rather, China faced problems stemming from a high elder dependency. A consequence of the one-child policy is that the male population in China is much higher than the female population.
+	Q>Malthusian theory would explain which of the following possible consequences of high birth rates in a less developed country?
+		P>Malthusian theory and high birth rates
+		T>2.6
+		Y>Famine and starvation will occur as demand outpaces agricultural production.
+			E>Malthus predicted that when population growth outpaced food supply, crises such as famine and starvation would occur to bring the population back down to a sustainable level.
+		N>Technological advancements will lead to increased agricultural production.
+			E>Malthus did not account for technological improvement that would allow for an increase in the available food supply. Malthus predicted that when population grew faster than food supply, crises such as famine and starvation would occur as a check on population.
+		N>People will implement family-planning methods as resources grow scarce.
+			E>Though Malthus recommended preventative checks such as family planning, later marriages, and celibacy, he did not assume enough would be done to prevent large-scale hunger. Malthus predicted that when population grew faster than food supply, crises such as famine and starvation as would occur as a check on population.
+		N>Areas with the greatest population density will import scarce resources.
+			E>Malthus did not anticipate that areas struggling to meet demand for scarce resources would respond by importing resources. Malthus predicted that when population grew faster than food supply, crises such as famine and starvation would occur as a check on population.
+		N>Farmers will bring more land under cultivation to produce more food.
+			E>Malthus predicted populations would reach a point where food supply would grow too slowly to meet the needs of the growing population. Malthus predicted that when population grew faster than food supply, crises such as famine and starvation would occur as a check on population.
+	Q>Based on the diagram of the demographic transition model, which of the following correctly describes the expected population change over time?
+		P>Demographic transition model stage 3
+		T>2.5
+		I>VH926013.g01.png
+		N>As birth rates remain high and death rates decrease, the total population remains stable.
+			E>A high birth rate and falling death rate indicates a population growing rapidly. According to the demographic transition model, population growth occurs when birth rates are higher than death rates.
+		N>As birth and death rates are high, population growth remains high.
+			E>A high birth rate and the death rate indicates little population change. According to the demographic transition model, population growth occurs when birth rates are higher than death rates
+		Y>As birth rates are higher than death rates, population growth remains high.
+			E>According to the demographic transition model, population growth occurs when birth rates are higher than death rates.
+		N>As birth and the death rates lower, the total population remains low.
+			E>When birth and death rates are low, total population has grown to high levels. According to the demographic transition model, population growth occurs when birth rates are higher than death rates.
+		N>As birth rates drop below death rates, the total population remains stable.
+			E>A birth rates that has dropped below death rates indicates a shrinking population. According to the demographic transition model, population growth occurs when birth rates are higher than death rates.
+	Q>Many European countries provide families one or more of the following: tax credits, flexible parental leave, monthly payments, public-transportation fare reduction, free vaccines, and subsidized childcare. Which of the following would explain why a country such as Belgium would implement the described policies?
+		P>Family benefits in European countries
+		T>2.7
+		N>Belgium has concerns about gender equality and wants to increase female participation in the workforce.
+			E>Female workforce participation in very developed countries is likely already high. Gender equality is not the main motive for the incentives listed; rather, these incentives would encourage families to have more children.
+		Y>Belgium has concerns about an aging population and wants to encourage higher birth rates.
+			E>The incentives listed describe pronatalist policies, which are designed to encourage a higher birth rate and provide incentives for couples to have larger families. All of the items in this list are current practice in Belgium, though they are common throughout the region as concern grows about an aging population.
+		N>Belgium has concerns about a large youth population and wants to encourage lower birth rates.
+			E>Concerns about a large youth population would relate to antinatalist policies and the discouragement of having large families. The incentives listed would encourage couples to have larger families, not smaller ones.
+		N>Belgium has concerns about the ability of immigrants from developing regions to support themselves.
+			E>The incentives listed, such as flexible parental leave and subsidized childcare, are generally aimed at encouraging larger families. Their purpose is not to create a social welfare system for lower-income populations.
+		N>Belgium has concerns about an aging population and wants to encourage lower birth rates.
+			E>An aging population with lower birth rates would only serve to further deepen the issue. The incentives listed describe pronatalist policies designed to increase birth rates to alleviate the problems associated with an aging population.
+	Q>Which of the following statements accurately explains the population dynamics of a country on the table shown?
+		P>Birth rates and death rates in selected countries
+		T>2.4
+		I>Screenshot 2023-04-23 232106.png
+		N>Women in Ethiopia have increased opportunities to achieve higher levels of education than women in Vietnam.
+			E>Information related to educational opportunities is not provided in the table. However, the rates of birth do provide an indication that women in Vietnam, which is in the semiperiphery, typically have educational opportunities that are not available to women in Ethiopia, which is less developed. Germany’s death rates are higher than its birth rates, indicating a negative rate of natural increase.
+		N>It is not possible to determine emigration rates from the table because it provides only birth and death rates and not rates of emigration or immigration. Germany’s death rates are higher than its birth rates, indicating a negative rate of natural increase.
+			E>It is not possible to determine emigration rates from the table because it provides only birth and death rates and not rates of emigration or immigration. Germany’s death rates are higher than its birth rates, indicating a negative rate of natural increase.
+		N>Males in Chile have a longer life expectancy than males in Germany.
+			E>The table shows birth rates and death rates and does not provide information related to life expectancy for either males or females. Information that can be extrapolated from the data provided in the table is limited, for example, to a positive or negative rate of natural increase. Germany’s death rates are higher than its birth rates, indicating a negative rate of natural increase.
+		Y>Germany has a negative rate of natural increase.
+			E>Germany’s death rates are higher than its birth rates, indicating a negative rate of natural increase.
+		N>Bangladeshi citizens have access to high-quality health care.
+			E>Given the birth rate it is unlikely that most people in Bangladesh, especially women, have access to high-quality health care. In general, citizens of less developed countries struggle to access the kind of specialized health care that would result in low birth rates. Germany’s death rates are higher than its birth rates, indicating a negative rate of natural increase.
+	Q>Which of the following scenarios explains a demographic push factor for less developed countries?
+		P>Demographic push factor
+		T>2.10
+		Y>A large youth population, lacking educational opportunities, seek schooling in more developed countries.
+			E>A large youth population indicates that a country may struggle to control its demographic challenges, which could lead to too many people in relation to available seats in local schools.
+		N>Religious persecution and threats of violence create a refugee crisis in neighboring countries.
+			E>Religious persecution and threats of violence are cultural push factors, not demographic push factors, like a large youth population in a less developed country.
+		N>A working population, seeking higher wages, emigrate to more developed countries.
+			E>A working population with low wages is an economic push factor. A large youth population, lacking educational opportunities, represents a demographic push factor in less developed countries.
+		N>Drought threatening agricultural output and food supplies create a refugee crisis in neighboring countries.
+			E>Drought, lack of water, and a diminished food supply are examples of environmental push factors, not demographic push factors. A lack of educational opportunities owing to a large youth population is a demographic push factor in less developed countries.
+		N>An oppressive government discriminates against minorities, forcing ethnic groups to live in rural enclaves.
+			E>An oppressive government discriminating against minority groups is a political push factor. A lack of educational opportunities owing to a large youth population is a demographic push factor in less developed countries.
+	Q>Which of the following describes forced migration?
+		P>Forced migration in the twenty-first century
+		T>2.11
+		N>Residents from New Orleans, United States, being displaced during Hurricane Katrina
+			E>Residents were under mandatory evacuation orders during the storm and were forced to move as a result of this environmental situation but were permitted to return if they so desired. Many did not wish to return and were classified as internally-displaced persons. The movement of convicts from Great Britain to Australia is an example of forced migration.
+		N>Residents from Sendai, Japan, being displaced during an earthquake and related tsunami
+			E>The earthquake and tsunami in Sendai, Japan, created internally-displaced residents and a need for some residents to relocate with limited options for place. The movement of convicts from Great Britain to Australia is an example of forced migration.
+		N>Population movement to cities with more job opportunities created by economic recession
+			E>Movement to pursue job opportunities does not classify as a forced migration but is a type of voluntary migration. Economic recession is an example of a push factor. The movement of convicts from Great Britain to Australia is an example of forced migration.
+		Y>British convicts shipped to Australia in the mid-eighteenth to mid-nineteenth centuries
+			E>The movement of convicts from Great Britain to Australia is an example of forced migration because the convicts were moved by government orders and had no choice.
+		N>Northern Europeans moving to southern European countries for health reasons
+			E>Movement for health reasons does not classify as a forced migration but is a type of voluntary migration. Better climate, health care, and living conditions are pull factors leading to voluntary migration. The movement of convicts from Great Britain to Australia is an example of forced migration.
+	Q>Japan has a low birth rate and a high life expectancy. Which of the following explains why Japan will struggle with demographic challenges in 30 years?
+		P>Demographic challenges in Japan
+		T>2.9
+		N>Too many youth dependents for the education system will require increased taxes.
+			E>Because of the low birth rate, funding education for a large youth population will not be a future challenge. Rather, Japan will struggle to fund adequate health care for the elderly population as the current workforce reaches retirement age.
+		Y>An aging population needing health care will require more public funding.
+			E>In 30 years, many of the current working age population will have aged into retirement and have become elderly dependents. This in turn will increase demands for the funding of health care required by this age group.
+		N>Too many workers for available jobs will lead to high rates of unemployment.
+			E>The low birth rate means that having too few workers, rather than too many, is a more likely issue. Instead, Japan will struggle to fund adequate health care for the elderly population as the current workforce reaches retirement age.
+		N>A rapidly increasing population will strain the country’s infrastructure.
+			E>Japan’s population growth is slowing, which would not place extra strain on the country’s current infrastructure. The aging population will create issues in terms of funding health care.
+		N>A rapidly increasing population will strain the available food supply.
+			E>Japan’s population growth is slowing, which would not place further strain on the country’s available food supply. However, the aging population will create issues in terms of funding health care.
+	Q>A country develops new technologies for farming, which help stabilize and increase food supply. According to Malthusian theory, which of the following would best explain those results?
+		P>Impact of stable food supply
+		T>2.6
+		N>The new technologies would conserve water and energy supplies.
+			E>Malthus was primarily concerned about the relationship between food supply and population growth, not water and energy. Agricultural advancements would help to reduce occurrences of famine, which Malthus viewed as a positive check on population.
+		N>The new technologies would reduce preventive checks on population.
+			E>Malthus viewed preventive checks, such as moral restraint, as ways to avoid population increase. Positive checks, such as famine, would be prevented by an increased food supply.
+		Y>The new technologies would reduce positive checks on population.
+			E>Malthus believed circumstances like war and famine constituted positive checks on population and was especially concerned that food production could never keep up with population growth. However, new agricultural technology would contribute to a stable food supply and thus enable population to grow without positive checks.
+		N>The new technologies would create a rapid decrease in population.
+			E>Stabilizing food supply with new technology would enable population to grow, rather than decrease population. Agricultural technology and the subsequent stable food supply are an example of ways to reduce positive checks on population, such as famine.
+		N>The new technologies would increase the need for preventative checks of population.
+			E>Stabilizing food supply does not deal with Malthus’ preventive checks, such as moral restraint. Rather, agricultural advancements would reduce positive checks on population growth, such as famine.
+	Q>Based on the data shown in the table, which of the following accurately describes changes in the roles of women as countries develop economically?
+		P>Women in more developed countries
+		T>2.8
+		I>Screenshot 2023-04-23 233438.png
+		N>More women work in agriculture
+			E>More women working in agriculture does not correspond to trends of increasing education, wealth, and status for women that occur with economic development. The lower birth rates, lower fertility rates, increased urban percentage, and higher life expectancy in more developed countries compared with less developed countries indicate that more women are working in professional jobs.
+		N>More women leave the workforce
+			E>As countries develop economically, more women enter the paid workforce. The lower birth rates, lower fertility rates, increased urban percentage, and higher life expectancy in more developed countries compared with less developed countries indicate that more women are working in professional jobs.
+		Y>More women work in professional jobs
+			E>The lower birth rates, lower fertility rates, increased urban percentage, and higher life expectancy in more developed countries compared with less developed countries indicate that more women are working in professional jobs.
+		N>Fewer women enroll in secondary school
+			E>More developed countries tend to have higher rates of secondary school enrollment for women and therefore more women working in professional jobs. The lower birth rates, lower fertility rates, increased urban percentage, and higher life expectancy in more developed countries compared with less developed countries indicate that more women are working in professional jobs.
+		N>Most women work in the home
+			E>More developed countries tend to have fewer women working in the home and more women working in professional jobs. The lower birth rates, lower fertility rates, increased urban percentage, and higher life expectancy in more developed countries compared with less developed countries indicate that more women are working in professional jobs.
+	Q>A high level of mobility for international migration and employment is best explained by which of the following demographic groups?
+		P>Individual likely to migrate internationally
+		T>2.10
+		Y>Unmarried men in their late twenties with no children and a university education
+			E>Single and childless people are more likely to migrate than married people or people with children. Men are more likely to migrate internationally than women. Young people are more likely to migrate than older people. A college education gives an individual more options than a high school education.
+		N>Unmarried woman in their twenties with no children and a high school education
+			E>Men are more likely to migrate internationally than women. In a more developed country, a university education gives a person more employment options than a high school education.
+		N>Married man in their forties with children and a high school education
+			E>Single and childless people are more likely to migrate than married people or people with children. In a more developed country, a university education gives a person more employment options than a high school education.
+		N>Unmarried men in their thirties with children and a high school education
+			E>Single and childless people are more likely to migrate than married people or people with children. In a more developed country, a university education gives a person more employment options than a high school education.
+		N>Married woman in their thirties with children and a university education
+			E>Single and childless people are more likely to migrate than married people or people with children. Men are more likely to migrate internationally than women
+	Q>Which of the following population patterns is common in more developed countries?
+		P>Population Pattern in MDCs
+		T>2.3
+		N>High birth rates, leading to younger age structures
+			E>Birth rates tend to be lower in more developed countries than in less developed countries. Declines in fertility and mortality associated with economic development lead to older population age structures and decreasing proportions of youth and working-age adults.
+		N>An uneven ratio of males to females, leading to lower total fertility rates
+			E>Among older populations, there may be more females than males due to females’ higher average life expectancy. However, this type of imbalance is not typically seen in young age cohorts and does not impact total fertility rates. Declines in fertility and mortality associated with economic development lead to older population age structures and decreasing proportions of youth and working-age adults.
+		N>Higher population densities in rural areas, leading to scarcity of natural resources
+			E>Population densities are higher in urban rather than rural areas. Declines in fertility and mortality associated with economic development lead to older population age structures and decreasing proportions of youth and working-age adults.
+		N>A rapidly increasing working-age population, leading to high unemployment rates
+			E>In more developed countries, the working-age population tends to grow slowly, remain stable, or decline. Declines in fertility and mortality associated with economic development lead to older population age structures and decreasing proportions of youth and working-age adults.
+		Y>Declining levels of fertility and mortality, leading to older age structures
+			E>Declines in fertility and mortality associated with economic development lead to older population age structures and decreasing proportions of youth and working-age adults.
+	Q>A population pyramid that is wide at the top and narrow at the bottom most likely represents which of the following populations?
+		P>Inverted Population Pyramid
+		T>2.3
+		N>A rapidly expanding population
+			E>The population pyramid of a rapidly expanding population would be a classic pyramid that is wide at the base and narrow at the top. An "inverted" population pyramid that is very wide at the top and very narrow or pointed at the bottom most likely represents an age-restricted community limited to older adults.
+		N>A stable or declining population
+			E>The population pyramid of a declining or stable population is shaped like a column. An "inverted" population pyramid that is very wide at the top and very narrow or pointed at the bottom most likely represents an age-restricted community limited to older adults.
+		N>A population with an unusually small percentage of older females
+			E>A population with an unusually small percentage of older females would have an asymmetrical population pyramid: very narrow on the right-hand, or female, side in the top few bars. An "inverted" population pyramid that is very wide at the top and very narrow or pointed at the bottom most likely represents an age-restricted community limited to older adults.
+		Y>A population of retirees
+			E>An "inverted" population pyramid that is very wide at the top and very narrow or pointed at the bottom most likely represents an age-restricted community limited to older adults.
+		N>A population with a large percentage of younger male guest workers
+			E>A population with a large percentage of younger male guest workers would have an asymmetrical population pyramid with longer than usual bars on the left-hand, or male, side for the ages of 30-45 years. An "inverted" population pyramid that is very wide at the top and very narrow or pointed at the bottom most likely represents an age-restricted community limited to older adults.
+U>3
 	Q>
 		P>
 		T>
-		I>
-		N>
+		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
 			E>
-		N>
+		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
 			E>
-		N>
+		Y>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
 			E>
-		N>
+		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
 			E>
-		N>
+		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
 			E>
-U>3
+U>4
 	Q>
-		P>asf
-		T>as
+		P>
+		T>
 		N>
 			E>
 		N>
 			E>
-		Y>aa
+		Y>
+			E>
+		N>
+			E>
+		N>
+			E>
+U>5
+	Q>
+		P>
+		T>
+		N>
+			E>
+		N>
+			E>
+		Y>
+			E>
+		N>
+			E>
+		N>
+			E>
+U>6
+	Q>
+		P>
+		T>
+		N>
+			E>
+		N>
+			E>
+		Y>
+			E>
+		N>
+			E>
+		N>
+			E>
+U>7
+	Q>
+		P>
+		T>
+		N>
+			E>
+		N>
+			E>
+		Y>
 			E>
 		N>
 			E>

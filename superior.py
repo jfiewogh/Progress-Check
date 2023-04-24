@@ -11,15 +11,54 @@ import os
 units = [int(x.replace('U>', '')) for x in inferior.units_indexes.keys()]
 
 root = tk.Tk()
+#root.configure(background='#999999')
 root.title('APHG Progress Checks Practice')
 root.geometry('1000x800')
 
 start_page = tk.Frame(root)
 start_page.pack()
 
-quiz_page = tk.Frame(root)
+def quiz_page_pack():
+    quiz_page.pack(fill='both', expand=True)
+    quiz_page.pack_propagate()
+
+quiz_page = tk.Frame(root, bg='#999999')
+quiz_page_pack()
 
 question_page = tk.Frame(quiz_page)
+
+def question_page_pack():
+    question_page.pack(fill='both', expand=True)
+
+###########
+
+def choices_main_frame_pack():
+    choices_main_frame.pack(fill='x')
+
+# Create A Main Frame
+choices_main_frame = tk.Frame(question_page, bg='#FF0000')
+
+# Create A Canvas ##################### NOT WORKING NOT WORKING WHY WHY WHY HELP ME GOD
+choices_canvas = tk.Canvas(choices_main_frame, bg='#00FF00')
+choices_canvas.pack(side='left')
+ 
+# Add A Scrollbar To The Canvas
+choices_scrollbar = tk.Scrollbar(choices_main_frame, orient='vertical', command=choices_canvas.yview)
+choices_scrollbar.pack(side='right', fill='y')
+
+# Configure The Canvas
+choices_canvas.configure(yscrollcommand=choices_scrollbar.set)
+choices_canvas.bind('<Configure>', lambda e: choices_canvas.configure(scrollregion=choices_canvas.bbox("all")))
+
+# Create ANOTHER Frame INSIDE the Canvas
+choices_frame = tk.Frame(choices_canvas, bg='#0000FF')
+choices_frame.pack(fill='x')
+#
+
+choices_canvas.create_window((0, 0), window=choices_frame, anchor='n')
+
+###########
+
 question_result_page = tk.Frame(quiz_page)
 final_result_page = tk.Frame(quiz_page)
 
@@ -43,7 +82,7 @@ def get_questions_lines():
             unit_lines = inferior.get_unit_lines(i)
             questions_lines += inferior.get_questions_lines(unit_lines)
             unit_var.set(0)
-    #random.shuffle(questions_lines)
+    random.shuffle(questions_lines)
 
 ##########################################
 
@@ -61,54 +100,54 @@ def create_images():
             images[image] = get_image(image, folder)
 
 def set_result():
-    result_var.set(f'Total Correct: {total_correct} | Total Incorrect: {total_incorrect} | Questions Completed: {question_num_var.get()} | Total Questions: {len(questions_lines)}')
+    result_var.set(f'Total Correct: {total_correct} | Total Incorrect: {total_incorrect} | Questions Completed: {total_correct+total_incorrect} | Total Questions: {len(questions_lines)}')
 
 def begin():
     get_questions_lines()
 
     if len(questions_lines) > 0:
         global total_correct, total_incorrect; total_correct, total_incorrect = 0, 0
+        question_num_var.set(1)
         set_result()
 
-        question_num_var.set(1)
-
         start_page.pack_forget()
-        quiz_page.pack()
-        question_page.pack()
+        quiz_page_pack()
+        question_page_pack()
 
         update_question(question_num_var.get())
 ##
 
 def submit_question():
-    ##if chosen_var.get() != -1:
-        question_page.pack_forget()
+    question_page.pack_forget()
 
-        global total_correct, total_incorrect
-        if chosen_var.get() != -1 and choices_vars[chosen_var.get()].get() == correct_choice[0]: 
-            total_correct += 1
-        else: 
-            total_incorrect += 1
-            topic = question_topic_var.get()
-            if topic in incorrect_topics:
-                incorrect_topics[topic] += 1
-            else:
-                incorrect_topics[topic] = 1
-        set_result()
+    global total_correct, total_incorrect
+    if chosen_var.get() != -1 and choices_vars[chosen_var.get()].get() == correct_choice[0]: 
+        total_correct += 1
+    else: 
+        total_incorrect += 1
+        topic = question_topic_var.get()
+        if topic in incorrect_topics:
+            incorrect_topics[topic] += 1
+        else:
+            incorrect_topics[topic] = 1
+    set_result()
 
-        # Result Page
-        for i in range(5):
-            color = '#0c6107' if choices_vars[i].get() == correct_choice[0] else '#bf1f02'
-            result_choices[i][0].config(fg=color)
-            result_choices[i][1].config(fg=color)
-        question_result_page.pack()
+    # Result Page
+    for i in range(5):
+        is_correct_choice = choices_vars[i].get() == correct_choice[0]
+        fg_color = '#0c6107' if is_correct_choice else '#bf1f02'
+        bg_color = ('#d1ffbd' if is_correct_choice else '#f9aeae') if i == chosen_var.get() else '#F0F0F0'
+        result_choices[i][0].config(fg=fg_color, bg=bg_color)
+        result_choices[i][1].config(fg=fg_color, bg=bg_color)
+    question_result_page.pack()
 
-def end():
+def end_quiz():
     topics = sorted(incorrect_topics.items(), key=lambda x: x[1], reverse=True)
 
     quiz_grade = f'{round(total_correct/len(questions_lines)*100, 2)}%'
     final_result_label.config(text=f'Grade: {quiz_grade} ({total_correct}/{len(questions_lines)})')
 
-    topics_text = '\n'.join([f'{topic} - {count}' for topic, count in topics])
+    topics_text = '\n'.join([f'{topic} - {count}/3 Incorrect' for topic, count in topics])
     topics_label.config(text=topics_text)
 
     question_page.pack_forget()
@@ -116,14 +155,15 @@ def end():
 
 def next_question():
     question_result_page.pack_forget()
-    question_page.pack()
+    question_page_pack()
 
-    question_num_var.set(question_num_var.get()+1)
-    question_num = question_num_var.get()
+    question_num = question_num_var.get()+1
+    question_num_var.set(question_num)
 
     if question_num <= len(questions_lines):
         update_question(question_num)
-    else: end()
+    else: 
+        end_quiz()
 
 def update_question(question_num):
     chosen_var.set(-1)
@@ -190,8 +230,10 @@ tk.Label(image_canvas, textvariable=image_text_var, font=('Noto Sans', 10, 'bold
 # Image Label
 image_label = tk.Label(image_canvas)
 
+choices_main_frame_pack()
+
 def create_choice_button(a):
-    tk.Radiobutton(question_page, textvariable=choices_vars[a], font=('Noto Sans', 11), wraplength=900, variable=chosen_var, value=a).pack()
+    tk.Radiobutton(choices_frame, textvariable=choices_vars[a], font=('Noto Sans', 11), wraplength=900, variable=chosen_var, value=a).pack()
 [create_choice_button(i) for i in range(5)]
 
 ######################### QUESTION RESULT PAGE ##################################
@@ -223,6 +265,14 @@ def create_choice_explanations(i):
 result_choices = [create_choice_explanations(i) for i in range(5)]
 
 ######################### QUESTION RESULT PAGE ##################################
+
+def exit():
+    final_result_page.pack_forget()
+    quiz_page.pack_forget()
+    start_page.pack()
+
+exit_results_button = tk.Button(final_result_page, text='Exit', font=top_button_font, command=exit)
+exit_results_button.pack()
 
 final_result_label = tk.Label(final_result_page)
 final_result_label.pack()
