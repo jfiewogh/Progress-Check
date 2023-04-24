@@ -25,7 +25,7 @@ U>1
 			E>Although literacy affects a country's political participation, civic participation would be measured with data on voting or membership in political parties, which would provide a more accurate indicator of political development. From a social perspective, the literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
 		N>It provides a political perspective on each country's system of government.
 			E>Although literacy affects a country's political participation, the system of government doe not directly relate to a country's level of development. From a social perspective, the literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
-		Y>It provides a perspective on each countrys level of social development.
+		Y>It provides a perspective on each country's level of social development.
 			E>The adult literacy rate is one indicator of how far each contry is developed socially. The literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
 	Q>The darkest shading on the map indicates the areas with the highest population densities. Which of the following statements best describes the pattern of population density shown?
 		P>New York Density
@@ -39,7 +39,7 @@ U>1
 			E>All the maps show clear variation in population density, regardless of scale. Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
 		N>New York City and New York State have similar population densities.
 			E>New York City has more dark-shaded areas than New York state. Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
-		Y>Manhattan appears to have the highest population desity at all three scales.
+		Y>Manhattan appears to have the highest population density at all three scales.
 			E>Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
 	Q>Which spatial patterns on the map shown would be most helpful to someone selecting the location for a new coffee shop?
 		P>New York Density
@@ -226,7 +226,7 @@ U>1
 			E>Most areas of the Appalachian Mountains have 10 to 100 persons per square mile, and most areas of the Rocky Mountains have less than 10 persons per square mile. By comparison, the Midwest is more densely populated than the Great Plains.
 		N>The Midwest is much more densely populated than the Southeast.
 			E>The Midwest and Southeast have similar levels of population density of 10 to 100 persons per square mile with multiple urban centers. By comparison, the Midwest is more densely populated than the Great Plains.
-		N>The Great Plains are less densely populated than the Midwest.
+		Y>The Great Plains are less densely populated than the Midwest.
 			E>Most areas of the Midwest are in the range of 10 to 100 persons per square mile, and most areas of the Great Plain have less than 10 persons per square mile.
 		N>The Pacific Coast is far less populated than the Atlantic Coast of the United States
 			E>The Pacific Coast and Atlantic Coast have similar levels of population density. By comparison, the Midwest is more densely populated than the Great Plains.
@@ -268,7 +268,7 @@ U>1
 			E>Latitude is depicted as lines on a map showing the distance in degrees from the Equator. A Robinson projection is designed to show the world with moderate areas of map distortion in the middle latitudes. The map shown is a cartogram.
 		N>longitude in a Mercator projection
 			E>Longitude is depicted as lines on a map showing the distance in degrees from the Prime Meridian. A Mercator projection is a cylindrical projection with equally spaced meridians with map distortion near the polar regions. The map shown is a cartogram.
-		N>population in a cartogram
+		Y>population in a cartogram
 			E>Population differences can be shown in graduated symbols displayed as a map. A cartogram distorts locations on a map to better present data values.
 		N>elevation topographic map
 			E>Elevation is depicted as contour lines on topographic maps and shows areas of similar elevation along each line. A topographic map shows terrain but distorted in a two-dimensional format. The map shown is a cartogram.
@@ -297,6 +297,20 @@ U>2
 		N>
 			E>
 		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+U>3
+	Q>
+		P>asf
+		T>as
+		N>
+			E>
+		N>
+			E>
+		Y>aa
 			E>
 		N>
 			E>

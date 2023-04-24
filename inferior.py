@@ -27,7 +27,6 @@ def get_question(question_lines):
             question[4] = line.replace('T>', '')
         elif 'I>' in line:
             question[5] = [x for x in line.replace('I>', '').split('<>')]
-            print(question[5])
 
     return question
 
