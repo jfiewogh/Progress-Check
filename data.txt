@@ -1,6 +1,6 @@
 U>1
 	Q>A non governmental organization is planning a new international elementary education program. Based on the map shown, which of the following groups of countries would be the best candidates to receive funding?
-		P>Adult Literacy
+		QN>Adult Literacy
 		T>1.3
 		I>VR021249.g05.png<>ADULT LITERACY RATE BY COUNTRY
 		N>Brazil, Bolivia, Peru
@@ -14,7 +14,7 @@ U>1
 		Y>Ethiopia, Somalia, South Sudan
 			E>Countries in sub-Saharan Africa, such as Ethiopia, Somalia, and South Sudan, have the lowest literacy rates and would be most in need for international education programs.
 	Q>Which of the following best describes the spatial pattern of adult literacy rates presented in the map?
-		P>Adult Literacy
+		QN>Adult Literacy
 		T>1.3
 		I>VR021249.g05.png<>ADULT LITERACY RATE BY COUNTRY
 		N>It provides an economic perspective on the productivity of each country's workforce.
@@ -28,7 +28,7 @@ U>1
 		Y>It provides a perspective on each country's level of social development.
 			E>The adult literacy rate is one indicator of how far each contry is developed socially. The literacy rate indicates the level of participation in schools. As well, the literacy rate indicates a government's willingness or ability to provide access to education for its population.
 	Q>The darkest shading on the map indicates the areas with the highest population densities. Which of the following statements best describes the pattern of population density shown?
-		P>New York Density
+		QN>New York Density
 		T>1.6
 		I>VR021322.g01.png<>NEW YORK POPULATION DENSITY AT DIFFERENT SCALES
 		N>Manhattan appears to have the lowest population density at all three scales.
@@ -42,7 +42,7 @@ U>1
 		Y>Manhattan appears to have the highest population density at all three scales.
 			E>Manhattan, within New York City, has more dark shading on each map and therefore represents the place with the highest population density at all three scales.
 	Q>Which spatial patterns on the map shown would be most helpful to someone selecting the location for a new coffee shop?
-		P>New York Density
+		QN>New York Density
 		T>1.4
 		I>VR021322.g01.png<>NEW YORK POPULATION DENSITY AT DIFFERENT SCALES
 		N>The map of New York State, because it shows the least and most densely populated counties in the state.
@@ -56,7 +56,7 @@ U>1
 		N>The map of the Borough of Manhattan, because it shows the shoreline of the island of Manhattan.
 			E>In contrast to the other two maps, this map does allow for easy identification of the Island of Manhattan. However, the shoreline alone is not sufficient information for identifying the location of a new coffee shop.
 	Q>Which of the following geospatial technologies is typically used to analyze the data layers such as those shown in the maps?
-		P>GIS Layers
+		QN>GIS Layers
 		T>1.2
 		I>VR021393.g01.png<>COUNTY-LEVEL DATA
 		N>Aerial photography interpretation
@@ -70,7 +70,7 @@ U>1
 		N>Global positioning system (GPS)
 			E>Global positioning systems (GPS) are satellite etworks that can be used to produce location data, survey landscapes, and provide data for navigation systems. However, GPS cannot be used to analyze or map numerical population statistics for residential areas, as is done with geographer information systems (GIS).
 	Q>The maps show data most likely collected through
-		P>GIS Layers
+		QN>GIS Layers
 		T>1.2
 		I>VR021393.g01.png<>COUNTY-LEVEL DATA
 		N>election results
@@ -84,7 +84,7 @@ U>1
 		N>interviews
 			E>While census data may be supplemented with interviews, it is not likely that interviews would be the primary source of spatial data for an area as large as the United States. Data about age and numbers of persons per household are collected in census surveys.
 	Q>Which of the following types of information is shown in the table?
-		P>Statistics for German States
+		QN>Statistics for German States
 		T>1.2
 		I>VH901705.g01.png
 		N>Tax records
@@ -98,7 +98,7 @@ U>1
 		N>School enrollments
 			E>An education department might collect some population information but is less likely to collect information on the average life expectancy for entire states. A census agency has the ability to survey the population and report on a number of statistics at the state or country scale.
 	Q>Which of the following statements best explains the concept of sustainability?
-		P>Sustainability
+		QN>Sustainability
 		T>1.5
 		N>Natural resources are the domain of humans because of the ability of humans to take appropriate action for their use without fear of resource depletion.
 			E>The idea that humans have dominion over natural resources is a utilization perspective that does not take into account that the volume of resources is limited and can become depleted by human action. The concept of sustainability is a process where the environmentally balanced conservation and preservation of natural resources will provide for the needs of future generations.
@@ -111,7 +111,7 @@ U>1
 		N>Natural resource use should be generate economic profits because of the new technologies that make procuring the resources cost effective.
 			E>The idea that economic profits are the outcome of natural resource use is a utilization perspective that does not take into account that the volume of resources is limited and can become depleted by human action. The concept of sustainability is a process which the environmentally balanced conservation and preservation of natural resources will provide for the needs of future generations.
 	Q>In 1854, London physician Dr. John Snow mapped the spatial relationship between deaths from the waterborne disease cholera and the locations of water pumps which brought in water directly from tunnels connected to the River Thames. From Snow's research it was determined that a public water pump had been contaminated by sewage. What geographic principle explains the significance of Snow's research?
-		P>Broad Street Pump
+		QN>Broad Street Pump
 		T>1.5
 		N>As cities remove natural resources from the landscape, those resources become insignificant.
 			E>
@@ -124,7 +124,7 @@ U>1
 		N>Societies leave a cultural imprint on the land, such as the pattern of streets and water systems.
 			E>The idea that societies leave a significant imprint on the land is classified as possibilism. Snow's research identified an important link between nature and society in urban areas. However, his research did not examine the human imprint on the land, as much as his work illustrated the geography of nature's impacts on humans. Nature and society as a geographic concept is important to understanding this relationship between urban land use and the increased demand for natural resources.
 	Q>Which of the following questions must be answered in order to identify a functional region?
-		P>Functional Region
+		QN>Functional Region
 		T>1.7
 		N>What specific characteristic defines a region?
 			E>A specific characteristic (e.g., language) that defines a region may not indicate what type of region it is. The functional region is a type of region with a node where activity is centered.
@@ -137,7 +137,7 @@ U>1
 		Y>What area is influenced by a node?
 			E>A functional region is defined by the extent of the influence of its node.
 	Q>For centuries, sugar crystals were made from the evapored juice of sugarcane, a plant grown only in tropical and subtropical cliamtes. In the 1800s, industrial methods were developed to manufacture crystalline sugar from sugar beets. This allowed for large amonts of sugar to be produced in colder, temperate climate zones. Which of the following geographic concepts best explains the ability of humans to use technology to overcome the limitations of climate and modify the landscape?
-		P>Sugar Beets and Possibilism
+		QN>Sugar Beets and Possibilism
 		T>1.5
 		N>Environmental determinism
 			E>The theory of environmental determinism would suggest that all sugar production would be located in warmer climates. Possibilism holds that humans adapt to the natural environment rather than allowing the environment to determine human actions.
@@ -150,7 +150,7 @@ U>1
 		N>Political ecology
 			E>Political ecology relates to political influences on the environment; this concept is not related to the case of sugar beets. Possibilism holds that humans adapt to the natural environment rather than allowing the environment to determine human actions.
 	Q>Which of the following map scales would be used for the topographic map shown?
-		P>Topographic Map Selection
+		QN>Topographic Map Selection
 		T>1.6
 		I>VH911290.g03.png<>TOPOGRAPHIC MAP, CAPULIN VOLCANO NATIONAL MONUMENT, NEW MEXICO
 		Y>1:24,000
@@ -164,7 +164,7 @@ U>1
 		N>1:5,000,000
 			E>1:5,000,000 would be a small-scale map with very little topographical detail. Large-scale topographic maps are generally published at 1:24,000 scale.
 	Q>Which of the following concepts best explains the differences among the values shown in the table?
-		P>Scale of Analysis
+		QN>Scale of Analysis
 		T>1.6
 		I>Screenshot 2023-04-15 000830.png
 		N>Spatial analysis
@@ -178,7 +178,7 @@ U>1
 		N>Relative direction
 			E>Relative direction is the geographic description of a route or pathway relative to another location, e.g., “From the Capitol, walk to the Washington Monument and turn right to see the White House.” The data in the table do not indicate the relative direction from one place to another.
 	Q>With the dawn of the Jet Age, international airline travel increased rapidly after 1950, and much of this early growth in jet travel was between Europe and North America. Which of the following best describes the spatial pattern suggested by the table?
-		P>Relative Distance
+		QN>Relative Distance
 		T>1.4
 		I>Screenshot 2023-04-15 001212.png<>INTERNATIONAL AIR TRAVEL
 		N>The volume of trade between Europe and North America increased.
@@ -192,7 +192,7 @@ U>1
 		Y>The relative distance between Europe and North America decreased.
 			E>Relative distance is defined by the travel time or ease of travel between two locations. With the reduction in travel time from days aboard a ship to hours of a flight, the relative distance between Europe and North America was reduced.
 	Q>Based on the geospatial data in the example shown, which combination of technologies provides real-time data to emergency call centers to route police, fire, and ambulance vehicles directly to incidents in the shortest possible travel time?
-		P>GIS and GPS Combined Use
+		QN>GIS and GPS Combined Use
 		T>1.3
 		I>VH918379.g04.png
 		N>Remote sensing satellites and cellular telephone towers
@@ -206,7 +206,7 @@ U>1
 		N>Digital radio signals and vehicle call signs
 			E>Vehicle call signs (e.g., Engine 50, Ambulance 4) provide geographic information only on the patrol areas or service areas for a vehicle or emergency personnel. Radio provides a means of communication, but is not a means of calculating routes to a location.
 	Q>Which of the following terms best describes the suburban area of Illinois where many residents commute to Chicago?
-		P>Commuting Functional Region
+		QN>Commuting Functional Region
 		T>1.7
 		N>Perceptual region
 			E>A perceptual region is defined based on subjective perceptions of a region or place. The suburbs of Chicago form a functional system with a central node, as opposed to a perception of a region.
@@ -219,7 +219,7 @@ U>1
 		N>Equal area region
 			E>The term "equal area" refers to a type of map projection rather than a type of region. The suburbs of Chicago form a functional region with a central node.
 	Q>Which of the following patterns is evident on the map of population density?
-		P>Population Density Map
+		QN>Population Density Map
 		T>1.4
 		I>VH919220.g02.png
 		N>The Appalachian Mountains are less densely populated than the Rocky Mountains
@@ -233,7 +233,7 @@ U>1
 		N>The Rocky Mountains are more densely populated than the Southwest
 			E>The Southwest has several areas with 10 to 100 persons per square mile and 101 to 1,000 persons per square mile. The Rocky Mountains is mostly less than 10 persons per square mile. By comparison, the Midwest is more densely populated than the Great Plains.
 	Q>Which of the following statements is an accurate comparison of the two map projections shown?
-		P>Map Projections
+		QN>Map Projections
 		T>1.1
 		I>VH911603.g01.png
 		Y>The Mercator projection accurately shows direction but distorts the size of some areas compared to the Robinson projection.
@@ -247,7 +247,7 @@ U>1
 		N>The Mercator projection accurately shows area but distorts shapes compared to the Robinson projection.
 			E>The Mercator projection does not provide accurate size for land areas, especially in the polar regions. Direction is accurate on Mercator projection maps, but the size of some areas may be exaggerated.
 	Q>Which of the following map types is shown?
-		P>Map Types
+		QN>Map Types
 		T>1.1
 		I>VH907437.g01.png<>PERCENT OF STATE WORKFORCE IN MANUFACTURING, 2019
 		N>Isopleth
@@ -261,7 +261,7 @@ U>1
 		N>Topographic
 			E>Topographic maps show relief often using contour lines and at large scales. Showing just the topography of an area does not provide information on the percent of jobs in any particular job sector. Choropleth maps are better for displaying percentage data.
 	Q>The data presented in the map shown depict 
-		P>Cartogram
+		QN>Cartogram
 		T>1.1
 		I>VH907440.g02.png
 		N>latitude in a Robison projection
@@ -275,7 +275,7 @@ U>1
 		N>taxation in a flow-line map
 			E>Taxation would be depicted as numerical labels or line widths showing the amounts paid. A flow-line map is a type of thematic map that would show movement and direction of flow, such amounts paid by people in each state to the federal government. The map shown is a cartogram.
 	Q>In his book My Tears Spoiled My Aim, John Shelton Reed explains the difficulty of defining the American South. "Where is the South? . . . The South is, to begin with, a concept—and a shared one. It's an idea that people can talk about, think about, use to orient themselves and each other. People know whether they're in it or not." Based on Reed's explanation, the South is best described as which kind of region?
-		P>Vernacular Region
+		QN>Vernacular Region
 		T>1.7
 		N>Functional
 			E>A functional region is organized around a focal point or a node. The quotation does not refer to the American South as a node with a surrounding area. The quotation refers to the South as a vernacular region.
@@ -289,7 +289,7 @@ U>1
 			E>A linguistic region is an area in which the same language is spoken. The quotation refers to communication but not to a single language or dialect. The quotation refers to the South as a vernacular region.
 U>2
 	Q>Which of the following types of population information is shown on the map?
-		P>Africa Population Density
+		QN>Africa Population Density
 		T>2.1
 		I>VR021464.g01.png
 		N>Transnational migration
@@ -303,7 +303,7 @@ U>2
 		N>Physiological density
 			E>Based on the legend, the map does not convey information about patterns of physiological density, the number of people per unit of arable land within an area. The map legend identifies the variations of shading on the map as representing certain ranges of arithmetic density, a measure of people per square kilometer of total land area
 	Q>Population patterns shown on the map indicate that areas around river deltas and upland lake and river valleys have higher densities. Which of the following best explains why these regions are more heavily populated?
-		P>Africa population density
+		QN>Africa population density
 		T>2.2
 		I>VR021464.g01.png
 		N>These regions have pronatalist policies.
@@ -317,7 +317,7 @@ U>2
 		Y>These regions have higher carrying capacities.
 			E>These regions have higher carrying capacities because of their proximity to reliable freshwater sources. Upland lakes, and river deltas can support larger human populations because they provide a form of transportation, reliable access to water for daily needs, and a source of water for agricultural practices.
 	Q>Which of the following best identifies the data for western China, shown on the map?
-		P>China population map
+		QN>China population map
 		T>2.1
 		I>VR021613.g01.png
 		N>High carrying capacity
@@ -331,7 +331,7 @@ U>2
 		Y>Low arithmetic density
 			E>The map shows arithmetic density, which refers to the number of people per unit of land. The pattern on the map indicates that arithmetic density is lower in western China.
 	Q>If rural-to-urban migration continues in China, which of the following outcomes is likely?
-		P>China population map
+		QN>China population map
 		T>2.2
 		I>VR021613.g01.png
 		N>Farming will become unsustainable.
@@ -345,7 +345,7 @@ U>2
 		N>Wages will increase in urban areas.
 			E>Although wages may increase in urban areas, the map does not provide an indication of this change. Clusters of large cities indicate very high levels of population density that likely result in housing shortages.
 	Q>Which statement best explains an environmental impact of China's population distribution?
-		P>China population map
+		QN>China population map
 		T>2.2
 		I>VR021613.g01.png
 		N>The population distribution shown allows for large-scale agricultural expansion in western China to increase the food supply.
@@ -359,7 +359,7 @@ U>2
 		Y>The population distribution shown requires more intensive use of limited soil and water resources to increase the carrying capacity of agricultural land.
 			E>China’s large urban population and increasing urban expansion into available agricultural land place higher demands on increasingly limited soil and water resources. This requires more agricultural inputs, such as pesticides and fertilizers, to increase the carrying capacity of the land.
 	Q>Which of the following patterns is indicated by the population pyramid shown?
-		P>Ghana population pyramid
+		QN>Ghana population pyramid
 		T>2.8
 		I>VH922696.g01.png
 		N>Levels of education and contraceptive usage are high among women.
@@ -373,7 +373,7 @@ U>2
 		N>The population has a low infant mortality rate.
 			E>The population pyramid’s wide base indicates that Ghana is a developing country, which is characterized by lower-quality health care and higher infant mortality rates compared to developed countries. The wide base of the population pyramid indicates a high population growth rate.
 	Q>Which of the following statements best explains the trend about infant mortality shown in the bar chart?
-		P>Infant mortality by region
+		QN>Infant mortality by region
 		T>2.4
 		I>VH916983.g01.png
 		N>The trend can be explained by improvements in political participation and voting in all regions.
@@ -387,7 +387,7 @@ U>2
 		N>The trend can be explained by improvements in communications and Internet access.
 			E>Improvements in communication and Internet access have limited impact on infant mortality rates. Improved access to health care and nutrition has the most significant impact on the decline in infant mortality rates.
 	Q>A large number of Turkish people migrated to Germany in the 1960s, when West Germany's manufacturing economy was booming and Turkey's economy was predominantly agricultural. Which of the following best describes Turkish migration to Germany?
-		P>Turkish guest workers
+		QN>Turkish guest workers
 		T>2.11
 		N>Political asylum seekers fleeing Communism
 			E>Turkey was not part of the Communist world. Turkish migrants came to Germany voluntarily, and were considered guest workers.
@@ -400,7 +400,7 @@ U>2
 		Y>Voluntary guest workers
 			E>Migrants from Turkey moved to Germany for employment opportunities as work in a manufacturing-based economy offered financial opportunities not available in their home country. Such migrations were voluntary, and Turkish migrants were considered guest workers.
 	Q>Which of the following best explains an effect of migration within the United States between 1950 and 2010?
-		P>Mean center of population
+		QN>Mean center of population
 		T>2.12
 		Y>The mean center of the population of the United States shifted to the South and West as workers migrated to areas with more jobs and a warmer climate.
 			E>Manufacturing jobs moved from the industrialized North to areas in the southern United States beginning in the 1950s and increasing at a rapid rate throughout the early 2000s. Workers migrated to these areas for jobs and for the warmer climate, shifting the mean population center of the United States to the South and West.
@@ -413,7 +413,7 @@ U>2
 		N>Population increased in the northeastern United States as large numbers of college graduates moved to this region to seek employment.
 			E>There is a trend of population decline in the northeastern United States. Between 1950 and 2010, many people in the United States moved to the South and West for jobs and for the warmer climate.
 	Q>Which of the following identifies how population density is shown in the maps?
-		P>Population density in three maps
+		QN>Population density in three maps
 		T>2.1
 		I>VH911333.g03.png
 		Y>At different scales, showing administrative units
@@ -427,7 +427,7 @@ U>2
 		N>At the same scale, showing different parts of the country
 			E>The maps show the same part of the country at different scales.
 	Q>Which of the following is the best describes an example of transhumance?
-		P>Example of transhumance
+		QN>Example of transhumance
 		T>2.11
 		N>Ranchers in Canada who allow their cattle to graze over a wide area of flat land
 			E>Transhumance is movement of livestock between summer and winter grazing areas, usually involving a change in elevation from highlands in the summer to lowlands in the winter. It is a type of migration, as opposed to the practice of grazing.
@@ -440,7 +440,7 @@ U>2
 		N>Traders in Mongolia who maintain a herd of camels and a herd of yaks
 			E>Transhumance is movement of livestock between summer and winter grazing areas, usually involving a change in elevation from highlands in the summer to lowlands in the winter. It is a type of migration and does not concern how many species of animals are involved.
 	Q>Which of the following processes best explains a decrease in mortality rates worldwide?
-		P>Decreasing mortality rates worldwide
+		QN>Decreasing mortality rates worldwide
 		T>2.9
 		N>Increased rates of female literacy
 			E>Increased rates of female literacy begin to shift the traditional role of women in society, and women become more influential in childbearing decisions, therefore reducing fertility rates. However, increased rates of female literacy do not directly impact mortality rates. Better hygiene and sanitation practices influence mortality rates by helping to prevent disease and other illnesses.
@@ -453,7 +453,7 @@ U>2
 		N>Greater female workforce participation
 			E>Higher rates of female workforce participation and subsequent financial contributions to their family have led to women becoming more influential in decisions regarding their own fertility, which can lead to a decrease in fertility rates. However, higher rates of female workforce participation do not directly impact mortality rates. Better hygiene and sanitation practices influence mortality rates by helping to prevent disease and other illnesses.
 	Q>Based on the demographic transition model, which region is best described as exhibiting overall negative rates of growth in stage 4?
-		P>Negative population growth
+		QN>Negative population growth
 		T>2.5
 		I>Screenshot 2023-04-23 223831.png
 		N>South Asia
@@ -467,7 +467,7 @@ U>2
 		N>Northern Africa
 			E>Northern African countries like Egypt and Morocco exhibit moderate population growth, while eastern European countries such as Ukraine and Romania exhibit negative growth.
 	Q>Deaths in Country A often occur due to outbreaks of epidemic disease, while in Country B most people are dying from chronic disorders such as heart disease. Which of the following best describes where these countries fall in the demographic transition model and in which region they are likely located?
-		P>Deaths from chronic disease
+		QN>Deaths from chronic disease
 		T>2.5
 		I>Screenshot 2023-04-23 224329.png
 		N>Country A : Stage 3, Latin America; Country B : Stage 2, West Africa
@@ -481,7 +481,7 @@ U>2
 		N>Country A : Stage 4, western Europe ; Country B : Stage 2, Latin America
 			E>Country A’s deaths from outbreaks of epidemic disease describes a Stage 2 region with a lack of reliable health care and advanced sanitation techniques, such as West Africa, not a Stage 4 country where most deaths are related to chronic disorders caused by old age and lifestyle choices. Country B is located in a Stage 4 region where most deaths occur due to chronic disorders, such as western Europe.
 	Q>Neo-Malthusian theory can be used to explain which of the following situations?
-		P>Neo-Malthusian viewpoint
+		QN>Neo-Malthusian viewpoint
 		T>2.6
 		N>Brazil’s interior was previously unfit for farming, but recently more land is being cultivated.
 			E>Part of Brazil’s interior region had very acidic soil, but the soil has been enriched to bring the acidity level down, which enables more land to be brought under cultivation. Brazil has overcome challenges to its food supply with innovation. A neo-Malthusian viewpoint suggests that food production is not meeting the needs of a rapidly growing population, causing widespread famine.
@@ -494,7 +494,7 @@ U>2
 		Y>South Sudan experienced famine during the twenty-first century as a result of war and drought.
 			E>A neo-Malthusian viewpoint suggests that food production is not meeting the needs of a rapidly growing population, causing widespread famine. The most current famine has occurred in South Sudan as a result of war and drought. South Sudan has not responded with technological innovation and has relied on food aid from the United Nations.	
 	Q>South Korea, as of 2018, has the lowest total fertility rate in the world at 1.1. Which of the following best explains a population policy South Korea could enact to promote higher birth rates?
-		P>South Korea fertility rate
+		QN>South Korea fertility rate
 		T>2.7
 		N>Decreasing the age of retirement so that older Koreans can work in childcare centers
 			E>Decreasing the age of retirement impacts the working-age population and the dependency ratio, not fertility rates, as decreasing the cost of childcare would.
@@ -507,7 +507,7 @@ U>2
 		N>Increasing educational costs for universities so that the government can spend more on preschool
 			E>Increasing educational costs for universities would increase the costs associated with raising children and discourage births, whereas decreasing the cost of childcare would decrease the costs of raising a child and promote higher birth rates.
 	Q>Many countries in sub-Saharan Africa have total fertility rates that exceed 5.0. Which of the following population characteristics is associated with this phenomenon?
-		P>Fertility Rates in Africa
+		QN>Fertility Rates in Africa
 		T>2.3
 		Y>High youth dependency ratio
 			E>The fertility rates in sub-Saharan Africa are high, which indicates that the countries listed struggle with high youth dependency ratios as death rates continue to decrease.
@@ -520,7 +520,7 @@ U>2
 		N>Zero population growth
 			E>To achieve zero population growth, countries would need average total fertility rates of 2.1. The fertility rates described are all well above 2.1, indicating quickly growing populations that will struggle with high youth dependency ratios compared with the working population.
 	Q>Which of the following describes the relationship between fertility and education in the United States and Canada in recent decades?
-		P>Pronatalist policies
+		QN>Pronatalist policies
 		T>2.8
 		I>Screenshot 2023-04-23 225852.png
 		N>The decrease in the percent of women who are more highly educated results in a larger number of children entering school.
@@ -534,7 +534,7 @@ U>2
 		N>The increase in the percent of women who are more highly educated results in a larger number of children entering school.
 			E>Fertility rates would need to increase since there was a corresponding increase in school enrollment. The data show a decrease in fertility rates with a corresponding increase in women’s education attainment.
 	Q>Bangladesh has seen its total fertility rate drop to 2.1, but its population is projected to be higher in 2050 than it is today. Which of the following explains why Bangladesh will continue to experience positive rates of natural increase?
-		P>Example of demographic momentum
+		QN>Example of demographic momentum
 		T>2.4
 		I>Screenshot 2023-04-23 230206.png
 		N>Bangladesh will continue to grow because it will receive a high number of immigrants.
@@ -548,7 +548,7 @@ U>2
 		N>Bangladesh will continue to grow because a fertility rate of 2.1 is still above replacement level.
 			E>Replacement level fertility is 2.1, meaning that the fertility rate in Bangladesh has reached replacement rate rather than exceeding it. The population will continue to grow because the youth populations are so large that even as they age, a fertility rate of 2.1 would still produce a generation larger than some of the older adult age groups.
 	Q>Which of the following explains an impact of open-border policies regarding migration within the European Union?
-		P>Effect of European Union
+		QN>Effect of European Union
 		T>2.12
 		N>Increased free trade within Europe based on elimination of tariffs, due to the need for economic cooperation between member states
 			E>Elimination of tariffs through the creation of a free trade agreement would not have an impact on migration. A byproduct of the open-border EU open-border policy has increased political tensions in Europe as immigration and asylum seekers from developing countries have increased.
@@ -561,7 +561,7 @@ U>2
 		N>Less environmental pollution as a result of stricter regulations, due to member states agreeing on a common air-quality policy
 			E>Environmental regulations do not impact migration. A byproduct of the EU open-border policy has increased political tensions in Europe as immigration and asylum seekers from developing countries have increased.
 	Q>From 2010 through 2017 there was a large increase in the number of migrants from Africa to Europe. Which of the following explains a possible impact on the emigrant countries of origin during and after that time period?
-		P>Impact on countries of origin
+		QN>Impact on countries of origin
 		T>2.12
 		N>Increasing emigration resulted in the governments of the countries of origin providing financial support for emigrants.
 			E>The political, economic, and social challenges of supporting new immigrants falls to the host countries, not to the countries of origin. However, money sent back home helped create an economic boost in the countries of origin during the late 2010s.
@@ -574,7 +574,7 @@ U>2
 		N>Remittances increased diffusion of cultural traits such as customs, religion, and food products from the host countries to the countries of origin.
 			E>The spread of cultural traits happens in the host country as immigrants bring their culture with them, whereas remittances sent to the countries of origin have an economic impact but not a cultural impact.
 	Q>Immigration of asylum applicants from Africa to the European Union, Norway, and Switzerland increased from approximately 50,000 in 2010 to approximately 200,000 in 2016. In 2017, there were approximately 175,000 asylum applicants. Which of the following best explains the trend in asylum seekers from African countries to Europe since 2010?
-		P>Immigration from Africa to Europe
+		QN>Immigration from Africa to Europe
 		T>2.10
 		N>Improvement in the level of economic development in African countries led to an increase in the number of asylum seekers.
 			E>Improved economic development would lead to a decrease in asylum seekers, not an increase. The statistics indicate an overall increase in asylum seekers owing to insecure political situations and high competition for available jobs due to high fertility rates.
@@ -587,7 +587,7 @@ U>2
 		N>An influx of asylum seekers from the Middle East led to a decrease in the number of accepted asylum applications from Africa.
 			E>An increase in asylum seekers from the Middle East leading to a decrease in asylum seekers from African countries would explain the decrease between 2016 and 2017, but it does not explain the overall increase in asylum seekers between the years 2010 and 2017 caused by insecure political situations and high competition for available jobs due to high fertility rates.
 	Q>Which of the following explains how data from the population pyramid for Spain would be useful for government policy makers?
-		P>Uses for population pyramid data
+		QN>Uses for population pyramid data
 		T>2.9
 		I>VH926119.g02.png
 		N>Data on the annual number of legal immigrants would be used to establish policy on international refugees.
@@ -601,7 +601,7 @@ U>2
 		Y>Data on the size of the middle-aged population would be used to plan for retirement and social security benefits.
 			E>Population pyramids convey information about the population’s age distribution and trends in birth and death rates; therefore, data on the size of the middle-aged population would be useful in planning for retirement and social security benefits.
 	Q>In 1980 China implemented an antinatalist one-child policy. Which of the following explains an unintended consequence of the policy?
-		P>Antinatalist policy in China
+		QN>Antinatalist policy in China
 		T>2.7
 		N>There are more women than men because of a cultural preference for female children.
 			E>Traditional Chinese culture favors male children as a way to carry on the family name. Sex-selective abortions and female infanticide have resulted in a skewed sex ratio in China, where there are more males than females. A consequence of the one-child policy is that the male population in China is much higher than the female population.
@@ -614,7 +614,7 @@ U>2
 		N>China discontinued the policy to accommodate an unexpected increase in infant mortality rates.
 			E>The one-child policy was abolished in 2015, but not because of an unexpected increase in infant mortality rates. Rather, China faced problems stemming from a high elder dependency. A consequence of the one-child policy is that the male population in China is much higher than the female population.
 	Q>Malthusian theory would explain which of the following possible consequences of high birth rates in a less developed country?
-		P>Malthusian theory and high birth rates
+		QN>Malthusian theory and high birth rates
 		T>2.6
 		Y>Famine and starvation will occur as demand outpaces agricultural production.
 			E>Malthus predicted that when population growth outpaced food supply, crises such as famine and starvation would occur to bring the population back down to a sustainable level.
@@ -627,7 +627,7 @@ U>2
 		N>Farmers will bring more land under cultivation to produce more food.
 			E>Malthus predicted populations would reach a point where food supply would grow too slowly to meet the needs of the growing population. Malthus predicted that when population grew faster than food supply, crises such as famine and starvation would occur as a check on population.
 	Q>Based on the diagram of the demographic transition model, which of the following correctly describes the expected population change over time?
-		P>Demographic transition model stage 3
+		QN>Demographic transition model stage 3
 		T>2.5
 		I>VH926013.g01.png
 		N>As birth rates remain high and death rates decrease, the total population remains stable.
@@ -641,7 +641,7 @@ U>2
 		N>As birth rates drop below death rates, the total population remains stable.
 			E>A birth rates that has dropped below death rates indicates a shrinking population. According to the demographic transition model, population growth occurs when birth rates are higher than death rates.
 	Q>Many European countries provide families one or more of the following: tax credits, flexible parental leave, monthly payments, public-transportation fare reduction, free vaccines, and subsidized childcare. Which of the following would explain why a country such as Belgium would implement the described policies?
-		P>Family benefits in European countries
+		QN>Family benefits in European countries
 		T>2.7
 		N>Belgium has concerns about gender equality and wants to increase female participation in the workforce.
 			E>Female workforce participation in very developed countries is likely already high. Gender equality is not the main motive for the incentives listed; rather, these incentives would encourage families to have more children.
@@ -654,7 +654,7 @@ U>2
 		N>Belgium has concerns about an aging population and wants to encourage lower birth rates.
 			E>An aging population with lower birth rates would only serve to further deepen the issue. The incentives listed describe pronatalist policies designed to increase birth rates to alleviate the problems associated with an aging population.
 	Q>Which of the following statements accurately explains the population dynamics of a country on the table shown?
-		P>Birth rates and death rates in selected countries
+		QN>Birth rates and death rates in selected countries
 		T>2.4
 		I>Screenshot 2023-04-23 232106.png
 		N>Women in Ethiopia have increased opportunities to achieve higher levels of education than women in Vietnam.
@@ -668,7 +668,7 @@ U>2
 		N>Bangladeshi citizens have access to high-quality health care.
 			E>Given the birth rate it is unlikely that most people in Bangladesh, especially women, have access to high-quality health care. In general, citizens of less developed countries struggle to access the kind of specialized health care that would result in low birth rates. Germany’s death rates are higher than its birth rates, indicating a negative rate of natural increase.
 	Q>Which of the following scenarios explains a demographic push factor for less developed countries?
-		P>Demographic push factor
+		QN>Demographic push factor
 		T>2.10
 		Y>A large youth population, lacking educational opportunities, seek schooling in more developed countries.
 			E>A large youth population indicates that a country may struggle to control its demographic challenges, which could lead to too many people in relation to available seats in local schools.
@@ -681,7 +681,7 @@ U>2
 		N>An oppressive government discriminates against minorities, forcing ethnic groups to live in rural enclaves.
 			E>An oppressive government discriminating against minority groups is a political push factor. A lack of educational opportunities owing to a large youth population is a demographic push factor in less developed countries.
 	Q>Which of the following describes forced migration?
-		P>Forced migration in the twenty-first century
+		QN>Forced migration in the twenty-first century
 		T>2.11
 		N>Residents from New Orleans, United States, being displaced during Hurricane Katrina
 			E>Residents were under mandatory evacuation orders during the storm and were forced to move as a result of this environmental situation but were permitted to return if they so desired. Many did not wish to return and were classified as internally-displaced persons. The movement of convicts from Great Britain to Australia is an example of forced migration.
@@ -694,7 +694,7 @@ U>2
 		N>Northern Europeans moving to southern European countries for health reasons
 			E>Movement for health reasons does not classify as a forced migration but is a type of voluntary migration. Better climate, health care, and living conditions are pull factors leading to voluntary migration. The movement of convicts from Great Britain to Australia is an example of forced migration.
 	Q>Japan has a low birth rate and a high life expectancy. Which of the following explains why Japan will struggle with demographic challenges in 30 years?
-		P>Demographic challenges in Japan
+		QN>Demographic challenges in Japan
 		T>2.9
 		N>Too many youth dependents for the education system will require increased taxes.
 			E>Because of the low birth rate, funding education for a large youth population will not be a future challenge. Rather, Japan will struggle to fund adequate health care for the elderly population as the current workforce reaches retirement age.
@@ -707,7 +707,7 @@ U>2
 		N>A rapidly increasing population will strain the available food supply.
 			E>Japan’s population growth is slowing, which would not place further strain on the country’s available food supply. However, the aging population will create issues in terms of funding health care.
 	Q>A country develops new technologies for farming, which help stabilize and increase food supply. According to Malthusian theory, which of the following would best explain those results?
-		P>Impact of stable food supply
+		QN>Impact of stable food supply
 		T>2.6
 		N>The new technologies would conserve water and energy supplies.
 			E>Malthus was primarily concerned about the relationship between food supply and population growth, not water and energy. Agricultural advancements would help to reduce occurrences of famine, which Malthus viewed as a positive check on population.
@@ -720,7 +720,7 @@ U>2
 		N>The new technologies would increase the need for preventative checks of population.
 			E>Stabilizing food supply does not deal with Malthus’ preventive checks, such as moral restraint. Rather, agricultural advancements would reduce positive checks on population growth, such as famine.
 	Q>Based on the data shown in the table, which of the following accurately describes changes in the roles of women as countries develop economically?
-		P>Women in more developed countries
+		QN>Women in more developed countries
 		T>2.8
 		I>Screenshot 2023-04-23 233438.png
 		N>More women work in agriculture
@@ -734,7 +734,7 @@ U>2
 		N>Most women work in the home
 			E>More developed countries tend to have fewer women working in the home and more women working in professional jobs. The lower birth rates, lower fertility rates, increased urban percentage, and higher life expectancy in more developed countries compared with less developed countries indicate that more women are working in professional jobs.
 	Q>A high level of mobility for international migration and employment is best explained by which of the following demographic groups?
-		P>Individual likely to migrate internationally
+		QN>Individual likely to migrate internationally
 		T>2.10
 		Y>Unmarried men in their late twenties with no children and a university education
 			E>Single and childless people are more likely to migrate than married people or people with children. Men are more likely to migrate internationally than women. Young people are more likely to migrate than older people. A college education gives an individual more options than a high school education.
@@ -747,7 +747,7 @@ U>2
 		N>Married woman in their thirties with children and a university education
 			E>Single and childless people are more likely to migrate than married people or people with children. Men are more likely to migrate internationally than women
 	Q>Which of the following population patterns is common in more developed countries?
-		P>Population Pattern in MDCs
+		QN>Population Pattern in MDCs
 		T>2.3
 		N>High birth rates, leading to younger age structures
 			E>Birth rates tend to be lower in more developed countries than in less developed countries. Declines in fertility and mortality associated with economic development lead to older population age structures and decreasing proportions of youth and working-age adults.
@@ -760,7 +760,7 @@ U>2
 		Y>Declining levels of fertility and mortality, leading to older age structures
 			E>Declines in fertility and mortality associated with economic development lead to older population age structures and decreasing proportions of youth and working-age adults.
 	Q>A population pyramid that is wide at the top and narrow at the bottom most likely represents which of the following populations?
-		P>Inverted Population Pyramid
+		QN>Inverted Population Pyramid
 		T>2.3
 		N>A rapidly expanding population
 			E>The population pyramid of a rapidly expanding population would be a classic pyramid that is wide at the base and narrow at the top. An "inverted" population pyramid that is very wide at the top and very narrow or pointed at the bottom most likely represents an age-restricted community limited to older adults.
@@ -773,9 +773,866 @@ U>2
 		N>A population with a large percentage of younger male guest workers
 			E>A population with a large percentage of younger male guest workers would have an asymmetrical population pyramid with longer than usual bars on the left-hand, or male, side for the ages of 30-45 years. An "inverted" population pyramid that is very wide at the top and very narrow or pointed at the bottom most likely represents an age-restricted community limited to older adults.
 U>3
+	Q>Which of the following elements of the cultural landscape are shown in the images?
+		QN>Alhambra Palace
+		T>3.1
+		S>4.A
+		IT>THE ALHAMBRA PALACE, GRANADA, SPAIN
+		I>VR021693.g01.png
+		I>VR021693.g02.png
+		N>Spanish conquistadores' fortifications, architecture, and forestry
+			E>The Spanish influence can be seen in the structure’s architecture, but the architectural detail and script shown suggest an Islamic influence. Moorish people from North Africa ruled southern Spain and influenced the region’s art and architecture.
+		N>Classical Roman fortifications, infrastructure, and art
+			E>Roman design accounts for neither the outward structure nor the architectural detail and script shown. Moorish people from North Africa ruled southern Spain and influenced the region’s art and architecture.
+		N>Buddhist monasteries, gardens, and religious text
+			E>Buddhist design accounts for neither the outward structure nor the architectural detail and script shown. Moorish people from North Africa ruled southern Spain and influenced the region’s art and architecture.
+		Y>Moorish Islamic art, architecture, and script
+			E>Moorish people from North Africa ruled southern Spain and influenced the region’s art and architecture. The small minarets shown on the far tower and the Arabic script shown on the architectural detail indicate the influence of Islam.
+		N>Portuguese universities, design, and gardens
+			E>Portuguese culture is not depicted in the art or architecture. Moorish people from North Africa ruled southern Spain and influenced the region’s art and architecture.
+	Q>Based on the images showon, which of the following best explains the process of diffusion in relation to the religious history of Spain?
+		QN>Alhambra Palace
+		T>3.7
+		S>4.E
+		IT>THE ALHAMBRA PALACE, GRANADA, SPAIN
+		I>VR021693.g01.png
+		I>VR021693.g02.png
+		Y>Southern Spain was once under Muslim control, as indicated by the Islamic architecture of the palace in the images.
+			E>The Islamic patterns shown in the artwork on the palace demonstrate the Islamic influence on the region during the era of the Crusades. Evidence of Muslim control of portions of southern Spain is still found on the cultural landscape in locations such as the Alhambra.
+		N>The dome of the palace is evidence of Roman Catholicism, which diffused to Spain through Granada during Italy's rule of the port city.
+			E>The dome of the palace is characteristic of Islamic rather than Roman Catholic architecture.
+		N>The script shown on the building is Arabic, which diffused to Spain during the Islamic control. There is no architectural evidence in the images that Protestant missionaries from Rome traveled to Spain in the early 1700s.
+			E>The script shown on the building is Arabic, which diffused to Spain during the Islamic control. There is no architectural evidence in the images that Protestant missionaries from Rome traveled to Spain in the early 1700s.
+		N>Although the building material resembles adobe, it is not indicative of Buddhist architecture, nor is there any indication in the images that Buddhism diffused to Spain from China.
+			E>Although the building material resembles adobe, it is not indicative of Buddhist architecture, nor is there any indication in the images that Buddhism diffused to Spain from China.
+		N>Although stained glass windows are important in church construction, they are not evident in these images and cannot be used as evidence of religious diffusion in the images. The Islamic patterns are the only definitive means of determining the cultural landscape of the area.
+			E>Although stained glass windows are important in church construction, they are not evident in these images and cannot be used as evidence of religious diffusion in the images. The Islamic patterns are the only definitive means of determining the cultural landscape of the area.
+	Q>Which of the following statements identifies a cultural trait evident in the photograph?
+		QN>Temple in Singapore
+		T>3.1
+		S>4.A
+		IT>TEMPLE, SINGAPORE
+		I>VR021719.g01.png
+		N>The temple reflects the types of food and housing traditionally found in rural Chinese landscapes.
+			E>The photograph provides information related to cultural traits such as architectural styles.
+		N>The people in the area around the temple primarily speak Malay and Arabic.
+			E>The photograph provides information related to cultural traits such as architectural styles.
+		Y>The temple reflects typical Buddhist architecture.
+			E>The temple in the photograph reflects typical Buddhist architecture. Ridge tiles at the top of the peaks and window frames shaped like lotus flowers are common features of Buddhist places of worship.
+		N>Planners use geographic information systems (GIS) to optimize land use in the city.
+			E>While this is a true statement, it is outside the scope of this photograph. The photograph provides information related to cultural traits, but not in relation to city planning.
+		N>Buddhism is the majority religion of Singaporeans.
+			E>The photograph shows only one Buddhist temple, and this is not enough information to make a statement as to the religious practices of the residents of Singapore. It can provide only information regarding the architecture of the area shown in the photograph.
+	Q>The photograph was taken in Singapore. Which of the following statements best describes how the buildings shown in the photograph represent the culture of Singapore?
+		QN>Temple in Singapore
+		T>3.2
+		S>4.B
+		IT>TEMPLE, SINGAPORE
+		I>VR021719.g01.png
+		N>The Buddhist temple is a modern structure that represents the recent expansion of Buddhism into Southeast Asia.
+			E>Buddhism has been present in Southeast Asia for hundreds of years, and the temple shown in the photograph is a historical structure that has been preserved as part of Singapore’s cultural landscape.
+		N>The skyscrapers in the image represent the importance of economic success over religious expression in Singapore.
+			E>Although the skyscrapers do represent the importance of economic success, the presence of a large, well-maintained temple in the midst of modern structures represents the importance of religious expression over economic gain in Singapore.
+		N>The Buddhist teemple and skyscrapers represent the effects of sequent occupance on Singapore's cultural landscape.
+			E>The skyscrapers in the image represent the current society of Singapore and are not the remains of a displaced society. The Buddhist temple represents an ancient religion still very much a part of the cultural landscape. Thus, there is no indication of sequent occupance in the image.
+		Y>The Buddhist temple represents the value of traditional religion in the culture of modern Singapore.
+			E>The image indicates that the Buddhist temple, a center of traditional religion, holds an important position within the modern country of Singapore.
+		N>The skyscrapers symbolize the traditional culture of Singapore as an ancient trade port.
+			E>Skyscrapers represent modern rather than traditional culture. Their presence in the cultural landscape indicates the economic success of Singapore as a modern seaport rather than a traditional seaport.
+	Q>Which of the following best explains how the image represents a cultural landscape?
+		QN>Pharmacy Building Cultural Landscape
+		T>3.3
+		S>4.C
+		IT>A PHARMACY LOCATED IN CHICAGO, ILLINOIS
+		I>ec7caba8-9e9a-4556-8810-e607ea5261ad.png
+		Y>Multiple ethnicities share the same space in the neighborhood shown in the image.
+			E>This is representative of a cultural landscape because it demonstrates that there are different ethnicities that have made a distinct imprint on the landscape as is evident by the signs in two different languages
+		N>The space shown in the image is an example of infilling within a specified neighborhood.
+			E>Infilling is a process in which empty urban space is redeveloped with newer residential structures. The image shown is not an example of infilling because it is not representative of newer residential structures and the structure in the image is retail space. Instead, this image is representative of a cultural landscape because it demonstrates that there are different ethnicities that have made a distinct imprint on the landscape as is evident by the signs in two different languages.
+		N>As shown in the image, there are multiple ethnicities found within this city’s greenbelt.
+			E>Greenbelts are designated spaces to slow the growth of cities that are characterized by parks, trails, and undeveloped land. The image above is an example of a built environment. The image is also representative of a cultural landscape because it demonstrates that there are different ethnicities that have made a distinct imprint on the landscape as is evident by the signs in two different languages.
+		N>The process of suburbanization, as shown in the image, often results in multi-ethnic neighborhoods.
+			E>Suburbanization occurs on the city’s edges and is characterized by large lot sizes, green space, and single detached structures. The image does not share characteristics of suburbanization. Instead, this image is representative of a cultural landscape because it demonstrates that there are different ethnicities that have made a distinct imprint on the landscape as is evident by the signs in two different languages.
+		N>Brownfield development results in the creation of multi-ethnic landscapes like the one shown in the image.
+			E>Brownfields are spaces that was were once used by manufacturing facilities and are characterized by abandoned buildings and hazardous materials. The image shows a functioning retail space with no evidence of abandoned buildings. The image is also representative of a cultural landscape because it demonstrates that there are different ethnicities that have made a distinct imprint on the landscape as is evident by the signs in two different languages.
+	Q>Which of the following statements best explains sense of place as demonstrated by the image?
+		QN>Pharmacy Building Cultural Landscape
+		T>3.3
+		S>4.C
+		IT>A PHARMACY LOCATED IN CHICAGO, ILLINOIS
+		I>ec7caba8-9e9a-4556-8810-e607ea5261ad.png
+		N>The use of shared religion creates an attachment to this landscape.
+			E>Religion can create a sense of place, but there are no religious structures or religious signage in the image above. The structure shown in the image is a pharmacy and not a worship site. The signage shown in the image is an example of how the use of ethnic languages creates an attachment to the landscape.
+		Y>The use of ethnic languages creates an attachment to this landscape.
+			E>Ethnic languages in the landscape create a sense of place for ethnic residents who seek an attachment to the landscape. The signage helps migrants to feel a connection to their homeland.
+		N>The presence of community supported agriculture (CSA) and local markets creates an attachment to this landscape.
+			E>While it is possible that CSA and the presence of local markets could create an attachment to a landscape or sense of place, neither of those elements is apparent in this retail space. The signage shown in the image is an example of how the use of ethnic languages creates an attachment to the landscape.
+		N>Suburban sprawl and its use of space contribute to sense of place in this landscape.
+			E>Suburban sprawl is the use of large expanses of space on undeveloped land outside of the city. The resulting uniformity of retail and residential structures that suburban sprawl create can often lead to a lack of sense of place. The image does not show suburban sprawl. Rather, the signage shown in the image is an example of how the use of ethnic languages creates an attachment to the landscape.
+		N>Redlining of multi-ethnic neighborhoods contributes to sense of place.
+			E>Redlining is a practice used by banks to not lend money for investment in a designated area that does not contribute to a sense of place; there is no evidence within this image that this an example of a redlined neighborhood. The signage shown in the image is an example of how the use of ethnic languages creates an attachment to the landscape.
+	Q>The map shown was published in the United States in the early twentieth century. The title of the map is an example of
+		QN>Ethnocentrism Map
+		T>3.1
+		S>4.A
+		I>VH943271.g02.png
+		N>assimilation
+			E>Assimilation occurs when people move into a new culture and retain few, if any, of their previous cultural traits. The map title, which reflects a worldview placing Europe and North America at the center of the world, is an example of ethnocentrism.
+		N>cultural relativism
+			E>Cultural relativism refers to viewing a culture by its own standards, without the preconceptions of another culture. The map title, which reflects a worldview placing Europe and North America at the center of the world, is an example of ethnocentrism.
+		N>acculturation
+			E>Acculturation occurs when a person moves into a new culture and retains significant parts of his or her previous culture while adopting some parts of the new culture. The map title, which reflects a worldview placing Europe and North America at the center of the world, is an example of ethnocentrism.
+		N>cultural diffusion
+			E>Cultural diffusion is the spread of a cultural trait from its place of origin, whereas ethnocentrism is the process of evaluating another culture by the standards of one’s own culture. The map title, which reflects a worldview placing Europe and North America at the center of the world, is an example of ethnocentrism.
+		Y>ethnocentrism
+			E>The title of the map stems from the term “Far East.” The map title is an example of ethnocentrism because it implies that Europe or North America is at the center of the world, and other regions of the world are in peripheral locations.
+	Q>Using information from the image, which of the following can be desscribed as identifable signs and symbols of a Chinese cultural landscape in San Francisco?
+		QN>Identify a cultural landscape
+		T>3.2
+		S>4.B
+		I>VH901672.g01.png
+		N>The United States flag and the Taiwanese flag
+			E>Though China claims the Island of Taiwan, many Taiwanese do not identify as Chinese. In addition, the United States flag does not indicate a Chinese cultural landscape. The Chinese language signs on buildings and the Chinese lamps stung above the street reflect Chinese cultural elements and are indicative of a Chinese cultural landscape in San Francisco created by large numbers of Chinese immigrants settling in close proximity to one another.
+		N>The straight streets and the highly ornamental buildings
+			EStraight streets are an influence from European, specifically Spanish, cities, and the highly-ornamental buildings are constructed in both Buddhist and European styles. The Chinese language signs on buildings and the Chinese lamps stung above the street reflect Chinese cultural elements and are indicative of a Chinese cultural landscape in San Francisco created by large numbers of Chinese immigrants settling in close proximity to one another.
+		N>Signage in English and signage in Chinese
+			E>Signage in Chinese reflects a Chinese cultural landscape in San Francisco, but signage on English does not. The Chinese language signs on buildings and the Chinese lamps stung above the street reflect Chinese cultural elements and are indicative of a Chinese cultural landscape in San Francisco created by large numbers of Chinese immigrants settling in close proximity to one another.
+		N>Cars lining city streets and seafood in restaurants
+			E>Car lined streets and seafood restaurants reflects the general cultural landscape in San Francisco, a densely populated city on the United States’ west coast. The Chinese language signs on buildings and the Chinese lamps stung above the street reflect Chinese cultural elements and are indicative of a Chinese cultural landscape in San Francisco created by large numbers of Chinese immigrants settling in close proximity to one another.
+		Y>Chinese-language signs and Chinese lamps
+			E>Chinese language signs on buildings and the Chinese lamps stung above the street reflect Chinese cultural elements and are indicative of a Chinese cultural landscape in San Francisco created by large numbers of Chinese immigrants settling in close proximity to one another.
+	Q>THe image shows the Old City of Jerusalem. WHich statement best describes the spatial pattern in the cultural landscape?
+		QN>Cultural landscape of Jerusalem
+		T>3.2
+		S>4.B
+		I>VH930508.g01.png
+		N>The image shows distinctive cultural areas that represent the five world religions that are practiced in close proximity to one another in the Old City.
+			E>The image does not indicate the presence of any religions other than Judaism and Islam. Jerusalem is a holy city for Judaism, Islam, and Christianity, but not for Hinduism or Buddhism.
+		N>The skyscrapers shown in the image represent a secular landscape that indicates how modern Jerusalem has become.
+			E>The image primarily shows the cultural landscape of the Old City. The few skyscrapers shown do indicate the modernization of some areas of Jerusalem, but they do not indicate secularism.
+		N>The image shows dispersed residential areas, implying that Jerusalem is very densely populated.
+			E>The residential area in this picture is not dispersed. Instead, the image shows compact residential areas.
+		N>The image shows defensive characteristics of the walled section of the city that remain active today.
+			E>There is no indication of defense in the image. The walled section of the city is not used for defense today. The wall shown in the image is the Wailing Wall, which is an important site in the Jewish religion.
+		Y>The image indicates that Muslim and Jewish citizens live in close proximity to each other.
+			E>The image shows holy sites of Judaism (the Wailing Wall) and Islam (the Dome of the Rock), which suggests that Muslim and Jewish citizens live in close proximity to each other in this area of the city.
+	Q>Which of the following best explains the use of two languages in this United States highway sign?
+		QN>Highway sign and language
+		T>3.3
+		S>4.C
+		IT>HIGHWAY SIGN LOUISIANA BORDER
+		I>VH926991.g02.png
+		N>The highway sign is part of a countrywide educational program for language learning.
+			E>The United States lacks nationwide foreign-language learning programs that impact signs and symbols on the cultural landscape. The sign shows Louisiana has a French ethnic and linguistic heritage that remains part of the contemporary culture.
+		N>The highway sign alerts drivers as they near an international border crossing station.
+			E>Louisiana has no international border crossing stations. The sign shows Louisiana has a French ethnic and linguistic heritage that remains part of the contemporary culture.
+		N>The highway sign symbolizes strong political differences within regions of the country.
+			E>The sign shows Louisiana has a French ethnic and linguistic heritage that remains part of the contemporary culture. As a state border identifier, this sign only denotes the border between administrative parts of the United States and does not symbolize political differences.
+		N>The highway sign is a marketing effort of the state's travel and tourism office.
+			E>The sign does indicate a cultural trait that might attract travelers and tourists to the state, but it is more symbolic of the strong French ethnic and linguistic heritage that remains part of Louisiana's contemporary culture.
+		Y>The highway sign is a representation of the state's multilingual ethnic cultural heritage.
+			E>Louisiana has a French ethnic and linguistic heritage that is evident on the cultural landscape and remains part of the contemporary culture. Although many parts of the United States were once part of the French colonial sphere, only Louisiana, Maine, New Hampshire, and Vermont have large extant French-speaking communities that date back to the colonial era.
+	Q>Which of the following processes describes how missionary activities change the geographies of universalizing religions outside of their founding hearths?
+		QN>Missionaries and universalizing religions
+		T>3.4
+		S>1.D
+		N>Assimilation
+			E>Assimilation is the adaptation of immigrants to a new place of residence, where they adopt the culture of the new area. Cultural assimilation is not a goal of universalizing religions.
+		Y>Expansion diffusion
+			E>Through missionary activities, universalizing religions spread to new places through expansion diffusion while remaining strong in the original hearth.
+		N>Hierarchical diffusion
+			E>Hierarchical diffusion is the spread of an idea or innovation first through the most connected people or places. Universalizing religions are more likely to show a reverse hierarchical spread through the general population in an ever-expanding process.
+		N>Relocation diffusion
+			E>Relocation diffusion occurs when an individual or a group of individuals relocate to another area and bring their cultural traits with them to the new area. This type of diffusion does not describe the general spread of universalizing religions that actively seek converts through missionaries who spread the tenets of the religion through teaching.
+		N>Agglomeration
+			E>Agglomeration is usually associated with the clustering of economic activities such as manufacturing rather than the diffusion of religion.
+	Q>A popular American hamburger chain successfully entered the fast-food market in India by altering the menu to include vegetarian burgers instead of hamburgers made with beef. This example can best be described as
+		QN>American fast food chain in India
+		T>3.4
+		S>1.D
+		S>5.B
+		Y>stimulus diffusion
+			E>Stimulus diffusion occurs when a cultural trait from another area is adapted to fit the cultural norms of the receiving area. In this example, the direct diffusion of the hamburger to India was inhibited by the Hindu prohibition against eating beef. Success was achieved by selling burgers made of vegetable products, thus adjusting to local diets.
+		N>hierarchical diffusion
+			E>Hierarchical diffusion involves a hierarchy in the adoption of ideas from high to low, which is not the case for the diffusion of burgers in India.
+		N>relocation diffusion
+			E>Relocation diffusion of fast-food burger chains is not occurring. The idea or innovation is diffused.
+		N>independent invention
+			E>Independent invention occurs when two or more cultural hearths develop or invent an idea independent of each other. The idea for the fast-food burger was invented in the United States and diffused to India through stimulus diffusion.
+		N>distance decay
+			E>Distance decay describes the effect of distance on interaction in that the greater the distance, the less interaction. Although there is great distance between the United States and India, this concept does not pertain to the example provided.
+	Q>The image shown was taken in Ketchikan, Alaska. Which of the following best explains the process illustrated by the image?
+		QN>Restaurant in Alaska
+		T>3.7
+		S>4.E
+		I>VH923220.g01.png
+		N>Through the process of migration, people from Texas and New York brought their cultures to Alaska.
+			E>There is no evidence in the image that the owners of the restaurant are people from Texas or New York who have relocated to Alaska, bringing Mexican and Italian culture with them.
+		N>Through the process of population growth, small villages in Alaska are rapidly expanding and becoming multicultural urban areas.
+			E>The image does not provide any evidence of population growth within the village of Ketchikan or surrounding areas.
+		N>Through the process of uniculturalism, multiple types of foods are blended together into one cuisine.
+			E>The image indicates that the restaurant serves two separate types of food rather than a single type of blended cuisine. This suggests multiculturalism rather than uniculturalism.
+		N>Through the process of ethnocentrism, American culture has spread throughout the world.
+			E>The image indicates that foods from other cultures have spread to America, as opposed to American foods spreading to other countries.
+		Y>Through the process of diffusion, ethnic cuisines may change the cultural landscape in locations far from their hearths.
+			E>The image shows a restaurant sign, which is a feature of the cultural landscape. This restaurant in Alaska serves ethnic foods that originated in Mexico and Italy. The image suggests that these ethnic cuisines diffused from their hearths and changed the cultural landscape of a distant location.
+	Q>Tikka masala is an Indian-style food that has gained popularity in the United Kingdom, despite being less common in India. Which of the following processes led to the spread of this food?
+		QN>Diffusion of a Food
+		T>3.4
+		S>1.D
+		Y>Relocation diffusion
+			E>Indian foods were introduced to the United Kingdom via relocation diffusion as part of colonial trade and South Asian migration during the British Empire era.
+		N>Contagious diffusion
+			E>Contagious diffusion would imply that food as a culture trait was passed between neighboring communities or from point to point along a route. Indian foods were introduced to the United Kingdom via relocation diffusion.
+		N>Hierarchical diffusion
+			E>Hierarchical diffusion would imply that food as a culture trait was passed down through a hierarchical political, social, or religious system or network. Indian foods were introduced to the United Kingdom via relocation diffusion.
+		N>Reverse hierarchical diffusion
+			E>Reverse hierarchical diffusion would imply that food as a culture trait was passed up through a hierarchical political, social, or religious system or network. Indian foods were introduced to the United Kingdom via relocation diffusion.
+		N>Expansion diffusion
+			E>Expansion diffusion would imply that food as a culture trait expanded outward in many directions from a central culture hearth or place of origin. Indian foods were introduced to the United Kingdom via relocation diffusion.
+	Q>Many people living in west and central African countries such as Niger, Chad, and the Central African Republic speak French. Which of the following best explains this pattern?
+		QN>French language in Africa
+		T>3.5
+		S>2.C
+		N>The French language originated in west-central Africa and diffused to Europe.
+			E>French diffused from France to Africa via imperialism and trade, including the area that is now Chad, Niger, and the Central African Republic.
+		N>Muslims brought the French language into Africa from France.
+			E>Muslims brought the Arabic language into Africa.
+		N>Slaves freed from France in the late 1800s relocated to the region that is now Niger and the Central African Republic.
+			E>France ended slavery twice (in the late 1700s and in 1848), but this did not cause French to be a significant language in many African countries. The number of former slaves who returned to Africa is not known.
+		Y>France acquired several countries in Africa as a result of decisions made during the Berlin Conference of 1884.
+			E>During the Berlin Conference of 1884, European powers divided Africa. France was granted large portions of west and central Africa, including the areas that are now Chad, Niger, and the Central African Republic. When France acquired these countries, French was introduced.
+		N>French diffused hierarchically into the largest cities of Africa after the Second World War.
+			E>While French did spread hierarchically into large cities after the Second World War, this is not the main reason for the establishment of the geographic pattern that had been in place since the Berlin Conference.
+	Q>The Arabic word sawahili means “a language of the coast.” Which of the following explains how this would relate to the Swahili language spoken today in Kenya, Tanzania, and northern Mozambique in eastern Africa?
+		QN>Swahili language in eastern Africa
+		T>3.5
+		S>2.C
+		Y>As Muslim merchants traveled to Africa, they needed to communicate with people living along the coastal areas of the Indian Ocean in order to trade, and a lingua franca developed.
+			E>Swahili is still used as a lingua franca today and contains elements of Arabic.
+		N>German colonizers needed a language that would unite all the people in their colonies.
+			E>The Germans did use Swahili, but it was already in widespread use by the time the Germans arrived in the nineteenth century.
+		N>Traders from around the world used the countries of coastal Africa to spread not just goods, but also various languages.
+			E>There were many trade posts throughout Africa, but languages from other regions did not create Swahili.
+		N>British colonizers found Swahili easy to use and encouraged its use in Africa and in Great Britain.
+			E>Swahili was used in parts of British Africa but did not spread to Great Britain itself.
+		N>As religious teachers spread Islam through Africa, many people adopted words from the Quran into the local languages, creating a new lingua franca.
+			E>Swahili developed primarily through trade, not religion.
+	Q>Orthodox Christianity was established in Ethiopia during the fourth century after diffusing up the Nile River valley from the Mediterranean Coast of Egypt. Islam expanded into North Africa and East Africa during the seventh century. Today Ethiopia’s population is 43% Orthodox Christian and 33% Muslim. Which statement best explains the composition of religious groups of Ethiopia?
+		QN>Religious groups of Ethiopia
+		T>3.5
+		S>2.C
+		N>Ethiopia is part of a regional Islamic majority.
+			E>Islam is not the majority religion in Ethiopia.
+		N>In the fourth century, kings of Ethiopia mandated that the Christian religion be followed.
+			E>Christianity was made the official religion by the king of Ethiopia in the fourth century, but this does not explain the information presented in the chart.
+		N>Protestant Christianity is the fastest-growing religion in Ethiopia.
+			E>The growth of Christianity cannot be verified from the chart because the chart does not show the growth of the religion, only the number of its adherents in the country.
+		N>Ethiopia is too far from Rome for the Roman Catholic Church to be dominant.
+			E>Distance from Rome does not explain why Christianity is the dominant religion in Ethiopia. Countries such as Brazil are far away from Rome but still have a dominant Catholic majority in the country.
+		Y>Ethiopia resisted the Islamic expansion in northern Africa.
+			E>Ethiopia is one of the few countries in northern Africa that is predominately Christian today.
+	Q>When an immigrant group moves into a new location inhabited by a larger dominant culture with a different language, which of the following is the most likely outcome?
+		QN>Immigration and language
+		T>3.6
+		S>5.B
+		N>The immigrant group will aggressively maintain their native language and prevent it from changing in order to preserve their culture.
+			E>While immigrant groups will preserve parts of their language, all languages change over time. Immigrants usually learn and use the host language.
+		N>The immigrant group will quickly abandon their language and adopt the new language in order to achieve economic success.
+			E>Language adoption is slow, and most groups will not entirely abandon their culture and traditions. Immigrants usually learn and use the host language.
+		N>The two groups will immediately create a pidgin, or trade language, in order to communicate.
+			E>In most cases, when immigrants arrive, the host society does not adapt to the immigrant needs for a lingua franca. Immigrants usually learn and use the host language.
+		N>The languages of the two groups will converge and blend into one new language.
+			E>It takes significant time for languages to evolve, and when one is the language of the entering minority group, the influence necessary to converge and blend the two languages is limited. Immigrants usually learn and use the host language.
+		N>The immigrant group will learn and use the new language, and immigrant words will enter the language of the majority population.
+			E>When immigrants learn the host language, it allows them to blend in and make economic gains. In the process, syncretism of languages also occurs.
+	Q>A fashion trend was started when an actor appeared on a television show wearing a shirt and tie of the same color. Within weeks, people began to follow this trend in both large cities and small towns across the United States. Which pair of diffusion types explains the spread of the fashion trend in this example?
+		QN>Diffusion of a fashion trend
+		T>3.6
+		S>5.B
+		N>Relocation and stimulus
+			E>Since the television star did not physically relocate, but appeared on television, this is not an example of relocation diffusion. Stimulus diffusion is not correct because people exactly copied the fashion.
+		N>Stimulus and hierarchical
+			E>Since the people did not take part of the fashion and create something new with it, this is not an example of stimulus diffusion.
+		N>Hierarchical and relocation
+			E>Hierarchical diffusion is correct, but relocation diffusion is not correct since the television star did not move to any of the places but appeared on television.
+		N>Contagious and relocation
+			E>Relocation diffusion is not correct because the television star did not move to the locations where the fashion trend diffused.
+		Y>Hierarchical and contagious
+			E>Since the fashion trend started with a television star and moved to both large cities and small towns in a short time frame, hierarchical and contagious diffusion is the correct pair.
+	Q>Which of the following concepts best explains the driving forces of contemporary cultural diffusion?
+		QN>Contemporary cultural diffusion
+		T>3.6
+		S>5.B
+		N>Cultural convergence
+			E>Cultural convergence is the tendency for cultures to become alike as they become more connected and share technology and information. It is not a driving force of contemporary cultural diffusion but rather a result of cultural diffusion.
+		Y>Space-time compression
+			E>Space-time compression refers to the way in which improvements in transportation and communication have reduced the friction of distance and permitted the very rapid diffusion of ideas across space.
+		N>Syncretism
+			E>Syncretism is the development of a new form of culture trait through the fusion of two or more distinct parent traits. It is one of the many types of diffusion stimulated by space-time compression.
+		N>Cultural divergence
+			E>Cultural divergence refers to the likelihood or tendency for cultures to become less similar with the passage of time. It is not a driving force of contemporary cultural diffusion.
+		N>Creolization
+			E>Creolization refers to the creation of new languages and cultures based on the coming together of two or more distinct groups. It is not a driving force of contemporary cultural diffusion.
+	Q>Across the Islamic world, despite different cultures and architectural styles, common features can be seen in mosque architecture. Which of the following explains the diffusion of Islamic architecture worldwide?
+		QN>Architecture and religion
+		T>3.7
+		S>4.E
+		I>VH927264.g02.png
+		Y>Islamic architectural styles spread by expansion and relocation diffusion, resulting in mosque architecture that has some design commonalities and some elements of local culture.
+			E>Islam diffused from its hearth in present-day Saudi Arabia to other areas of the world through expansion and relocation diffusion. As Islam diffused, architectural styles associated with the religion mixed with local elements to form new cultural landscapes worldwide.
+		N>Islamic architecture is highly localized and determined by the influences of local art and architecture.
+			E>Islamic architecture is neither highly localized, nor completely determined by local architectural styles as the two images from Bosnia-Herzegovina and Malaysia show mosques constructed with elements of both the local architectural styles and traditional Islamic architectural features such as domes and minarets. As Islam spread from its hearth in present-day Saudi Arabia, architectural styles associated with the religion mixed with local elements to form new cultural landscapes worldwide.
+		N>Islamic architecture worldwide is uniform and unaffected by local cultural and architectural influences.
+			E>Islamic architecture is not uniform across the world, nor is it unaffected by local cultural and architectural influences. The two images of mosques in Bosnia-Herzegovina and Malaysia reflect major Islamic architectural elements such as domes and minarets, but also incorporate local architectural styles into the details of the buildings. This is due to the fact that as Islam spread from its hearth in present-day Saudi Arabia through expansion and relocation diffusion, architectural styles associated with the religion mixed with local elements to form new cultural landscapes worldwide.
+		N>Islamic architectural styles spread through hierarchical diffusion, resulting in new architectural styles used in large cities which later diffuse to medium- and smaller-sized cities.
+			E>Islamic architectural styles did spread through hierarchical diffusion as Islamic conquerors brought new areas under their control, but the styles did not diffuse from larger areas to smaller areas. In addition, other types of expansion and relocation diffusion were present in spreading Islamic architecture worldwide. As Islam spread from its hearth in present-day Saudi Arabia through expansion and relocation diffusion, architectural styles associated with the religion mixed with local elements to form new cultural landscapes worldwide.
+		N>Islamic architectural styles spread through contagious diffusion, resulting in mosques in adjacent areas have the similar architectural features.
+			E>Islamic architecture did not only spread through contagious diffusion, but through other types of expansion and relocation diffusion as well. As Islam spread from its hearth in present-day Saudi Arabia through expansion and relocation diffusion, architectural styles associated with the religion mixed with local elements to form new cultural landscapes worldwide.
+	Q>Which of the following can be used to explain why an immigrant community that attempts to assimilate into local society would engage in political protest against the government?
+		QN>Opposition to acculturation
+		T>3.8
+		S>2.B
+		N>Sponsored refugees brought to a city far from their point of entry
+			E>Point of entry and destination are two separate locations. The point of entry is simply where an immigrant first makes landfall in the destination country. The destination for sponsored refugees will be determined before the refugees arrives by the agency or organization carrying out the sponsorship programs, who will place refugees with a with a sponsor family or institution (e.g., university, rehabilitation hospital, or nursing home). By comparison, segregating immigrants in to ethnic enclaves may lead to social and political conflicts.
+		N>New immigrants relying on friends and family for chain migration
+			E>Chain migration, the process by which family members join family previously established in the new land, most likely facilitates the processes of acculturation and assimilation with little opposition. By comparison, segregating immigrants in to ethnic enclaves may lead to social and political conflicts.
+		Y>Ethnic groups living in segregated enclaves
+			E>Ethnic enclaves can preserve the culture of a particular group by maintaining characteristics of the home country, which is in opposition to the acculturation and assimilation often attempted by newly arriving immigrants. In some cases ethnic enclaves are the result of legal restrictions against immigrants moving into certain neighborhoods, resulting in conflicts over segregation.
+		N>The division of land based on traditional land survey systems
+			E>Land survey systems are evidence of property boundaries and are not associated with acculturation or assimilation of immigrant groups. By comparison, segregating immigrants in to ethnic enclaves may lead to social and political conflicts.
+		N>Historical preservation of religious structures
+			E>Religious structures maintain the cultural landscape of original settlers in the area, but the association of these structures to the acculturation and assimilation of newly arrived immigrant groups cannot be determined. By comparison, segregating immigrants in to ethnic enclaves may lead to social and political conflicts.
+	Q>Which of the following best explains why a universalizing religion would diffuse into a region?
+		QN>Diffusion of universalizing religion
+		T>3.8
+		S>2.B
+		N>The region has a large population where many people identify as secular.
+			E>People who identify as secular do not typically follow a religious tradition and are less likely to adopt a universalizing religion diffusing into the area.
+		N>The region has a small population where many people follow an ethnic religious tradition.
+			E>Ethnic religions are often closely tied to culture, so a universalizing religion has limited potential for acceptance and successful diffusion into the region.
+		N>The region's government is actively suppressing religious expression.
+			E>A place where a government is actively suppressing religion is unlikely to adopt new religions of any type.
+		N>The region's government has declared an official religion.
+			E>A place with an official religion will likely be resistant to the diffusion of a new religion into the region.
+		Y>The region has a large population where many people already follow another universalizing religion.
+			E>A populous region where a universalizing religion is already present is likely to be more accepting of the diffusion of an additional universalizing religion.
+	Q>Sikhism grew out of a blend of Hindu and Islamic religious principles, a process best explained by which term?
+		QN>Term for Sikhism
+		T>3.8
+		S>2.B
+		N>Assimilation
+			E>Assimilation refers to leaving traits from one culture behind when living in a more dominant culture, whereas syncretism refers to a blend of more than one culture or religion.
+		N>Convergence
+			E>Convergence is typically used in the context of language, whereas syncretism is used to explain a blending of cultures or religions.
+		N>Appropriation
+			E>Appropriation refers to taking a cultural trait out of context for use in another culture, as opposed to the blending of cultural traits to create a new culture or religion.
+		N>Diffusion
+			E>Diffusion refers to the spread of cultural traits, whereas syncretism refers to blending religions or cultures.
+		Y>Syncretism
+			E>Syncretism refers to a blend of cultural traits, represented by Sikhism’s blending of Hindu and Islamic principles.
+U>4
+	Q>The area shown with the dark shading is best identified as
+		QN>Stateless nation
+		T>4.1
+		S>4.A
+		IT>BASQUE REGION
+		I>VH941434.g04.png
+		N>a functional region
+			E>A functional region would have a central node and a system or network surrounding. The area indicated on the map is Basque Country, a stateless nation.
+		N>a supranational organization
+			E>Although this region crosses international borders, it is not a supranational organization. The area indicated on the map is Basque Country, a stateless nation.
+		N>a regional free-trade zone
+			E>Although this region crosses international borders, it is not a free-trade zone as it is not recognized by the independent state governments on the political map of the region. The area indicated on the map is Basque Country, a stateless nation.
+		Y>a stateless nation
+			E>The area indicated on the map is Basque Country, the home of the Basque people, a stateless nation that is spread between part of Spain and France in the western Pyrenees. Basques are an ethnic group divided by the boundaries of these independent states.
+		N>a special economic zone
+			E>Although the area indicated on the map intersects with international borders, it is not a special economic zone as it is not designated as such by the independent state governments on the political map of the region. The area indicated on the map is Basque Country, a stateless nation.
+	Q>Local and regional autonomous governments and a separatist militia group have been established within the Basque region shown on the map. How do these local and regional governments compare with the national governments of Spain and France?
+		QN>Potential conflict
+		T>4.10
+		S>5.C
+		IT>BASQUE REGION
+		I>VH941434.g04.png
+		N>Local and regional governments establish the foundations for new federal states within each of the larger independent states.
+			E>Although an effective federal state may eventually emerge in one of the independent states shown on the map, the existence of a separatist militia is a sign of potential conflicts and is an example of centrifugal force, which may tear apart the independent states.
+		N>Local and regional governments stabilize local communities, aligning the communities with the objectives of the larger independent states.
+			E>Although the establishment of local and regional autonomous governments may stabilize local communities, the existence of a separatist militia is a sign of potential conflicts and is an example of centrifugal force, which may tear apart the independent states.
+		Y>Local and regional governments create the potential for conflict and act as a centrifugal force within the larger independent states.
+			E>Local and regional governments create the potential for conflict and act as a centrifugal force within the larger independent states.
+		N>Local and regional governments strengthen the unitary systems of government within the larger independent states.
+			E>Unitary government at the scale of the independent state would be in conflict with autonomous local and regional governments. The existence of a separatist militia is a sign of potential conflicts and is an example of centrifugal force, which may tear apart the independent states.
+		N>Local and regional governments create a stronger geopolitical region and act as a centripetal force within the larger independent states.
+			E>Rather than strengthening the geopolitical region and acting as a centripetal force, the existence of a separatist militia is a sign of potential conflicts. This is an example of centrifugal force, which may tear apart the independent states.
+	Q>South Sudan gained its independence in 2011, reshaping the boundaries of Sudan. Which of the following best explains the implications of the shaded area shown on the map in Darfur?
+		QN>East Africa Map
+		T>4.2
+		S>3.E
+		IT>Political Map, Northeast Africa
+		I>VR022249.g02.png
+		N>Like South Sudan, Darfur has gained its independence and is now a sovereign nation-state.
+			E>Darfur is a region of Sudan. Although there is devolutionary pressure within Darfur, Darfur is not an independent state. The shading on the map implies that Darfur currently lacks clearly defined boundaries but suggests that Darfur is an area where political boundaries may change in the future.
+		N>Devolution is likely in Sudan as the country is a multinational state with no distinct majority group.
+			E>Sudanese Arabs are in the majority in Sudan. The shading on the map implies that Darfur is a region within Sudan. The shading on the map implies that Darfur currently lacks clearly defined boundaries but suggests that Darfur is an area where political boundaries may change in the future.
+		Y>Darfur is a region of ethnic difference and political instability where devolution is likely.
+			E>Darfur is a region of Sudan where ethnic differences and armed conflict create devolutionary pressure. The shading on the map implies that Darfur currently lacks clearly defined boundaries but suggests that Darfur is an area where political boundaries may change in the future.
+		N>Devolution is likely in South Sudan as it is landlocked country with no distinct majority group.
+			E>South Sudan already devolved as a sovereign state independent from Sudan. The shading on the map implies that Darfur currently lacks clearly defined boundaries but suggests that Darfur is an area where political boundaries may change in the future.
+		N>Sudan has a large population with a distinct majority group and further devolution is unlikely.
+			E>Devolution in the Darfur region of Sudan is still possible. The shading on the map implies that Darfur currently lacks clearly defined boundaries but suggests that Darfur is an area where political boundaries may change in the future.
+	Q>The map shows the world’s newest country, South Sudan, formerly part of Sudan, and the Islamic region of Darfur, which is seeking some level of political autonomy within Sudan. In comparison with the east-west divide between Darfur and the rest of Sudan, which of the following centrifugal forces led South Sudan to seek independence from Sudan?
+		QN>East Africa Map
+		T>4.10
+		S>5.C
+		IT>Political Map, Northeast Africa
+		I>VR022249.g02.png
+		N>South Sudan wanted a larger share of productive oil resources located in Ethiopia and Eritrea.
+			E>After gaining its independence, South Sudan received a small amount of Sudan’s oil resources, but the main factors leading to the creation of a new state were cultural. A Muslim majority in the north and a Christian majority in the south resulted in tension and civil war that was part of a larger regional conflict between Islamic groups in North Africa and countries in the mainly Christian and animist regions of sub-Saharan Africa.
+		N>Sudan filed for bankruptcy in the International Court, whereas South Sudan grew wealthy from international trade.
+			E>Sudan never filed for bankruptcy; instead, differences among ethnic groups led to conflict. A Muslim majority in the north of Sudan and a Christian majority in the south resulted in tension and civil war that was part of a larger regional conflict between Islamic groups in North Africa and countries in the mainly Christian and animist regions of sub-Saharan Africa.
+		N>Sudan and South Sudan are home to one homogeneous nation in terms of religion and ethnicity.
+			E>Sudan and South Sudan were never homogeneous in nature. Tensions arose in Sudan and South Sudan because of a Muslim majority in the north and a Christian majority in the south. This religious divide resulted in tension and civil war that was part of a larger regional conflict between Islamic groups in North Africa and countries in the mainly Christian and animist regions of sub-Saharan Africa.
+		N>Sudan established a military presence in the region of South Sudan following a referendum vote, prompting a conflict.
+			E>A referendum vote did occur before South Sudan was established as an independent state. However, the referendum was not in itself a centrifugal force. A Muslim majority in the north of Sudan and a Christian majority in the south resulted in tension and civil war that was part of a larger regional conflict between Islamic groups in North Africa and countries in the mainly Christian and animist regions of sub-Saharan Africa.
+		Y>Sudan and South Sudan’s border is a transition zone between Africa’s Islamic northern region and the Christian and animist regions of sub-Saharan Africa.
+			E>Religious differences acted as a centrifugal force within Sudan, prompting South Sudan to gain its independence. The main factors leading to the creation of a new state were cultural. A Muslim majority in the north of Sudan and a Christian majority in the south resulted in tension and civil war that was part of a larger regional conflict between Islamic groups in North Africa and countries in the mainly Christian and animist regions of sub-Saharan Africa.
+	Q>In 1993 Belgium divided much of its internal government into three semiautonomous regions. Based on the data shown in the map, which of the following best explains the political divisions within Belgium?
+		QN>Belgium semiautonomy and devolution
+		T>4.8
+		S>3.E
+		IT>BELGIUM, INTERNAL REGIONS
+		I>VR022295.g02.png
+		N>Each region is separated from the others by physical barriers that impede communication and trade among regions.
+			E>Although there is some topographic variation in Belgium, the country’s internal divisions are not primarily due to physical barriers. Instead, Belgium is divided into regions based on linguistic groups. French is the dominant language of Wallonia, while Dutch and its Flemish dialects are the dominant languages of Flanders.
+		N>Regions are delineated based upon the percent of population that speaks French as a first or second language.
+			E>The data indicate that a total of 86% of the population speaks French as either a first or second language. These percentages do not account for Belgium’s internal divisions. Instead, Belgium is divided into regions based on linguistic groups. French is the dominant language of Wallonia, while Dutch and its Flemish dialects are the dominant languages of Flanders.
+		Y>Divisions are based on language, providing ethnic groups some self-governance and preserving Belgium as a federal state.
+			E>Belgium is divided into regions based on linguistic groups. French is the dominant language of Wallonia, while Dutch and its Flemish dialects are the dominant languages of Flanders. Belgium’s internal divisions give these regions a degree of autonomy while preserving Belgium as a single state.
+		N>The population is evenly divided between French speakers and Flemish speakers.
+			E>The data indicate that a majority of the population speaks Flemish as a first language. Belgium is divided into regions based on linguistic groups. French is the dominant language of Wallonia, while Dutch and its Flemish dialects are the dominant languages of Flanders.
+		N>Divisions are based on ethnicity, recognizing the country’s linguistic diversity and preserving Belgium as a multistate nation.
+			E>Although it is true that Belgium’s internal divisions are based on ethnicity and language, Belgium is not a multistate nation. Instead, it is a multinational state. Belgium is divided into regions based on linguistic groups. French is the dominant language of Wallonia, while Dutch and its Flemish dialects are the dominant languages of Flanders.
+	Q>Based on the map data, which of the following best explains a factor that has led to ethnic separatism in Belgium?
+		QN>Belgium ethnic separatism
+		T>4.8
+		S>3.E
+		IT>BELGIUM, INTERNAL REGIONS
+		I>VR022295.g02.png
+		N>A multilingual society has emerged, with several languages being spoken by the overall population.
+			E>Although several languages are spoken in Belgium and many people are multilingual, not all Belgians speak all of the country’s major languages. Many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+		N>It is true that Wallonia has a larger population than Flanders or Brussels. However, this is not a major factor contributing to ethnic separatism. Linguistic factors play a greater role in this process. Many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+			E>It is true that Wallonia has a larger population than Flanders or Brussels. However, this is not a major factor contributing to ethnic separatism. Linguistic factors play a greater role in this process. Many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+		N>A relatively small number of native French-speakers use Flemish as a second language. Many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+			E>A relatively small number of native French-speakers use Flemish as a second language. Many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+		Y>Many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+			E>The data indicate that 54% speak Flemish as a first language and 50% speak French as a second language, while 36% speak French as a first language and 16% speak Flemish as a second language. This uneven linguistic distribution is one factor that contributes to ethnic separatism in Belgium.
+		N>While Belgium is a multinational and multicultural state, the data shown do not provide enough information to draw a conclusion about personal identity in Belgium. The data indicate that many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+			E>While Belgium is a multinational and multicultural state, the data shown do not provide enough information to draw a conclusion about personal identity in Belgium. The data indicate that many who speak Flemish as their first language also speak French, but few people who speak French as their first language also speak Flemish.
+	Q>Some communities along the internal border between Flanders and Wallonia are required by Belgian federal law to have bilingual local governments, with road signs and government publications in Flemish and French. Some nearby communities refuse to permit a census of language users because they are concerned that the results will trigger federal requirements for a bilingual local government. Which of the following geographic concepts best explains the efforts to preserve a single official language in such communities?
+		QN>Belgium territoriality and scale
+		T>4.5
+		S>5.D
+		IT>BELGIUM, INTERNAL REGIONS
+		I>VR022295.g02.png
+		N>Choke points, because local communities are defining themselves as exclusively Flemish or French.
+			E>A choke point is a point of congestion or blockage. In this example, local communities are expressing territoriality through the connection of people, culture, and language to the land.
+		N>Protectionism, because these communities exclude services and international trade conducted in different languages.
+			E>Protectionism relates to protecting domestic trade from international competition. In this example, local communities are expressing territoriality through the connection of people, culture, and language to the land.
+		N>Shatterbelts, because linguistic divisions are the result of different political-economic systems at the national and international scales.
+			E>Belgium is not part of a shatterbelt. In this example, local communities are expressing territoriality through the connection of people, culture, and language to the land.
+		N>Relict boundaries, because cultural divisions have become irrelevant in these local communities.
+			E>Relict boundaries are boundaries that are no longer used. In these communities, cultural divisions are still relevant. Local communities are expressing territoriality through the connection of people, culture, and language to the land.
+		Y>Territoriality, because communities are expressing power and political control over the landscape.
+			E>In this example, local communities are expressing territoriality through the connection of people, culture, and language to the land.
+	Q>Which of the following identifies the primary building blocks of the world political map shown?
+		QN>Building blocks of geopolitics
+		T>4.1
+		S>4.A
+		I>VH941430.g01.png
+		N>Nations
+			E>The nation is the basic building block for understanding ethnicity within the study of political geography. By comparison, independent states are the basic building blocks of the world political map. Many independent states are multinational states composed of more than one nation. Unless they are exclaves or islands, these nations are not shown separately on the world political map.
+		N>Multinational states
+			E>Independent states are the basic building blocks of the world political map. Many independent states are multinational states composed of more than one nation. Unless they are exclaves or islands, these nations are not shown separately on the world political map.
+		Y>Independent states
+			E>The world political map is divided into independent states that are bounded by the areas for which they have sovereignty. For example, the United Kingdom is a multinational state that includes England, Scotland, Wales, and Northern Ireland. The Republic of Ireland is a nation-state. These two independent states are divided along the Northern Ireland border on the world political map.
+		N>Autonomous regions
+			E>Autonomous regions are areas within independent states that have some degree of self-government. By comparison, independent states are the basic building blocks of the world political map.
+		N>Multistate nations
+			E>Multistate nations are a unit of ethnicity at the global scale. The populations of some ethnic groups exist within more than one independent state. For example, ethnic Irish are spread across Ireland, the United Kingdom, the United States, Australia, Canada, and some countries in Latin America. By comparison, independent states are the basic building blocks of the world political map.
+	Q>Based on the information shown in the map, Nigeria can be identified as a
+		QN>Characteristics of Nigeria
+		T>4.1
+		S>4.A
+		IT>ETHNOLINGUISTIC AREAS IN NIGERIA
+		I>VH961131.g01.png
+		Y>multinational state
+			E>The ethnic diversity in Nigeria represents a multinational state.
+		N>nation-state
+			E>A nation-state is best characterized by a large degree of homogeneity, not the diversity seen in Nigeria. Nigeria is a multinational state
+		N>colonial power
+			E>Nigeria was subject to British imperialism, but was not a colonial power itself. The ethnic diversity as a result of superimposed borders during the colonial era resulted in the creation of a multinational state.
+		N>choke point
+			E>Choke points are narrow routes of passage between regions located at strategic positions. The situation described in Nigeria represents a multinational state.
+		N>multistate nation
+			E>Multistate nations represents one nation spanning across multiple states. The ethnic diversity within the state of Nigeria constitutes a multinational state.
+	Q>The Falkland Islands War took place in 1982 between Argentina and Great Britain, when Argentina’s military invaded the small British overseas territory in the South Atlantic Ocean. British forces reclaimed the islands after a short war. Using the information shown, which of the following geographic principles explains the conflict in the Falkland Islands?
+		QN>Reasons for conflict in South Atantic
+		T>4.2
+		S>3.E
+		I>Screenshot 2023-04-29 185232.png
+		N>Irredentism and the desire to form a nation-state
+			E>There is not a South Atlantic indigenous or cultural group rooted in the Falklands from which to form a nation-state or irredentist movement. The Falkland Islands War was the result of two countries claiming sovereignty over the same group of islands.
+		Y>Overlapping claims of sovereignty
+			E>Colonial land claims by European countries often overlapped those of existing countries or the land claims of other imperial powers. The Falkland Islands War was the result of two countries claiming sovereignty over the same group of islands.
+		N>A political independence movement against the ruling colonial power
+			E>There is not a colonized indigenous population rooted in the Falklands from which to form an independence movement. The Falkland Islands War was the result of two countries claiming sovereignty over the same group of islands as a result of colonial-era land claims.
+		N>The establishment of territorial seas
+			E>Under the United Nations Convention on the Law of the Sea, territorial seas extend 12 nautical miles out from the shore of each country. The 182-mile distance to the South American mainland is well beyond the 24-mile combined territorial sea limits. The Falkland Islands War was the result of two countries claiming sovereignty over the same group of oceanic islands.
+		N>Ethnic and religious differences that led to the devolution of a state
+			E>Although Argentina is primarily Roman Catholic and the United Kingdom in predominately Protestant, neither religion nor ethnicity was the cause of the dispute. The Falkland Islands War was the result of two countries claiming sovereignty over the same group of islands as a result of colonial-era land claims.
+	Q>Which of the following best explains why the countries shown in the table experienced increases in economic productivity?
+		QN>Table showing economic gain
+		T>4.2
+		S>3.E
+		IT>SELECTED EASTERN EUROPEAN COUNTRIES
+		I>Screenshot 2023-04-29 185713.png
+		N>Irredentism in former communist states and political divisions among ethnic and religious groups
+			E>Although irredentism followed the end of communism in some cases, this had little effect economically. As a result of these countries joining the European Union, free-market trade and investment led to significant increases in per capita economic production.
+		N>Dissolving of the Warsaw Pact and economic alliances made with former republics of the Soviet Union
+			E>The end of the Warsaw Pact as a military alliance had little economic impact. As a result of these countries joining the European Union, free-market trade and investment led to significant increases in per capita economic production.
+		N>The rise of Russia as an emerging world economy and the economic impacts on its nearby trading partners
+			E>Russia's economic emergence had limited impact on its trading partners. As a result of these countries joining the European Union, free-market trade and investment led to significant increases in per capita economic production.
+		N>Independence following the end of the Cold War and admission to the North American Treaty Organization (NATO)
+			E>Although admission to NATO resulted in some increase in government foreign military aid, membership had limited economic impact. As a result of these countries joining the European Union, free-market trade and investment led to significant increases in per capita economic production.
+		Y>Self-determination following decline of communism and admission as member states to the European Union
+			E>After the fall of communism in Europe and the gaining of political self-determination, several eastern European countries applied for membership in the European Union. As a result of their admission to the European Union, free-market trade and investment led to significant increases in per capita economic production.
+	Q>Despite the rise of supranationalism in Europe from 1955 to 1993, the number of independent political entities increased. Based on a comparison of the two maps shown, which of the following processes occurred in Europe during that time period?
+		QN>Twentieth century processes in Europe
+		T>4.9
+		S>5.C
+		IT>BORDER CHANGES IN EUROPE
+		I>VH941546.g01.png
+		Y>Devolution of large states into smaller nation-states
+			E>The 1993 map shows more countries than the 1955 map. Several of the larger countries, including the Soviet Union and Yugoslavia, split into multiple smaller countries. This indicates that the process of devolution occurred between 1955 and 1993.
+		N>Cultural globalization reducing ethnic differences
+			E>Although globalization can have the effect of lessening the differences between culture groups, it is not so powerful that it would eliminate borders between states. The maps show that devolution occurred as some larger countries split into multiple smaller countries.
+		N>Annexation of smaller states into larger states
+			E>Annexation occurs when one country takes control of another country's territory. The maps do not indicate annexation. Instead, the maps show that devolution occurred as some larger countries split into multiple smaller countries.
+		N>Redistricting the internal boundaries of federal states
+			E>Redistricting refers to the process of redrawing electoral district boundaries within the United States. This process is not applicable at the international scale or in the locations shown on the maps. The maps show that devolution occurred as some larger countries split into multiple smaller countries.
+		N>Territorial expansion of imperial states
+			E>Territoriality refers to the connection of people, their culture, and their economic systems to the land. It is not possible to draw conclusions about territoriality based on the maps shown. The maps show that devolution occurred as some larger countries split into multiple smaller countries.
+	Q>The geopolitical setting of which of the following countries can be explained by its membership in the Warsaw Pact during the Cold War and its location along the European shatterbelt?
+		QN>Country in the Warsaw Pact
+		T>4.3
+		S>5.B
+		N>France
+			E>For much of the Cold War, France belonged to NATO (North Atlantic Treaty Organization), the counterpart to the Warsaw Pact, during the Cold War in Europe. Bulgaria was under the influence of the Soviet Union and the satellite countries in Eastern Europe during the Cold War and was part of the Warsaw pact. The Eastern European satellite countries were a shatterbelt during the Cold War.
+		Y>Bulgaria
+			E>Bulgaria was under the influence of the Soviet Union and the satellite countries in Eastern Europe during the Cold War and was part of the Warsaw Pact. The Eastern European satellite countries were a shatterbelt during the Cold War.
+		N>Italy
+			E>Italy was a member of NATO during the Cold War, which was established by Western European countries to counteract the expansion of the Warsaw Pact. Bulgaria was under the influence of the Soviet Union and the satellite countries in Eastern Europe during the Cold War and was part of the Warsaw pact. The Eastern European satellite countries were a shatterbelt during the Cold War.
+		N>Switzerland
+			E>Switzerland remained neutral during the Cold War and was neither a member of NATO nor the Warsaw Pact. Bulgaria was under the influence of the Soviet Union and the satellite countries in Eastern Europe during the Cold War and was part of the Warsaw pact. The Eastern European satellite countries were a shatterbelt during the Cold War.
+		N>Belgium
+			E>Belgium was a member of NATO during the Cold War and was not a part of the Warsaw Pact. Bulgaria was under the influence of the Soviet Union and the satellite countries in Eastern Europe during the Cold War and was part of the Warsaw pact. The Eastern European satellite countries were a shatterbelt during the Cold War.
+	Q>The map shows the Taiwan Strait. Which of the following best explains the global geopolitical significance of the Taiwan Strait?
+		QN>Significance of the Taiwan Strait
+		T>4.3
+		S>5.B
+		I>VH941564.g01.png
+		N>The Taiwan Strait is a cultural boundary that separates populations of Chinese people who speak different languages.
+			E>The map shows that the Taiwan Strait is located between China and Taiwan. Both the Chinese and the Taiwanese primarily speak Mandarin Chinese. Because China claims the Taiwan Strait as its territory, the Taiwan Strait is a militarily strategic chokepoint for international transit.
+		N>The Taiwan Strait serves as a major international shipping route that serves large economies, such as South Korea, Japan, and the United States.
+			E>The map shows that the Taiwan Strait is a narrow passage located between China and Taiwan. Most major international shipping routes within the region do not pass through the Taiwan Strait. Because China claims the Taiwan Strait as its territory, the Taiwan Strait is a militarily strategic chokepoint for international transit.
+		Y>The Taiwan Strait is a militarily strategic chokepoint that China and Taiwan claim as territory.
+			E>The map shows that the Taiwan Strait is located within 200 nautical miles of both China and Taiwan. Since China claims Taiwan as its territory, China claims the Taiwan Strait as part of its territorial waters. This creates a choke point for international transit through the strait.
+		N>The Taiwan Strait creates an obstacle to trade between Taiwan and China and hinders the region’s economy.
+			E>The map shows that the Taiwan Strait is located between China and Taiwan. Although the political relationship between China and Taiwan creates obstacles to trade, China and Taiwan are located in close proximity. This proximity would make trade easy based on geography alone. Because China claims the Taiwan Strait as its territory, the Taiwan Strait is a militarily strategic chokepoint for international transit.
+		N>The Taiwan Strait is a remnant of the colonial relationship between China, Taiwan, and European countries.
+			E>The map shows that the Taiwan Strait is located between China and Taiwan. China and Taiwan have never had a colonial or neocolonial relationship. Instead, China views Taiwan as a Chinese province. Because China claims the Taiwan Strait as its territory, the Taiwan Strait is a militarily strategic chokepoint for international transit.
+	Q>Which of the following statements is helpful in explaining why Iran and the United Arab Emirates (UAE) are able to assert some control over the export of oil from the Persian Gulf oil-production region?
+		QN>Distribution of oil in the Persian Gulf area
+		T>4.3
+		S>5.B
+		I>VH941427.g01.png
+		N>Both Iran and the UAE have coastlines along the Arabian Sea and thus have the easiest access to global markets.
+			E>The Arabian Sea is the site of major ship travel but not as critical as the Strait of Hormuz with regard to oil distribution.
+		Y>Their location along the choke point of the Strait of Hormuz allows them to influence ship movement into and out of the Persian Gulf.
+			E>Political power can be wielded by controlling the major choke points of global trade, and Iran and the UAE are located along the choke point of the Strait of Hormuz allowing them control over ship movement into and out of the Persian Gulf.
+		N>Both Iran and the UAE border the Persian Gulf, a location of large oil deposits, and thus have the greatest offshore oil claims.
+			E>Control of the Persian Gulf is important, but it is the access to the Persian Gulf through the Strait of Hormuz that provides greater political influence.
+		N>Their close proximity to the large Asian markets of Japan and China give them an economic advantage over other OPEC countries.
+			E>The control of the flow of ships into and out of the Persian Gulf is more critical than being a few hundred miles closer to Asia because it is access to the Persian Gulf through the Strait of Hormuz that provides greater political influence.
+		N>As the founding members of OPEC, they hold the largest influence over OPEC policies and decisions.
+			E>The map shows that the Taiwan Strait is located between China and Taiwan. China and Taiwan have never had a colonial or neocolonial relationship. Instead, China views Taiwan as a Chinese province. Because China claims the Taiwan Strait as its territory, the Taiwan Strait is a militarily strategic chokepoint for international transit.
+	Q>The political boundaries of North Africa and the Middle East can best be described as the product of which of the following processes?
+		QN>Boundaries and Imperialism
+		T>4.4
+		S>1.D
+		N>Devolution
+			E>Devolution is the flow of power from the central government to smaller units, which may result in the creation of a new country but does not necessarily cause geometric boundaries to be drawn. The geometric political boundaries in these regions were drawn by European imperial powers in the twentieth century without regard to the existing cultural landscape of the region.
+		Y>Imperialism
+			E>The geometric political boundaries in these regions were drawn by European imperial powers in the twentieth century without regard to the existing cultural landscape of the region.
+		N>Self-determination
+			E>Countries in these regions were given the right to self-determination and sovereignty through the process of decolonization, but they did not draw their own borders. Rather, the geometric boundaries seen on the map were drawn by European imperial powers without regard to the existing cultural landscape.
+		N>Democratization
+			E>Many countries in these regions adopted democratic forms of governance, but this does not have a significant impact on their geometric political boundaries. The borders were created as a result of European imperial powers who drew boundaries in the region without regard to the existing cultural landscape.
+		N>Supranationalism
+			E>Supranationalism refers to multiples countries forming a multinational organization to pursue common goals for mutual benefit. Countries in these regions have participated in the process of supranationalism, but supranationalism does not result in the creation of international boundaries. The geometric political boundaries in these regions were drawn by European imperial powers in the twentieth century without regard to the existing cultural landscape of the region.
+	Q>Which of the following types of political boundaries best describe the border between the United States and Canada?
+		QN>United States and Canada border type
+		T>4.4
+		S>1.D
+		N>Relict
+			E>A relict boundary is no longer active, but it may still impact the cultural landscape. The boundary between the United States and Canada is a current international boundary and follows a geometric series of surveyed lines.
+		N>Militarized
+			E>A militarized boundary is heavily fortified and discourages people from crossing. This is not the case at the boundary between the United States and Canada, which is a geometric series of surveyed straight lines.
+		Y>Geometric
+			E>A geometric boundary is a straight line or series of straight lines that do not relate to physical or cultural differences. Much of the land boundary between the United States and Canada occurs in a straight line along the 49th parallel, or as a series of straight surveyed lines running from Lake Ontario to the Gulf of Maine.
+		N>Open
+			E>An open boundary allows completely unrestricted crossing. It is illegal to cross between the United States and Canada outside of border crossings. The boundary between the United States and Canada is a current international boundary and mostly follows a geometric series of surveyed straight lines.
+		N>Gerrymandered
+			E>Gerrymandering is the process of redrawing the boundaries of electoral districts within the United States. It is not a type of international boundary. The boundary between the United States and Canada is an international boundary and mostly follows a geometric series of surveyed straight lines.
+	Q>In locations such as the Caribbean Sea, international borders between island states are determined by the United Nations Convention on the Law of the Sea. These maritime boundaries can best be described as
+		QN>Boundaries in the Caribbean
+		T>4.4
+		S>1.D
+		N>relict borders
+			E>A relict border would be a boundary that once existed but is no longer in use. Current borderlines between islands are superimposed on the water surface.
+		Y>superimposed borders
+			E>As a result of the United Nations Convention on the Law of the Sea, the borderlines between islands are superimposed on the water surface.
+		N>subsequent borders
+			E>A subsequent border would be the result of historical patterns of settlement and activity in the cultural landscape. Current borderlines between islands are superimposed on the water surface.
+		N>antecedent borders
+			E>An antecedent border would have existed as a boundary prior to the settlement of the present-day cultural landscape. Current borderlines between islands are superimposed on the water surface.
+		N>consequent borders
+			E>A consequent border would be the result of current patterns of settlement and activity in the cultural landscape. Current borderlines between islands are superimposed on the water surface.
+	Q>Which of the following best explains the primary function of international political boundaries?
+		QN>Function of political boundaries
+		T>4.5
+		S>5.D
+		N>Boundaries define national identity and encourage a patriotism that make local cultures recognizable.
+			E>National identity and patriotism toward a state are not always defined or bounded by political borders. Political boundaries represent the spatial extent of a state's territorial power and sovereignty.
+		N>Boundaries limit international trade and improve regional economies within the country.
+			E>Trade can extend beyond borders and still influence the economy of a state, as is the case with countries who are heavily reliant upon imports or dependent on certain exports. Political boundaries represent the spatial extent of a state's territorial power and sovereignty.
+		Y>Boundaries limit sovereignty and determine the extent of a state's power within the global political system.
+			E>Political boundaries represent the spatial extent of a state's territorial power and sovereignty.
+		N>Boundaries promote international relations between neighboring states and encourage peace.
+			E>Political borders do not always neatly fit the cultural landscape and conflicts can result from ethnic and political differences within a state's boundaries. Political boundaries represent the spatial extent of a state's territorial power and sovereignty.
+		N>Boundaries resolve disputes over water resources and determine which countries have the right to extract water.
+			E>Resources such as fisheries and rivers that cross boundaries can be sources of conflict between neighboring states. Political boundary lines represent the spatial extent of a state's territorial power and sovereignty.
+	Q>The cultural composition of the Philippines and its constituent islands affects the political stability of the country. Which of the following patterns is best explained by the data in the tables?
+		QN>Devolution in the Philippines
+		T>4.8
+		S>3.E
+		I>Screenshot 2023-04-29 224405.png
+		N>An even dispersal of Muslims around the country, leading to assimilation
+			E>The Philippine Muslim population is highly concentrated on the island of Mindanao; therefore, this separation will not lead to assimilation. The majority of the Philippine population are Roman Catholic, and religious differences with the country’s Muslim minority leads to ethnic separatism.
+		N>An even dispersal of Muslims around the country, leading to ethnic separatism
+			E>The Philippine Muslim population is not evenly dispersed, but the high concentration of Muslims on the island of Mindanao does lead to ethnic separatism.
+		N>An even dispersal of Muslims around the country, leading to irredentism
+			E>The Philippine Muslim population is not evenly dispersed, as this population is highly concentrated on the island of Mindanao. This pattern has not led to irredentism, as this is more common in mainland areas where ethnicities overlap political boundaries on land.
+		N>A concentration of the majority of the country’s Muslim population on one island, leading to assimilation
+			E>The Philippine Muslim population is highly concentrated on the island of Mindanao; therefore, this separation will not lead to assimilation. The majority of the Philippine population are Roman Catholic, and religious differences with the country’s Muslim minority leads to ethnic separatism.
+		Y>A concentration of the majority of the country’s Muslim population on one island, leading to ethnic separatism
+			E>A concentration of the majority of the country’s Muslim population on one island, leading to ethnic separatism
+	Q>The photograph shows guards at the Truce Village of Panmunjom within the demilitarized zone (DMZ) that divides the Korea Peninsula into North Korea and South Korea. The DMZ border was agreed upon as part of Korean Armistice Agreement at the end of the Korean War in 1953. Which of the following best explains the effect of the DMZ on the Korean Peninsula as a culture region?
+		QN>North Korea South Korea boundary
+		T>4.5
+		S>5.D
+		IT>PANMUNJOM, DEMILITARIZED ZONE, KOREAN PENINSULA
+		I>VH961270.g02.png
+		N>North and South Korea are divided into two distinct nations that have separate cultures and heritages.
+			E>Ethnically, North and South Korea are both home to the Korean ethnic group and the same nation, not two distinct nations. Because the Korean ethnic group spans both North and South Korea, the Koreans form a multistate nation.
+		N>North and South Korea constitute one sovereign state that have two separate regional governments.
+			E>North and South Korea are each their own sovereign state. Rather, the Korean nation forms a multistate nation spanning both North and South Korea.
+		Y>The Korean people are divided into a multistate nation that has a common heritage and ethnicity.
+			E>Since the Korean people are ethnically the same, this makes for one nation divided over the two states of North and South Korea.
+		N>North Korea is a semiautonomous region of South Korea that has self-governance over its military.
+			E>North Korea is not a region of South Korea; it is a sovereign state. The Koreans form a multistate nation that occupies both North and South Korea.
+		N>North Korea is a stateless nation within South Korea that does not have a representative government.
+			E>North Korea is a sovereign state, already independent of South Korea. The Koreans form a multistate nation that occupies both North and South Korea.
+	Q>The population counts shown in the table would most likely be used for which of the following purposes?
+		QN>Reapportionment Data Tables
+		T>4.6
+		S>5.A
+		I>Screenshot 2023-04-29 224830.png
+		N>The reapportionment and redistricting of the United States Senate that occurs every 10 years
+			E>The United States Senate has two members per state, and that number does not deviate, nor are there senate districts as each senator represents the whole state. Following the decennial census each state may be reapportioned, and may gain or lose seats in the United States House of Representatives.
+		Y>The reapportionment and redistricting of the of the United States House of Representatives that occurs every 10 years
+			E>Following the decennial census each state may be reapportioned, and may gain or lose seats in the United States House of Representatives. Once the census is reported, each state with more than one seat in the House of Representatives must go through redistricting.
+		N>The redistricting of the electoral college that occurs every 10 years
+			E>Numbers in the electoral college are decided by total members of Congress and not by redistricting. Following the decennial census each state may be reapportioned, and may gain or lose seats in the United States House of Representatives.
+		N>The reapportionment of the United States Congress when members of Congress change their political party affiliation
+			E>Members of Congress may change their political party, but it does not change the state or district they serve. Following the decennial census each state may be reapportioned, and may gain or lose seats in the United States House of Representatives.
+		N>The reapportionment of the United States Congress when members of Congress move from one state to another
+			E>Members of Congress cannot move to another state without giving up their seat in Congress. Following the decennial census each state may be reapportioned, and may gain or lose seats in the United States House of Representatives.
+	Q>Residents of Maryland’s Third District could legally challenge the redistricting of the area shown on the map because they identify it as being
+		QN>Example of gerrymandering
+		T>4.6
+		S>5.A
+		I>VH961857.g01.png
+		N>a sovereign boundary created to promote the establishment of an independent state
+			E>Congressional districts are not sovereign boundaries and do not promote the establishment of independent states because congressional districts are divisions utilized by the United States federal government. The oddly shaped district was drawn to increase a political party’s power within the United States House of Representatives. Residents could challenge the redistricting of the Third District on the grounds of gerrymandering.
+		N>part of the federal state, which grants proportional representation in the United States House of Representatives
+			E>Maryland’s Third District is part of the federal state which grants proportional representation in the United States House of Representative, but this would not lead residents of the Third District to legally challenge redistricting. The oddly shaped district was drawn to increase a political party’s power within the United States House of Representatives. Residents could challenge the redistricting of the Third District on the grounds of gerrymandering.
+		N>a maritime boundary that extends out into the waters of the Chesapeake Bay
+			E>The boundaries of a congressional district are not maritime boundaries that extend into water, they are boundaries drawn on the surface of the land. The oddly shaped district was drawn to increase a political party’s power within the United States House of Representatives. Residents could challenge the redistricting of the Third District on the grounds of gerrymandering.
+		Y>a gerrymandered boundary that guarantees a political party’s seat within the United States House of Representatives
+			E>The oddly shaped district was drawn to increase a political party’s power within the United States House of Representatives to either link voters of similar political parties or to spread voters of a political party among many districts. Residents could challenge the redistricting of the Third District on the grounds of gerrymandering.
+		N>part of an autonomous region that limits the State of Maryland’s control over the district.
+			E>Maryland’s Third District is not part of an autonomous region that limited Maryland’s control over the district, it is incorporates into the federal system of government in the United States. The oddly shaped district was drawn to increase a political party’s power within the United States House of Representatives. Residents could challenge the redistricting of the Third District on the grounds of gerrymandering.
+	Q>Which of the following identifies the scale of governance that would be most affected by an individual local voter in Purcellville?
+		QN>Internal scales of government
+		T>4.6
+		S>5.A
+		IT>ELECTED REPRESENTATIVES FOR THE TOWN OF PURCELLVILLE, VIRGINIA
+		I>Screenshot 2023-04-29 225250.png
+		Y>Virginia House of Delegates
+			E>As one voter out of a few tens of thousands of votes, the voter in Purcellville has far more influence within a state delegate district than in other elections where there are hundreds of thousands to millions of voters.
+		N>Virginia Senate
+			E>The state senate election has the potential for an election with over a hundred of thousand voters. By comparison the state delegate election is much smaller and a single voter has far greater influence over the selection of a candidate.
+		N>United States House of Representatives
+			E>The United States House of Representatives election has the potential for an election with several hundred of thousand voters. By comparison the state delegate election is much smaller and a single voter has far greater influence over the selection of a candidate.
+		N>United States Senate
+			E>The United States Senate election has the potential for an election with several million voters. By comparison the state delegate election is much smaller and a single voter has far greater influence over the selection of a candidate.
+		N>President of the United States
+			E>The United States Senate election has the potential for an election with well over one hundred million voters. By comparison the state delegate election is much smaller and a single voter has far greater influence over the selection of a candidate.
+	Q>Which of the following describes a typical spatial relationship between federal and unitary states?
+		QN>Size of unitary states
+		T>4.7
+		S>2.A
+		N>Federal states tend to be smaller than unitary states.
+			E>Federal states tend to be larger than unitary states because it is more difficult to govern a large, diverse territory through a centralized government.
+		Y>Unitary states tend to be smaller than federal states.
+			E>Unitary states tend to be smaller than federal states. Federal states tend to be larger because it is more difficult to govern a large, diverse territory through a centralized unitary government.
+		N>Unitary states tend to be more densely populated than federal states.
+			E>A country’s system of government is not directly related to its population density. Federal states tend to be larger than unitary states because it is more difficult to govern a large, diverse territory through a centralized government.
+		N>Federal states tend to have a more urban population than unitary states.
+			E>A country’s system of government is not directly related to its level of urbanization. Federal states tend to be larger than unitary states because it is more difficult to govern a large, diverse territory through a centralized government.
+		N>Federal states are more likely to be landlocked than unitary states.
+			E>A country’s system of government is not directly related to its location relative to the sea. Federal states tend to be larger than unitary states because it is more difficult to govern a large, diverse territory through a centralized government.
+	Q>Which of the following features is a common characteristic of unitary states?
+		QN>Characteristic of unitary state
+		T>4.7
+		S>2.A
+		N>A primarily agricultural society
+			E>Unitary states are not characterized by agricultural societies. A unitary state’s defining feature is a single powerful capital from which the entire territory is governed.
+		N>Dispersed power centers
+			E>This more accurately describes a federal state. A unitary state’s defining feature is a single powerful capital from which the entire territory is governed.
+		N>Specific physical geographical features
+			E>Specific physical geographical features are not a part of the definition of a unitary state. A unitary state’s defining feature is a single powerful capital from which the entire territory is governed.
+		N>A weak hold on power over territory
+			E>While possibly a feature of such a state, it is far from a certainty. A unitary state’s defining feature is a single powerful capital from which the entire territory is governed.
+		Y>A strong central capital
+			E>A unitary state’s defining feature is a single powerful capital from which the entire territory is governed.
+	Q>Which of the following describes a unitary state?
+		QN>Description of a unitary state
+		T>4.7
+		S>2.A
+		N>An ethnically homogeneous state where all citizens identify as members of the same nation
+			E>A unitary state is a state in which sovereignty and power reside with the central government. Unitary states are not necessarily ethnically homogeneous. A unitary state has a top-down, centralized form of governance.
+		Y>A state in which government decisions are made at the national level and applied uniformly across the state
+			E>A unitary state has a top-down, centralized form of governance.
+		N>A state in which one leader and one party have complete political, economic, and social control
+			E>This description applies to an authoritarian state. Unitary states are not necessarily authoritarian. A unitary state has a top-down, centralized form of governance.
+		N>A state in which subunits are granted independent constitutional authority
+			E>This description applies to a federal state. Unitary states have a more centralized government. A unitary state has a top-down, centralized form of governance.
+		N>A state that is geographically contiguous with no fragmented land areas separated from the rest of the state
+			E>This describes the physical boundaries of a state, rather than a system of governance. A unitary state has a top-down, centralized form of governance.
+	Q>Which of the following statements accurately compares the processes of devolution and supranationalism that challenge the sovereignty of Canada?
+		QN>Devolution and supranationalism in Canada
+		T>4.9
+		S>5.C
+		N>Centripetal forces are present in Quebec, whereas the free-trade agreement between the United States, Canada, and Mexico is a centrifugal force on a national level.
+			E>Quebec becoming independent would be a result of centrifugal or devolutionary forces, not centripetal forces, while the shift in the free-trade agreement between the United States, Canada, and Mexico is supranational rather than centrifugal. Both examples challenge sovereignty at the national level because the Canadian government is not able to exercise complete control in either circumstance.
+		N>Centripetal forces are present in Quebec, whereas the free-trade agreement between the United States, Canada, and Mexico challenges the Canadian government’s independence on a national level.
+			E>Quebec becoming independent would be an example of devolution due to centrifugal forces, not centripetal forces. The shift in the free-trade agreement between the United States, Canada, and Mexico is a result of supranationalism as it involves Canada, Mexico, and the United States. Both examples challenge sovereignty at the national level because the Canadian government is not able to exercise complete control in either circumstance.
+		Y>Centrifugal forces are present in Quebec, whereas the free-trade agreement between the United States, Canada, and Mexico challenges the Canadian government’s independence on a national level.
+			E>Both examples challenge sovereignty at the national level because the Canadian government is not able to exercise complete control in either circumstance: an independent Quebec would arise as a result of devolutionary forces as Canada would lose all control over the region. Canada must work together with Mexico and the United States as a part of a free-trade agreement that is intended to benefit all countries involved.
+		N>Centripetal forces are present in Quebec, whereas the free-trade agreement between the United States, Canada, and Mexico is a governance issue at the provincial scale.
+			E>Centripetal forces pull a country together, so a move to independence would be the result of centrifugal forces in Quebec. The free-trade agreement between the United States, Canada, and Mexico is a result of supranationalism at the national level, not the provincial scale. Both examples challenge sovereignty at the national level because the Canadian government is not able to exercise complete control in either circumstance.
+		N>Centrifugal forces are present in Quebec, whereas the free-trade agreement between the United States, Canada, and Mexico is a governance issue at the provincial scale.
+			E>Centrifugal forces are present in Quebec, but the free-trade agreement between the United States, Canada, and Mexico is a result of supranationalism, not devolution. Both examples challenge sovereignty at the national level because the Canadian government is not able to exercise complete control in either circumstance.
+	Q>Which of the following technological examples is best used to compare the effects of local-scale and global-scale political challenges to state sovereignty?
+		QN>Interactions at different scales
+		T>4.9
+		S>5.C
+		N>Laptop computers used by aid agencies in nation-building
+			E>Laptop computers used by aid agencies in nation-building could impact state sovereignty at the national or global, not the local, levels. Cell phones can be used to weaken corrupt governments by giving citizens a way to encourage dissent and spread ideas at both local and global scales while providing a way to work around state-sponsored censoring of the Internet and other media outlets.
+		N>Social media Web sites supporting supranational organizations
+			E>Social media Web sites supporting supranational organizations could have an effect on sovereignty by encouraging membership in these organizations, but they would not have an impact at the local level. Cell phones can be used to weaken corrupt governments by giving citizens a way to encourage dissent and spread ideas at both local and global scales while providing a way to work around state-sponsored censoring of the Internet and other media outlets.
+		N>Internet filters restricting the spread of globalization
+			E>Internet filters restricting access to certain things usually occurs at the national/global level because censoring is usually sponsored by the government of a country, not local authorities. Cell phones can be used to weaken corrupt governments by giving citizens a way to encourage dissent and spread ideas at both local and global scales while providing a way to work around state-sponsored censoring of the Internet and other media outlets.
+		Y>Cell phone use weakening corrupt governments
+			E>Cellphones can be used to weaken corrupt governments by giving citizens a way to encourage dissent and spread ideas at both local and global scales while providing a way to work around state-sponsored censoring of the Internet and other media outlets.
+		N>Satellite image analysis contributing to devolution
+			E>Satellite image analysis of the physical landscape would not encourage devolution at the local or global levels and therefore would not challenge state sovereignty. Cell phones can be used to weaken corrupt governments by giving citizens a way to encourage dissent and spread ideas at both local and global scales while providing a way to work around state-sponsored censoring of the Internet and other media outlets.
+	Q>Which of the following is the best example of centrifugal forces operating at the local scale as compared to the national or international scale?
+		QN>Centrifugal forces at the local scale
+		T>4.10
+		S>5.C
+		N>A failed state
+			E>A failed state is an extreme consequence of centrifugal forces, but it is at a national scale, not a local scale. Uneven development is an example of a localized consequence of centrifugal forces.
+		N>Increased cultural cohesion
+			E>Increased cultural cohesion is more likely to be an effect of centripetal forces. Uneven development is an example of a localized consequence of centrifugal forces.
+		N>Increased social equity
+			E>Increased social equity is more likely to be an effect of centripetal forces. Uneven development is an example of a localized consequence of centrifugal forces.
+		N>A stateless nation
+			E>A stateless nation is an extreme consequence of centrifugal forces, but at the national scale or larger, not the local scale. Uneven development is an example of a localized consequence of centrifugal forces.
+		Y>Uneven development
+			E>Uneven development is an example of a localized consequence of centrifugal forces.
+U>5
 	Q>
-		P>
+		QN>
 		T>
+		S>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+U>6
+	Q>
+		QN>
+		T>
+		S>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+U>7
+	Q>
+		QN>
+		T>
+		S>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+U>8
+	Q>
+		QN>
+		T>
+		S>
 		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
 			E>
 		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
@@ -785,60 +1642,4 @@ U>3
 		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
 			E>
 		N>fadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffsfadadsffffffffffffffffffffffffffffffffffffffffffs
-			E>
-U>4
-	Q>
-		P>
-		T>
-		N>
-			E>
-		N>
-			E>
-		Y>
-			E>
-		N>
-			E>
-		N>
-			E>
-U>5
-	Q>
-		P>
-		T>
-		N>
-			E>
-		N>
-			E>
-		Y>
-			E>
-		N>
-			E>
-		N>
-			E>
-U>6
-	Q>
-		P>
-		T>
-		N>
-			E>
-		N>
-			E>
-		Y>
-			E>
-		N>
-			E>
-		N>
-			E>
-U>7
-	Q>
-		P>
-		T>
-		N>
-			E>
-		N>
-			E>
-		Y>
-			E>
-		N>
-			E>
-		N>
 			E>
