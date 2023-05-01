@@ -1584,10 +1584,515 @@ U>4
 		Y>Uneven development
 			E>Uneven development is an example of a localized consequence of centrifugal forces.
 U>5
+	Q>The images show examples of agricultural technology developed during different time periods. Which of the following statements is best supported by the images?
+		QN>Agricultural Revolutions
+		T>5.4
+		S>4.D
+		IT>IMAGE 1
+		I>VH968961.g01.png
+		IT>IMAGE 2
+		I>VH968961.g02.png
+		Y>Image 2 shows an innovation that occurred in the Second Agricultural Revolution, reducing the amount of labor needed and increasing crop yields.
+			E>Tractors with internal combustion engines with aerator and planter attachments, as shown in image 2, were developed in the Second Agricultural Revolution. This type of technology increased yields and allowed farms to operate with fewer laborers.
+		N>Image 2 shows an innovation that occurred late in the First Agricultural Revolution, increasing farmers' profits.
+			E>Tractors with internal combustion engines with aerator and planter attachments, as shown in image 2, were developed in the Second Agricultural Revolution.
+		N>Image 1 shows an innovation that occurred early in the Second Agricultural Revolution resulting in more sustainable livestock production.
+			E>Plows, as shown in image 1, were developed in the First Agricultural Revolution. Tractors with internal combustion engines, as shown in image 2, were developed in the Second Agricultural Revolution.
+		N>Image 2 shows an innovation that occurred in the Third Agricultural Revolution, resulting in a diffusion of agricultural practices to less developed countries.
+			E>The Third Agricultural Revolution is another term for the Green Revolution, which took place during the twentieth century. Tractors with internal combustion engines with aerator and planter attachments, as shown in image 2, were developed in the Second Agricultural Revolution.
+		N>Image 1 shows an innovation that occurred early in the Third Agricultural Revolution, improving the standard of living for small farmer families.
+			E>The Third Agricultural Revolution is another term for the Green Revolution, which took place during the twentieth century. Plows, as shown in image 1, were developed in the First Agricultural Revolution. Tractors with internal combustion engines, as shown in image 2, were developed in the Second Agricultural Revolution.
+	Q>Which of the following correctly compares the significance of the different technologies shown in the images?
+		QN>Agricultural Revolutions
+		T>5.4
+		S>4.D
+		IT>IMAGE 1
+		I>VH968961.g01.png
+		IT>IMAGE 2
+		I>VH968961.g02.png
+		Y>Invention of the plow eased the intensive use of labor, and the innovation of mechanized farm equipment led to improved food production.
+			E>Image 1 shows technology improvements of the First Agricultural Revolution, and image 2 shows technology improvements of the Second Agriculture Revolution. Both resulted in improved food production, better diet, and longer life expectancy at the time.
+		N>Invention of the plow enabled an increase in production during the Green Revolution while protecting the environment and reducing pollution from mechanized farm equipment.
+			E>The plow in image 1 was an innovation of the First Agricultural Revolution, not the Green Revolution where the primary goal was the development of high-yield seeds. Plowing with draft animals is still used today where technology is too expensive or conditions do not allow for the use of tractors (for example, hillside cultivation).
+		N>The mechanized farm equipment shown in image 2 is solely responsible for the improved yields of the Green Revolution over yields produced by the draft animal and plow shown in image 1.
+			E>Although technology such as that in image 2 did lead to more production, the larger yields of the Green Revolution were due to genetically modified seeds, commercial fertilizers, and new pesticides and herbicides.
+		N>The method used to tend the crop in image 2 is more labor intensive than the method used to tend the crop in image 1.
+			E>Labor intensity is generally measured in person hours and physical exertion. Image 2 shows the use of technology allowing one farmer to till much more land than the farmer in image 1. Image 2 also uses more energy in terms of fossil fuels.
+		N>Both images show practices that led to shorter life expectancies due to the long hours of labor required for farming and exposure to unhealthy conditions despite the improvements in technology.
+			E>Although farming does require long hours of labor and exposure to some unhealthy conditions, increased food production and better diet have resulted in a longer life expectancy overall.
+	Q>Which of the following best explains the spatial patterns illustrated in von Thünen’s model?
+		QN>Von Thunen model
+		T>5.8
+		S>5.B
+		I>VR022318.g02.png
+		N>The cost-to-distance ratio of the land-rent curve indicates that the highest-cost land is in large-scale plots on the outermost ring of the model.
+			E>The highest-cost land is in the innermost ring of the model. Labor-intensive farming of vegetables is done in small-scale plots in market gardens. Less labor-intensive agriculture is done on less-expensive land farther away from the market town.
+		N>The cost-of-labor inputs are related to a crop's distance from the market, as more labor-intensive farming is done in large-scale plots far from the market town.
+			E>Labor-intensive farming of vegetables is done in small-scale plots in market gardens at the center of the model. Less labor-intensive agriculture is done on less-expensive land farther away from the market town.
+		N>Highly perishable agricultural goods are produced in small-scale plots far from the market town, so that they can be more quickly traded with other communities.
+			E>Highly perishable goods are produced near the market center for consumption, processing, or preservation. Labor-intensive farming of vegetables is done in small-scale plots in market gardens. Less labor-intensive agriculture is done on less-expensive land farther away from the market town.
+		Y>Labor-intensive farming of vegetables is done in small-scale plots in market gardens, while extensive grain crops are grown in large-scale fields far from the market town.
+			E>Labor-intensive products such as vegetables or dairy are the done on the most expensive land at the center of the model. Less labor-intensive agriculture is done on less-expensive land farther away from the market town.
+		N>Labor-intensive planting and harvests of wheat and corn are done in small-scale plots in market gardens, while less labor-intensive pasturing of sheep or beef cattle takes place in large-scale plots on the outermost ring of the model.
+			E>For grain crops, only occasional labor is needed for planting and harvesting. Labor-intensive farming of vegetables is done in small-scale plots in market gardens. Less labor-intensive agriculture is done on less-expensive land farther away from the market town.
+	Q>Which of the following best explains why in the model the amount of land used for dairying is much smaller than the pasture used for beef cattle?
+		QN>Von Thunen model
+		T>5.8
+		S>5.B
+		I>VR022318.g02.png
+		N>Dairy cows are small in numbers compared to beef cattle and are less costly to transport over long distances as a result of the smaller herd size.
+			E>While dairy herds may be smaller in size, they must be brought in for milking twice or more each day. Dairy’s high labor inputs and perishable product require dairy cows to be kept close to market towns.
+		Y>Dairy cows must be kept close to farmhouses, as they require daily milking, and milk must be produced close to consumers, as it is highly perishable.
+			E>In the model, the principle of cost-to-distance is regulated by the amount of labor required to produce a crop. Dairy requires high labor inputs and has a perishable product that require it to be produced in smaller farms close to market towns.
+		N>Dairy cows are more expensive and should be kept close to farmers to prevent theft compared to less expensive beef cattle that can be kept in remote pastures.
+			E>Although theft may be a concern of farmers, it is not the best answer to explain the pattern in the model. Dairy’s high labor inputs and perishable product require dairy cows to be kept close to market towns.
+		N>Beef cattle are small in numbers compared to dairy cows and are less costly to transport over long distances as a result of the smaller herd size.
+			E>Beef herds tend to be large in number and require more space for grazing. Dairy’s high labor inputs and perishable product require dairy cows to be kept close to market towns.
+		N>Beef cattle must be transported to the market town for frequent feedings and as a result need more space for herding.
+			E>Beef tend to be kept in remote pastures unless brought market towns for sale. Dairy’s high labor inputs and perishable product require dairy cows to be kept close to market towns.
+	Q>A typical grocery store in the United States may sell oranges grown primarily in California during part of the year and oranges grown primarily in South Africa during a different part of the year. Which of the following explains why oranges are available year-round in the United States?
+		QN>Agricultural Practices
+		T>5.1
+		S>2.D
+		Y>Grocery stores sell oranges that are grown in locations with similar climates but different growing seasons.
+			E>Parts of California and South Africa share a Mediterranean climate ideal for growing oranges. However, these two regions have different growing seasons that allow the year-round demand for oranges in the United States to be met.
+		N>Grocery stores sell oranges that are grown in locations with similar growing seasons but different climates.
+			E>Each region has a different growing season, but they have a similar Mediterranean climate that allows for orange cultivation.
+		N>Customers have seasonal demands for different varieties of oranges.
+			E>Demand for oranges by consumers is year-round in the United States. Buying seasonally from different regions such as California and South Africa allows this constant demand to be met.
+		N>Different varieties of oranges are grown for different markets.
+			E>While there are different varieties of oranges, most markets simply demand oranges of any type. California and South Africa both produce oranges to meet the demand by consumers.
+		N>Grocery stores sell oranges that are grown in locations with similar climates but different prices for oranges.
+			E>Imported oranges probably cost more than domestically grown oranges, but that price differential will exist all year. Therefore, differences in prices would not explain the change in where oranges come from.
+	Q>Which of the following best explains the significance of a similarity among locations where olives, figs, grapes and lemons are grown?
+		QN>Areas where olives and figs are grown
+		T>5.1
+		S>2.D
+		N>Extensive agriculture is practiced in a humid continental climate.
+			E>Crops such as corn, soybeans, apples, and potatoes are typical of a humid continental climate, which is found in areas such as the northern United States.
+		N>Plantation agriculture is practiced in a tropical wet climate.
+			E>Crops such as coffee, cacao, bananas, and sugar cane are typical of a tropical wet climate, which is found in countries such as Guatemala.
+		N>Intensive agriculture is practiced in a humid subtropical climate.
+			E>Crops such as tomatoes, quinoa, peanuts, and sugar beets are typical of a humid subtropical climate, which is found in areas such as the southeast United States.
+		N>Extensive agriculture is practiced in a tropical wet and dry climate.
+			E>Crops such as rice, yams, okra, and plantains are typical of a tropical wet and dry climate, which is found in countries such as Nigeria.
+		Y>Intensive agriculture is practiced in a Mediterranean climate.
+			E>These crops are typical of a Mediterranean climate, which is found in countries such as Italy and South Africa.
+	Q>Which of the following best explains the significance of similarities between the farming practices for apple orchards and grape vineyards?
+		QN>Farming practice similarities
+		T>5.1
+		S>2.D
+		N>Both farming practices occur in the same climate region, which is found in places such as Italy and South Africa.
+			E>Apple farming is not a Mediterranean agriculture practice found in Italy and South Africa, but grape farming is. Both crops require intensive agriculture practices and large inputs of labor.
+		Y>Both farming practices require considerable labor input because the fruit is picked by hand, making it a product of intensive agriculture.
+			E>Both are intensive agriculture practices requiring large inputs of labor to prune, maintain, harvest, and process fruit.
+		N>Both farming practices are used for tropical plantation crops grown on large estates with hired labor who plant and harvest crops.
+			E>Neither farming practice is considered plantation agriculture. Both crops require intensive agriculture practices and large inputs of labor.
+		N>According to von Thünen, both farming practices occur in the outermost areas of agricultural land.
+			E>Von Thünen's model places grain crops and pastures in the outermost agricultural lands. Both crops require intensive agriculture practices and large inputs of labor.
+		N>According to land-rent theory, both farming practices are found on small farms and must be located close to markets.
+			E>Although both crops require intensive agriculture products and large inputs of labor, orchards and vineyards need not be small or located close to local consumers.
+	Q>Agricultural settlement patterns are partly determined by the survey system used to organize landownership. Which of the following best describes the survey methods used to delineate agricultural land and the associated settlement patterns shown in the two images?
+		QN>Rural survey methods and settlement patterns
+		T>5.2
+		S>4.D
+		I>VH969128.g01.png
+		I>VH969128.g02.png
+		Y>The first image shows a long-lot survey method with a linear settlement pattern, and the second image shows a metes-and-bounds survey method with a dispersed settlement pattern.
+			E>The images show two different rural survey methods with distinctive settlement patterns. The first image depicts the long-lot survey method with a linear settlement pattern, popular with the French and found also in Quebec, Canada. The second image depicts the metes-and-bounds system with a dispersed settlement pattern found throughout the eastern United States.
+		N>The first image shows a long-lot survey method with a linear settlement pattern, and the second image shows a township-and-range survey method with a clustered settlement pattern.
+			E>While the first image does show the long-lot system with a linear settlement pattern, the second image does not show the township-and-range survey method but instead shows the metes-and-bounds survey method with a dispersed settlement pattern. The township-and-range system is used throughout the western United States but is not shown in either of the images.
+		N>The first image shows a long-lot survey method with a clustered settlement pattern, and the second image shows a metes-and-bounds survey method with a linear settlement pattern.
+			E>While the first image does show the long-lot survey method and the second image shows the metes-and-bounds survey method, the settlement patterns are not correct as stated. The pattern in the first image shown is linear, not clustered, and the settlement pattern in the second image is dispersed, not linear.
+		N>The first image show a metes-and-bounds survey system with a dispersed settlement pattern, and the second image shows a township-and-range survey method with a linear settlement pattern.
+			E>The survey method shown in the first image is the long-lot survey method with a linear settlement pattern, not a metes-and-bounds survey method with a dispersed settlement pattern. The survey method shown in the second image is not a township-and-range survey method with the linear settlement pattern but a metes-and-bounds survey method with a dispersed settlement pattern.
+		N>The first image shows a township-and-range survey system with a linear settlement pattern, and the second image shows a long-lot survey method with a dispersed settlement pattern.
+			E>Although the settlement pattern is linear in the first image, the survey method is not a township-and-range survey system but the long-lot survey method. While the settlement pattern is identified correctly as dispersed in the second image, the long-lot survey method is not correct. The survey method in the second image is metes and bounds.
+	Q>Which of the following best describes the settlement patterns shown in the images?
+		QN>Survey system settlement patterns
+		T>5.2
+		S>4.D
+		I>VH969128.g01.png
+		I>VH969128.g02.png
+		N>The township-and-range system results in a widely dispersed population, whereas the metes-and-bounds system results in a random, dispersed population pattern.
+			E>One image does show the metes-and-bounds system, but the other image shows the long-lot system rather than the township-and-range system. The long-lot system results in population clustered along a waterway, whereas the metes-and-bounds system results in a dispersed population pattern.
+		N>The metes-and-bounds system results in population clustered along a waterway, whereas the long-lot system results in a random, dispersed population pattern.
+			E>The images do show the long-lot survey system and the metes-and-bounds survey system. However, the long-lot survey system is centered on a waterway to maximize settlers’ access to the waterway. The metes-and-bounds system is more variable, with settlements located in a more randomized pattern across land parcels.
+		N>The township system results in a more urban population distribution, while the long-lot system results in a more rural population distribution.
+			E>One image does show the long-lot system, but the other system shows the metes-and-bounds system rather than the township system. The long-lot system results in population clustered along a waterway, whereas the metes-and-bounds system results in a dispersed population pattern.
+		Y>The long-lot system results in population clustered along a waterway, whereas the metes-and-bounds system results in a random, dispersed population pattern.
+			E>The images show the long-lot survey system and the metes-and-bounds survey system. The long-lot survey system is centered on a waterway to maximize settlers’ access to the waterway. The metes-and-bounds system is more variable, with settlements located in a more randomized pattern across land parcels.
+		N>The irregular large estate system reinforces divisions based on socioeconomic status, while the metes-and-bounds system is more egalitarian.
+			E>One image does show the metes-and-bounds system, but the other image shows the long-lots system. Neither system directly relates to socioeconomic status. The long-lot system results in population clustered along a waterway, whereas the metes-and-bounds system results in a dispersed population pattern.
+	Q>Which of the following best describes the survey system used in both locations shown?
+		QN>Rural settlement patterns
+		T>5.2
+		S>4.D
+		I>VH971782.g02.png
+		N>Long lot: nucleated linear settlements with all of the houses arranged along a road or river
+			E>Nucleated linear settlements are typical of the French long-lot system wherein holdings are long and linear, bordering on a river or road. The township-and-range survey system resulted in scattered or dispersed farmsteads with occasional villages.
+		N>Circular rural settlements: a ring of houses that surround a central open space for keeping livestock
+			E>Circular rural settlements with a central open space for keeping livestock surrounded by a ring of houses is a characteristic of farming villages in Africa, not the United States. The township-and-range survey system in the United States results in a grid or true square pattern with scattered or dispersed farmsteads with occasional villages.
+		Y>Township and range: unit-block field patterns with dispersed farmsteads and occasional villages
+			E>The township-and-range system seen west of the Mississippi River in the United States imposed a grid over the land in 1-square-mile sections that were sold as sections, half sections, or quarter sections. This pattern resulted in scattered or dispersed farmsteads with occasional villages.
+		N>Fragmented: land-holdings that allow each farmer a variety of fields dispersed through the community
+			E>Fragmented landholdings that allow each farmer a variety of fields dispersed through the community are generally the result of inheritance laws where land is divided equally among heirs and not the result of survey systems. The township-and-range system surveys lands to be a grid or true square pattern and results in scattered or dispersed farmsteads with occasional villages.
+		N>Metes and bounds: irregular field patterns with clustered farmsteads in river valleys.
+			E>Irregular field patterns with clusters of farm holdings are typical of the metes-and-bounds survey system used in the eastern United States. The township-and-range systems system surveys lands to be a grid or true square pattern and results in scattered or dispersed farmsteads with occasional villages.
 	Q>
-		QN>
-		T>
-		S>
+		QN>Domestication of wheat
+		T>5.3
+		S>2.B
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Columbian Exchange scenario
+		T>5.3
+		S>2.B
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Patterns of Diffusion
+		T>5.3
+		S>2.B
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Second Agriculture Revolution
+		T>5.4
+		S>4.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Green Revolution
+		T>5.5
+		S>2.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Negative consequence of Green Revolution
+		T>5.5
+		S>2.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Green Revolution
+		T>5.5
+		S>2.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Agricultural Production Regions
+		T>5.6
+		S>2.E
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Agricultural Production Regions
+		T>5.6
+		S>4.C
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Intensive Agricultural Practice
+		T>5.6
+		S>2.E
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Economies of Scale
+		T>5.7
+		S>2.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Global Wheat Production
+		T>5.7
+		S>2.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Technology and economies of scale
+		T>5.7
+		S>2.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>von Thunen Model
+		T>5.8
+		S>5.B
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Patterns of Agriculture
+		T>5.9
+		S>5.B
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Global System of Agriculture
+		T>5.9
+		S>5.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Global supply chain
+		T>5.9
+		S>5.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Consequences of agricultural practices
+		T>5.10
+		S>2.E
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Consequences of Agricultural Practices
+		T>5.10
+		S>2.E
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Environmental Issues
+		T>5.10
+		S>2.E
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Fair Trade Agriculture
+		T>5.11
+		S>4.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Beef production
+		T>5.11
+		S>4.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Second Agricultural Revolution
+		T>5.11
+		S>4.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Roles of women in Rural Families
+		T>5.12
+		S>3.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Women working in agriculture
+		T>5.12
+		S>3.D
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+		N>
+			E>
+	Q>
+		QN>Female roles in agriculture
+		T>5.12
+		S>3.D
 		N>
 			E>
 		N>
